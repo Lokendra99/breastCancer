@@ -1,4 +1,4 @@
-
+[
   {
     "id": 842302,
     "diagnosis": "M",
@@ -31,8 +31,7 @@
     "concavity_worst": 0.7119,
     "concave points_worst": 0.2654,
     "symmetry_worst": 0.4601,
-    "fractal_dimension_worst": 0.1189,
-
+    "fractal_dimension_worst": 0.1189
   },
   {
     "id": 842517,
@@ -66,8 +65,7 @@
     "concavity_worst": 0.2416,
     "concave points_worst": 0.186,
     "symmetry_worst": 0.275,
-    "fractal_dimension_worst": 0.08902,
-
+    "fractal_dimension_worst": 0.08902
   },
   {
     "id": 84300903,
@@ -101,8 +99,7 @@
     "concavity_worst": 0.4504,
     "concave points_worst": 0.243,
     "symmetry_worst": 0.3613,
-    "fractal_dimension_worst": 0.08758,
-
+    "fractal_dimension_worst": 0.08758
   },
   {
     "id": 84348301,
@@ -136,8 +133,7 @@
     "concavity_worst": 0.6869,
     "concave points_worst": 0.2575,
     "symmetry_worst": 0.6638,
-    "fractal_dimension_worst": 0.173,
-
+    "fractal_dimension_worst": 0.173
   },
   {
     "id": 84358402,
@@ -171,8 +167,7 @@
     "concavity_worst": 0.4,
     "concave points_worst": 0.1625,
     "symmetry_worst": 0.2364,
-    "fractal_dimension_worst": 0.07678,
-
+    "fractal_dimension_worst": 0.07678
   },
   {
     "id": 843786,
@@ -206,8 +201,7 @@
     "concavity_worst": 0.5355,
     "concave points_worst": 0.1741,
     "symmetry_worst": 0.3985,
-    "fractal_dimension_worst": 0.1244,
-
+    "fractal_dimension_worst": 0.1244
   },
   {
     "id": 844359,
@@ -241,8 +235,7 @@
     "concavity_worst": 0.3784,
     "concave points_worst": 0.1932,
     "symmetry_worst": 0.3063,
-    "fractal_dimension_worst": 0.08368,
-
+    "fractal_dimension_worst": 0.08368
   },
   {
     "id": 84458202,
@@ -276,8 +269,7 @@
     "concavity_worst": 0.2678,
     "concave points_worst": 0.1556,
     "symmetry_worst": 0.3196,
-    "fractal_dimension_worst": 0.1151,
-
+    "fractal_dimension_worst": 0.1151
   },
   {
     "id": 844981,
@@ -311,8 +303,7 @@
     "concavity_worst": 0.539,
     "concave points_worst": 0.206,
     "symmetry_worst": 0.4378,
-    "fractal_dimension_worst": 0.1072,
-
+    "fractal_dimension_worst": 0.1072
   },
   {
     "id": 84501001,
@@ -346,8 +337,7 @@
     "concavity_worst": 1.105,
     "concave points_worst": 0.221,
     "symmetry_worst": 0.4366,
-    "fractal_dimension_worst": 0.2075,
-
+    "fractal_dimension_worst": 0.2075
   },
   {
     "id": 845636,
@@ -381,8 +371,7 @@
     "concavity_worst": 0.1459,
     "concave points_worst": 0.09975,
     "symmetry_worst": 0.2948,
-    "fractal_dimension_worst": 0.08452,
-
+    "fractal_dimension_worst": 0.08452
   },
   {
     "id": 84610002,
@@ -416,8 +405,7 @@
     "concavity_worst": 0.3965,
     "concave points_worst": 0.181,
     "symmetry_worst": 0.3792,
-    "fractal_dimension_worst": 0.1048,
-
+    "fractal_dimension_worst": 0.1048
   },
   {
     "id": 846226,
@@ -451,8 +439,7 @@
     "concavity_worst": 0.3639,
     "concave points_worst": 0.1767,
     "symmetry_worst": 0.3176,
-    "fractal_dimension_worst": 0.1023,
-
+    "fractal_dimension_worst": 0.1023
   },
   {
     "id": 846381,
@@ -486,8 +473,7 @@
     "concavity_worst": 0.2322,
     "concave points_worst": 0.1119,
     "symmetry_worst": 0.2809,
-    "fractal_dimension_worst": 0.06287,
-
+    "fractal_dimension_worst": 0.06287
   },
   {
     "id": 84667401,
@@ -521,8 +507,7 @@
     "concavity_worst": 0.6943,
     "concave points_worst": 0.2208,
     "symmetry_worst": 0.3596,
-    "fractal_dimension_worst": 0.1431,
-
+    "fractal_dimension_worst": 0.1431
   },
   {
     "id": 84799002,
@@ -556,8 +541,7 @@
     "concavity_worst": 0.7026,
     "concave points_worst": 0.1712,
     "symmetry_worst": 0.4218,
-    "fractal_dimension_worst": 0.1341,
-
+    "fractal_dimension_worst": 0.1341
   },
   {
     "id": 848406,
@@ -591,8 +575,7 @@
     "concavity_worst": 0.2914,
     "concave points_worst": 0.1609,
     "symmetry_worst": 0.3029,
-    "fractal_dimension_worst": 0.08216,
-
+    "fractal_dimension_worst": 0.08216
   },
   {
     "id": 84862001,
@@ -626,8 +609,7 @@
     "concavity_worst": 0.4784,
     "concave points_worst": 0.2073,
     "symmetry_worst": 0.3706,
-    "fractal_dimension_worst": 0.1142,
-
+    "fractal_dimension_worst": 0.1142
   },
   {
     "id": 849014,
@@ -661,8 +643,7 @@
     "concavity_worst": 0.5372,
     "concave points_worst": 0.2388,
     "symmetry_worst": 0.2768,
-    "fractal_dimension_worst": 0.07615,
-
+    "fractal_dimension_worst": 0.07615
   },
   {
     "id": 8510426,
@@ -696,8 +677,7 @@
     "concavity_worst": 0.239,
     "concave points_worst": 0.1288,
     "symmetry_worst": 0.2977,
-    "fractal_dimension_worst": 0.07259,
-
+    "fractal_dimension_worst": 0.07259
   },
   {
     "id": 8510653,
@@ -731,8 +711,7 @@
     "concavity_worst": 0.189,
     "concave points_worst": 0.07283,
     "symmetry_worst": 0.3184,
-    "fractal_dimension_worst": 0.08183,
-
+    "fractal_dimension_worst": 0.08183
   },
   {
     "id": 8510824,
@@ -766,8 +745,7 @@
     "concavity_worst": 0.08867,
     "concave points_worst": 0.06227,
     "symmetry_worst": 0.245,
-    "fractal_dimension_worst": 0.07773,
-
+    "fractal_dimension_worst": 0.07773
   },
   {
     "id": 8511133,
@@ -801,8 +779,7 @@
     "concavity_worst": 0.6305,
     "concave points_worst": 0.2393,
     "symmetry_worst": 0.4667,
-    "fractal_dimension_worst": 0.09946,
-
+    "fractal_dimension_worst": 0.09946
   },
   {
     "id": 851509,
@@ -836,8 +813,7 @@
     "concavity_worst": 0.3155,
     "concave points_worst": 0.2009,
     "symmetry_worst": 0.2822,
-    "fractal_dimension_worst": 0.07526,
-
+    "fractal_dimension_worst": 0.07526
   },
   {
     "id": 852552,
@@ -871,8 +847,7 @@
     "concavity_worst": 0.4695,
     "concave points_worst": 0.2095,
     "symmetry_worst": 0.3613,
-    "fractal_dimension_worst": 0.09564,
-
+    "fractal_dimension_worst": 0.09564
   },
   {
     "id": 852631,
@@ -906,8 +881,7 @@
     "concavity_worst": 0.3853,
     "concave points_worst": 0.255,
     "symmetry_worst": 0.4066,
-    "fractal_dimension_worst": 0.1059,
-
+    "fractal_dimension_worst": 0.1059
   },
   {
     "id": 852763,
@@ -941,8 +915,7 @@
     "concavity_worst": 0.5539,
     "concave points_worst": 0.2701,
     "symmetry_worst": 0.4264,
-    "fractal_dimension_worst": 0.1275,
-
+    "fractal_dimension_worst": 0.1275
   },
   {
     "id": 852781,
@@ -976,8 +949,7 @@
     "concavity_worst": 0.3446,
     "concave points_worst": 0.149,
     "symmetry_worst": 0.2341,
-    "fractal_dimension_worst": 0.07421,
-
+    "fractal_dimension_worst": 0.07421
   },
   {
     "id": 852973,
@@ -1011,8 +983,7 @@
     "concavity_worst": 0.6335,
     "concave points_worst": 0.2024,
     "symmetry_worst": 0.4027,
-    "fractal_dimension_worst": 0.09876,
-
+    "fractal_dimension_worst": 0.09876
   },
   {
     "id": 853201,
@@ -1046,8 +1017,7 @@
     "concavity_worst": 0.2489,
     "concave points_worst": 0.1456,
     "symmetry_worst": 0.2756,
-    "fractal_dimension_worst": 0.07919,
-
+    "fractal_dimension_worst": 0.07919
   },
   {
     "id": 853401,
@@ -1081,8 +1051,7 @@
     "concavity_worst": 0.6133,
     "concave points_worst": 0.1848,
     "symmetry_worst": 0.3444,
-    "fractal_dimension_worst": 0.09782,
-
+    "fractal_dimension_worst": 0.09782
   },
   {
     "id": 853612,
@@ -1116,8 +1085,7 @@
     "concavity_worst": 0.6956,
     "concave points_worst": 0.1546,
     "symmetry_worst": 0.4761,
-    "fractal_dimension_worst": 0.1402,
-
+    "fractal_dimension_worst": 0.1402
   },
   {
     "id": 85382601,
@@ -1151,8 +1119,7 @@
     "concavity_worst": 0.5588,
     "concave points_worst": 0.1847,
     "symmetry_worst": 0.353,
-    "fractal_dimension_worst": 0.08482,
-
+    "fractal_dimension_worst": 0.08482
   },
   {
     "id": 854002,
@@ -1186,8 +1153,7 @@
     "concavity_worst": 0.6091,
     "concave points_worst": 0.1785,
     "symmetry_worst": 0.3672,
-    "fractal_dimension_worst": 0.1123,
-
+    "fractal_dimension_worst": 0.1123
   },
   {
     "id": 854039,
@@ -1221,8 +1187,7 @@
     "concavity_worst": 0.5274,
     "concave points_worst": 0.1864,
     "symmetry_worst": 0.427,
-    "fractal_dimension_worst": 0.1233,
-
+    "fractal_dimension_worst": 0.1233
   },
   {
     "id": 854253,
@@ -1256,8 +1221,7 @@
     "concavity_worst": 0.5409,
     "concave points_worst": 0.1813,
     "symmetry_worst": 0.4863,
-    "fractal_dimension_worst": 0.08633,
-
+    "fractal_dimension_worst": 0.08633
   },
   {
     "id": 854268,
@@ -1291,8 +1255,7 @@
     "concavity_worst": 0.5186,
     "concave points_worst": 0.1447,
     "symmetry_worst": 0.3591,
-    "fractal_dimension_worst": 0.1014,
-
+    "fractal_dimension_worst": 0.1014
   },
   {
     "id": 854941,
@@ -1326,8 +1289,7 @@
     "concavity_worst": 0.04833,
     "concave points_worst": 0.05013,
     "symmetry_worst": 0.1987,
-    "fractal_dimension_worst": 0.06169,
-
+    "fractal_dimension_worst": 0.06169
   },
   {
     "id": 855133,
@@ -1361,8 +1323,7 @@
     "concavity_worst": 0.02398,
     "concave points_worst": 0.02899,
     "symmetry_worst": 0.1565,
-    "fractal_dimension_worst": 0.05504,
-
+    "fractal_dimension_worst": 0.05504
   },
   {
     "id": 855138,
@@ -1396,8 +1357,7 @@
     "concavity_worst": 0.503,
     "concave points_worst": 0.2258,
     "symmetry_worst": 0.2807,
-    "fractal_dimension_worst": 0.1071,
-
+    "fractal_dimension_worst": 0.1071
   },
   {
     "id": 855167,
@@ -1431,8 +1391,7 @@
     "concavity_worst": 0.2085,
     "concave points_worst": 0.1112,
     "symmetry_worst": 0.2994,
-    "fractal_dimension_worst": 0.07146,
-
+    "fractal_dimension_worst": 0.07146
   },
   {
     "id": 855563,
@@ -1466,8 +1425,7 @@
     "concavity_worst": 0.4023,
     "concave points_worst": 0.1424,
     "symmetry_worst": 0.2964,
-    "fractal_dimension_worst": 0.09606,
-
+    "fractal_dimension_worst": 0.09606
   },
   {
     "id": 855625,
@@ -1501,8 +1459,7 @@
     "concavity_worst": 0.7242,
     "concave points_worst": 0.2493,
     "symmetry_worst": 0.467,
-    "fractal_dimension_worst": 0.1038,
-
+    "fractal_dimension_worst": 0.1038
   },
   {
     "id": 856106,
@@ -1536,8 +1493,7 @@
     "concavity_worst": 0.3664,
     "concave points_worst": 0.1492,
     "symmetry_worst": 0.3739,
-    "fractal_dimension_worst": 0.1027,
-
+    "fractal_dimension_worst": 0.1027
   },
   {
     "id": 85638502,
@@ -1571,8 +1527,7 @@
     "concavity_worst": 0.3728,
     "concave points_worst": 0.1607,
     "symmetry_worst": 0.3693,
-    "fractal_dimension_worst": 0.09618,
-
+    "fractal_dimension_worst": 0.09618
   },
   {
     "id": 857010,
@@ -1606,8 +1561,7 @@
     "concavity_worst": 0.7345,
     "concave points_worst": 0.2378,
     "symmetry_worst": 0.3799,
-    "fractal_dimension_worst": 0.09185,
-
+    "fractal_dimension_worst": 0.09185
   },
   {
     "id": 85713702,
@@ -1641,8 +1595,7 @@
     "concavity_worst": 0.0688,
     "concave points_worst": 0.02564,
     "symmetry_worst": 0.3105,
-    "fractal_dimension_worst": 0.07409,
-
+    "fractal_dimension_worst": 0.07409
   },
   {
     "id": 85715,
@@ -1676,8 +1629,7 @@
     "concavity_worst": 0.5006,
     "concave points_worst": 0.2088,
     "symmetry_worst": 0.39,
-    "fractal_dimension_worst": 0.1179,
-
+    "fractal_dimension_worst": 0.1179
   },
   {
     "id": 857155,
@@ -1711,8 +1663,7 @@
     "concavity_worst": 0.305,
     "concave points_worst": 0.06548,
     "symmetry_worst": 0.2747,
-    "fractal_dimension_worst": 0.08301,
-
+    "fractal_dimension_worst": 0.08301
   },
   {
     "id": 857156,
@@ -1746,8 +1697,7 @@
     "concavity_worst": 0.2282,
     "concave points_worst": 0.1282,
     "symmetry_worst": 0.2871,
-    "fractal_dimension_worst": 0.06917,
-
+    "fractal_dimension_worst": 0.06917
   },
   {
     "id": 857343,
@@ -1781,8 +1731,7 @@
     "concavity_worst": 0.05523,
     "concave points_worst": 0.03715,
     "symmetry_worst": 0.2433,
-    "fractal_dimension_worst": 0.06563,
-
+    "fractal_dimension_worst": 0.06563
   },
   {
     "id": 857373,
@@ -1816,8 +1765,7 @@
     "concavity_worst": 0.105,
     "concave points_worst": 0.08586,
     "symmetry_worst": 0.2346,
-    "fractal_dimension_worst": 0.08025,
-
+    "fractal_dimension_worst": 0.08025
   },
   {
     "id": 857374,
@@ -1851,8 +1799,7 @@
     "concavity_worst": 0.09203,
     "concave points_worst": 0.06296,
     "symmetry_worst": 0.2785,
-    "fractal_dimension_worst": 0.07408,
-
+    "fractal_dimension_worst": 0.07408
   },
   {
     "id": 857392,
@@ -1886,8 +1833,7 @@
     "concavity_worst": 0.2623,
     "concave points_worst": 0.1325,
     "symmetry_worst": 0.3021,
-    "fractal_dimension_worst": 0.07987,
-
+    "fractal_dimension_worst": 0.07987
   },
   {
     "id": 857438,
@@ -1921,8 +1867,7 @@
     "concavity_worst": 0.2712,
     "concave points_worst": 0.153,
     "symmetry_worst": 0.2675,
-    "fractal_dimension_worst": 0.07873,
-
+    "fractal_dimension_worst": 0.07873
   },
   {
     "id": 85759902,
@@ -1956,8 +1901,7 @@
     "concavity_worst": 0.09076,
     "concave points_worst": 0.06316,
     "symmetry_worst": 0.3306,
-    "fractal_dimension_worst": 0.07036,
-
+    "fractal_dimension_worst": 0.07036
   },
   {
     "id": 857637,
@@ -1991,8 +1935,7 @@
     "concavity_worst": 0.3879,
     "concave points_worst": 0.2091,
     "symmetry_worst": 0.3537,
-    "fractal_dimension_worst": 0.08294,
-
+    "fractal_dimension_worst": 0.08294
   },
   {
     "id": 857793,
@@ -2026,8 +1969,7 @@
     "concavity_worst": 0.3587,
     "concave points_worst": 0.1834,
     "symmetry_worst": 0.3698,
-    "fractal_dimension_worst": 0.1094,
-
+    "fractal_dimension_worst": 0.1094
   },
   {
     "id": 857810,
@@ -2061,8 +2003,7 @@
     "concavity_worst": 0.001845,
     "concave points_worst": 0.01111,
     "symmetry_worst": 0.2439,
-    "fractal_dimension_worst": 0.06289,
-
+    "fractal_dimension_worst": 0.06289
   },
   {
     "id": 858477,
@@ -2096,8 +2037,7 @@
     "concavity_worst": 0.1168,
     "concave points_worst": 0.04419,
     "symmetry_worst": 0.322,
-    "fractal_dimension_worst": 0.09026,
-
+    "fractal_dimension_worst": 0.09026
   },
   {
     "id": 858970,
@@ -2131,8 +2071,7 @@
     "concavity_worst": 0.02168,
     "concave points_worst": 0.02579,
     "symmetry_worst": 0.3557,
-    "fractal_dimension_worst": 0.0802,
-
+    "fractal_dimension_worst": 0.0802
   },
   {
     "id": 858981,
@@ -2166,8 +2105,7 @@
     "concavity_worst": 0.09001,
     "concave points_worst": 0.02778,
     "symmetry_worst": 0.2972,
-    "fractal_dimension_worst": 0.07712,
-
+    "fractal_dimension_worst": 0.07712
   },
   {
     "id": 858986,
@@ -2201,8 +2139,7 @@
     "concavity_worst": 0.6922,
     "concave points_worst": 0.1785,
     "symmetry_worst": 0.2844,
-    "fractal_dimension_worst": 0.1132,
-
+    "fractal_dimension_worst": 0.1132
   },
   {
     "id": 859196,
@@ -2236,8 +2173,7 @@
     "concavity_worst": 0.1397,
     "concave points_worst": 0.05087,
     "symmetry_worst": 0.3282,
-    "fractal_dimension_worst": 0.0849,
-
+    "fractal_dimension_worst": 0.0849
   },
   {
     "id": 85922302,
@@ -2271,8 +2207,7 @@
     "concavity_worst": 0.4024,
     "concave points_worst": 0.1716,
     "symmetry_worst": 0.3383,
-    "fractal_dimension_worst": 0.1031,
-
+    "fractal_dimension_worst": 0.1031
   },
   {
     "id": 859283,
@@ -2306,8 +2241,7 @@
     "concavity_worst": 0.3024,
     "concave points_worst": 0.1614,
     "symmetry_worst": 0.3321,
-    "fractal_dimension_worst": 0.08911,
-
+    "fractal_dimension_worst": 0.08911
   },
   {
     "id": 859464,
@@ -2341,8 +2275,7 @@
     "concavity_worst": 0.09412,
     "concave points_worst": 0.06517,
     "symmetry_worst": 0.2878,
-    "fractal_dimension_worst": 0.09211,
-
+    "fractal_dimension_worst": 0.09211
   },
   {
     "id": 859465,
@@ -2376,8 +2309,7 @@
     "concavity_worst": 0.1444,
     "concave points_worst": 0.06961,
     "symmetry_worst": 0.24,
-    "fractal_dimension_worst": 0.06641,
-
+    "fractal_dimension_worst": 0.06641
   },
   {
     "id": 859471,
@@ -2411,8 +2343,7 @@
     "concavity_worst": 1.252,
     "concave points_worst": 0.175,
     "symmetry_worst": 0.4228,
-    "fractal_dimension_worst": 0.1175,
-
+    "fractal_dimension_worst": 0.1175
   },
   {
     "id": 859487,
@@ -2446,8 +2377,7 @@
     "concavity_worst": 0.1039,
     "concave points_worst": 0.05882,
     "symmetry_worst": 0.2383,
-    "fractal_dimension_worst": 0.0641,
-
+    "fractal_dimension_worst": 0.0641
   },
   {
     "id": 859575,
@@ -2481,8 +2411,7 @@
     "concavity_worst": 0.2687,
     "concave points_worst": 0.1789,
     "symmetry_worst": 0.2551,
-    "fractal_dimension_worst": 0.06589,
-
+    "fractal_dimension_worst": 0.06589
   },
   {
     "id": 859711,
@@ -2516,8 +2445,7 @@
     "concavity_worst": 0.1434,
     "concave points_worst": 0.04786,
     "symmetry_worst": 0.2254,
-    "fractal_dimension_worst": 0.1084,
-
+    "fractal_dimension_worst": 0.1084
   },
   {
     "id": 859717,
@@ -2551,8 +2479,7 @@
     "concavity_worst": 0.6566,
     "concave points_worst": 0.1899,
     "symmetry_worst": 0.3313,
-    "fractal_dimension_worst": 0.1339,
-
+    "fractal_dimension_worst": 0.1339
   },
   {
     "id": 859983,
@@ -2586,8 +2513,7 @@
     "concavity_worst": 0.2779,
     "concave points_worst": 0.1383,
     "symmetry_worst": 0.2589,
-    "fractal_dimension_worst": 0.103,
-
+    "fractal_dimension_worst": 0.103
   },
   {
     "id": 8610175,
@@ -2621,8 +2547,7 @@
     "concavity_worst": 0.1703,
     "concave points_worst": 0.0866,
     "symmetry_worst": 0.2618,
-    "fractal_dimension_worst": 0.07609,
-
+    "fractal_dimension_worst": 0.07609
   },
   {
     "id": 8610404,
@@ -2656,8 +2581,7 @@
     "concavity_worst": 0.2829,
     "concave points_worst": 0.152,
     "symmetry_worst": 0.265,
-    "fractal_dimension_worst": 0.06387,
-
+    "fractal_dimension_worst": 0.06387
   },
   {
     "id": 8610629,
@@ -2691,8 +2615,7 @@
     "concavity_worst": 0.08539,
     "concave points_worst": 0.07407,
     "symmetry_worst": 0.271,
-    "fractal_dimension_worst": 0.07191,
-
+    "fractal_dimension_worst": 0.07191
   },
   {
     "id": 8610637,
@@ -2726,8 +2649,7 @@
     "concavity_worst": 0.3786,
     "concave points_worst": 0.2102,
     "symmetry_worst": 0.3751,
-    "fractal_dimension_worst": 0.1108,
-
+    "fractal_dimension_worst": 0.1108
   },
   {
     "id": 8610862,
@@ -2761,8 +2683,7 @@
     "concavity_worst": 0.7681,
     "concave points_worst": 0.2508,
     "symmetry_worst": 0.544,
-    "fractal_dimension_worst": 0.09964,
-
+    "fractal_dimension_worst": 0.09964
   },
   {
     "id": 8610908,
@@ -2796,8 +2717,7 @@
     "concavity_worst": 0.1731,
     "concave points_worst": 0.07926,
     "symmetry_worst": 0.2779,
-    "fractal_dimension_worst": 0.07918,
-
+    "fractal_dimension_worst": 0.07918
   },
   {
     "id": 861103,
@@ -2831,8 +2751,7 @@
     "concavity_worst": 0.1755,
     "concave points_worst": 0.06127,
     "symmetry_worst": 0.2762,
-    "fractal_dimension_worst": 0.08851,
-
+    "fractal_dimension_worst": 0.08851
   },
   {
     "id": 8611161,
@@ -2866,8 +2785,7 @@
     "concavity_worst": 0.4858,
     "concave points_worst": 0.1708,
     "symmetry_worst": 0.3527,
-    "fractal_dimension_worst": 0.1016,
-
+    "fractal_dimension_worst": 0.1016
   },
   {
     "id": 8611555,
@@ -2901,8 +2819,7 @@
     "concavity_worst": 0.6476,
     "concave points_worst": 0.2867,
     "symmetry_worst": 0.2355,
-    "fractal_dimension_worst": 0.1051,
-
+    "fractal_dimension_worst": 0.1051
   },
   {
     "id": 8611792,
@@ -2936,8 +2853,7 @@
     "concavity_worst": 0.2432,
     "concave points_worst": 0.1841,
     "symmetry_worst": 0.2311,
-    "fractal_dimension_worst": 0.09203,
-
+    "fractal_dimension_worst": 0.09203
   },
   {
     "id": 8612080,
@@ -2971,8 +2887,7 @@
     "concavity_worst": 0.2267,
     "concave points_worst": 0.07632,
     "symmetry_worst": 0.3379,
-    "fractal_dimension_worst": 0.07924,
-
+    "fractal_dimension_worst": 0.07924
   },
   {
     "id": 8612399,
@@ -3006,8 +2921,7 @@
     "concavity_worst": 0.3157,
     "concave points_worst": 0.1642,
     "symmetry_worst": 0.3695,
-    "fractal_dimension_worst": 0.08579,
-
+    "fractal_dimension_worst": 0.08579
   },
   {
     "id": 86135501,
@@ -3041,8 +2955,7 @@
     "concavity_worst": 0.3349,
     "concave points_worst": 0.1225,
     "symmetry_worst": 0.302,
-    "fractal_dimension_worst": 0.06846,
-
+    "fractal_dimension_worst": 0.06846
   },
   {
     "id": 86135502,
@@ -3076,8 +2989,7 @@
     "concavity_worst": 0.5755,
     "concave points_worst": 0.1956,
     "symmetry_worst": 0.3956,
-    "fractal_dimension_worst": 0.09288,
-
+    "fractal_dimension_worst": 0.09288
   },
   {
     "id": 861597,
@@ -3111,8 +3023,7 @@
     "concavity_worst": 0.2434,
     "concave points_worst": 0.1205,
     "symmetry_worst": 0.2972,
-    "fractal_dimension_worst": 0.09261,
-
+    "fractal_dimension_worst": 0.09261
   },
   {
     "id": 861598,
@@ -3146,8 +3057,7 @@
     "concavity_worst": 0.2604,
     "concave points_worst": 0.1397,
     "symmetry_worst": 0.3151,
-    "fractal_dimension_worst": 0.08473,
-
+    "fractal_dimension_worst": 0.08473
   },
   {
     "id": 861648,
@@ -3181,8 +3091,7 @@
     "concavity_worst": 0.09189,
     "concave points_worst": 0.06946,
     "symmetry_worst": 0.2522,
-    "fractal_dimension_worst": 0.07246,
-
+    "fractal_dimension_worst": 0.07246
   },
   {
     "id": 861799,
@@ -3216,8 +3125,7 @@
     "concavity_worst": 0.2846,
     "concave points_worst": 0.1476,
     "symmetry_worst": 0.2556,
-    "fractal_dimension_worst": 0.06828,
-
+    "fractal_dimension_worst": 0.06828
   },
   {
     "id": 861853,
@@ -3251,8 +3159,7 @@
     "concavity_worst": 0.135,
     "concave points_worst": 0.1001,
     "symmetry_worst": 0.2027,
-    "fractal_dimension_worst": 0.06206,
-
+    "fractal_dimension_worst": 0.06206
   },
   {
     "id": 862009,
@@ -3286,8 +3193,7 @@
     "concavity_worst": 0.1381,
     "concave points_worst": 0.07911,
     "symmetry_worst": 0.2678,
-    "fractal_dimension_worst": 0.06603,
-
+    "fractal_dimension_worst": 0.06603
   },
   {
     "id": 862028,
@@ -3321,8 +3227,7 @@
     "concavity_worst": 0.5203,
     "concave points_worst": 0.2115,
     "symmetry_worst": 0.2834,
-    "fractal_dimension_worst": 0.08234,
-
+    "fractal_dimension_worst": 0.08234
   },
   {
     "id": 86208,
@@ -3356,8 +3261,7 @@
     "concavity_worst": 0.4098,
     "concave points_worst": 0.1573,
     "symmetry_worst": 0.3689,
-    "fractal_dimension_worst": 0.08368,
-
+    "fractal_dimension_worst": 0.08368
   },
   {
     "id": 86211,
@@ -3391,8 +3295,7 @@
     "concavity_worst": 0.0498,
     "concave points_worst": 0.05882,
     "symmetry_worst": 0.2227,
-    "fractal_dimension_worst": 0.07376,
-
+    "fractal_dimension_worst": 0.07376
   },
   {
     "id": 862261,
@@ -3426,8 +3329,7 @@
     "concavity_worst": 0.02049,
     "concave points_worst": 0.02381,
     "symmetry_worst": 0.1934,
-    "fractal_dimension_worst": 0.08988,
-
+    "fractal_dimension_worst": 0.08988
   },
   {
     "id": 862485,
@@ -3461,8 +3363,7 @@
     "concavity_worst": 0.1922,
     "concave points_worst": 0.08449,
     "symmetry_worst": 0.2772,
-    "fractal_dimension_worst": 0.08756,
-
+    "fractal_dimension_worst": 0.08756
   },
   {
     "id": 862548,
@@ -3496,8 +3397,7 @@
     "concavity_worst": 0.3194,
     "concave points_worst": 0.1565,
     "symmetry_worst": 0.2718,
-    "fractal_dimension_worst": 0.09353,
-
+    "fractal_dimension_worst": 0.09353
   },
   {
     "id": 862717,
@@ -3531,8 +3431,7 @@
     "concavity_worst": 0.3169,
     "concave points_worst": 0.1184,
     "symmetry_worst": 0.2651,
-    "fractal_dimension_worst": 0.07397,
-
+    "fractal_dimension_worst": 0.07397
   },
   {
     "id": 862722,
@@ -3566,8 +3465,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2932,
-    "fractal_dimension_worst": 0.09382,
-
+    "fractal_dimension_worst": 0.09382
   },
   {
     "id": 862965,
@@ -3601,8 +3499,7 @@
     "concavity_worst": 0.1145,
     "concave points_worst": 0.07431,
     "symmetry_worst": 0.2694,
-    "fractal_dimension_worst": 0.06878,
-
+    "fractal_dimension_worst": 0.06878
   },
   {
     "id": 862980,
@@ -3636,8 +3533,7 @@
     "concavity_worst": 0.2644,
     "concave points_worst": 0.09749,
     "symmetry_worst": 0.2622,
-    "fractal_dimension_worst": 0.0849,
-
+    "fractal_dimension_worst": 0.0849
   },
   {
     "id": 862989,
@@ -3671,8 +3567,7 @@
     "concavity_worst": 0.07987,
     "concave points_worst": 0.03203,
     "symmetry_worst": 0.2826,
-    "fractal_dimension_worst": 0.07552,
-
+    "fractal_dimension_worst": 0.07552
   },
   {
     "id": 863030,
@@ -3706,8 +3601,7 @@
     "concavity_worst": 0.6376,
     "concave points_worst": 0.1986,
     "symmetry_worst": 0.3147,
-    "fractal_dimension_worst": 0.1405,
-
+    "fractal_dimension_worst": 0.1405
   },
   {
     "id": 863031,
@@ -3741,8 +3635,7 @@
     "concavity_worst": 0.2873,
     "concave points_worst": 0.1218,
     "symmetry_worst": 0.2806,
-    "fractal_dimension_worst": 0.09097,
-
+    "fractal_dimension_worst": 0.09097
   },
   {
     "id": 863270,
@@ -3776,8 +3669,7 @@
     "concavity_worst": 0.1937,
     "concave points_worst": 0.08442,
     "symmetry_worst": 0.2983,
-    "fractal_dimension_worst": 0.07185,
-
+    "fractal_dimension_worst": 0.07185
   },
   {
     "id": 86355,
@@ -3811,8 +3703,7 @@
     "concavity_worst": 0.9608,
     "concave points_worst": 0.291,
     "symmetry_worst": 0.4055,
-    "fractal_dimension_worst": 0.09789,
-
+    "fractal_dimension_worst": 0.09789
   },
   {
     "id": 864018,
@@ -3846,8 +3737,7 @@
     "concavity_worst": 0.312,
     "concave points_worst": 0.08278,
     "symmetry_worst": 0.2829,
-    "fractal_dimension_worst": 0.08832,
-
+    "fractal_dimension_worst": 0.08832
   },
   {
     "id": 864033,
@@ -3881,8 +3771,7 @@
     "concavity_worst": 0.13,
     "concave points_worst": 0.05334,
     "symmetry_worst": 0.2533,
-    "fractal_dimension_worst": 0.08468,
-
+    "fractal_dimension_worst": 0.08468
   },
   {
     "id": 86408,
@@ -3916,8 +3805,7 @@
     "concavity_worst": 0.2216,
     "concave points_worst": 0.1105,
     "symmetry_worst": 0.2226,
-    "fractal_dimension_worst": 0.08486,
-
+    "fractal_dimension_worst": 0.08486
   },
   {
     "id": 86409,
@@ -3951,8 +3839,7 @@
     "concavity_worst": 0.6783,
     "concave points_worst": 0.1505,
     "symmetry_worst": 0.2398,
-    "fractal_dimension_worst": 0.1082,
-
+    "fractal_dimension_worst": 0.1082
   },
   {
     "id": 864292,
@@ -3986,8 +3873,7 @@
     "concavity_worst": 0.1295,
     "concave points_worst": 0.06136,
     "symmetry_worst": 0.2383,
-    "fractal_dimension_worst": 0.09026,
-
+    "fractal_dimension_worst": 0.09026
   },
   {
     "id": 864496,
@@ -4021,8 +3907,7 @@
     "concavity_worst": 0.2456,
     "concave points_worst": 0.105,
     "symmetry_worst": 0.2926,
-    "fractal_dimension_worst": 0.1017,
-
+    "fractal_dimension_worst": 0.1017
   },
   {
     "id": 864685,
@@ -4056,8 +3941,7 @@
     "concavity_worst": 0.1503,
     "concave points_worst": 0.07247,
     "symmetry_worst": 0.2438,
-    "fractal_dimension_worst": 0.08541,
-
+    "fractal_dimension_worst": 0.08541
   },
   {
     "id": 864726,
@@ -4091,8 +3975,7 @@
     "concavity_worst": 0.1544,
     "concave points_worst": 0.03846,
     "symmetry_worst": 0.1652,
-    "fractal_dimension_worst": 0.07722,
-
+    "fractal_dimension_worst": 0.07722
   },
   {
     "id": 864729,
@@ -4126,8 +4009,7 @@
     "concavity_worst": 0.4704,
     "concave points_worst": 0.2027,
     "symmetry_worst": 0.3585,
-    "fractal_dimension_worst": 0.1065,
-
+    "fractal_dimension_worst": 0.1065
   },
   {
     "id": 864877,
@@ -4161,8 +4043,7 @@
     "concavity_worst": 0.7356,
     "concave points_worst": 0.2034,
     "symmetry_worst": 0.3274,
-    "fractal_dimension_worst": 0.1252,
-
+    "fractal_dimension_worst": 0.1252
   },
   {
     "id": 865128,
@@ -4196,8 +4077,7 @@
     "concavity_worst": 0.2249,
     "concave points_worst": 0.1185,
     "symmetry_worst": 0.4882,
-    "fractal_dimension_worst": 0.06111,
-
+    "fractal_dimension_worst": 0.06111
   },
   {
     "id": 865137,
@@ -4231,8 +4111,7 @@
     "concavity_worst": 0.2102,
     "concave points_worst": 0.08958,
     "symmetry_worst": 0.3016,
-    "fractal_dimension_worst": 0.08523,
-
+    "fractal_dimension_worst": 0.08523
   },
   {
     "id": 86517,
@@ -4266,8 +4145,7 @@
     "concavity_worst": 0.3272,
     "concave points_worst": 0.1674,
     "symmetry_worst": 0.2894,
-    "fractal_dimension_worst": 0.08456,
-
+    "fractal_dimension_worst": 0.08456
   },
   {
     "id": 865423,
@@ -4301,8 +4179,7 @@
     "concavity_worst": 0.5803,
     "concave points_worst": 0.2248,
     "symmetry_worst": 0.3222,
-    "fractal_dimension_worst": 0.08009,
-
+    "fractal_dimension_worst": 0.08009
   },
   {
     "id": 865432,
@@ -4336,8 +4213,7 @@
     "concavity_worst": 0.256,
     "concave points_worst": 0.1221,
     "symmetry_worst": 0.2889,
-    "fractal_dimension_worst": 0.08006,
-
+    "fractal_dimension_worst": 0.08006
   },
   {
     "id": 865468,
@@ -4371,8 +4247,7 @@
     "concavity_worst": 0.3308,
     "concave points_worst": 0.08978,
     "symmetry_worst": 0.2048,
-    "fractal_dimension_worst": 0.07628,
-
+    "fractal_dimension_worst": 0.07628
   },
   {
     "id": 86561,
@@ -4406,8 +4281,7 @@
     "concavity_worst": 0.08115,
     "concave points_worst": 0.05104,
     "symmetry_worst": 0.2364,
-    "fractal_dimension_worst": 0.07182,
-
+    "fractal_dimension_worst": 0.07182
   },
   {
     "id": 866083,
@@ -4441,8 +4315,7 @@
     "concavity_worst": 0.3796,
     "concave points_worst": 0.1329,
     "symmetry_worst": 0.347,
-    "fractal_dimension_worst": 0.079,
-
+    "fractal_dimension_worst": 0.079
   },
   {
     "id": 866203,
@@ -4476,8 +4349,7 @@
     "concavity_worst": 0.3207,
     "concave points_worst": 0.1218,
     "symmetry_worst": 0.2841,
-    "fractal_dimension_worst": 0.06541,
-
+    "fractal_dimension_worst": 0.06541
   },
   {
     "id": 866458,
@@ -4511,8 +4383,7 @@
     "concavity_worst": 0.196,
     "concave points_worst": 0.1423,
     "symmetry_worst": 0.259,
-    "fractal_dimension_worst": 0.07779,
-
+    "fractal_dimension_worst": 0.07779
   },
   {
     "id": 866674,
@@ -4546,8 +4417,7 @@
     "concavity_worst": 0.5673,
     "concave points_worst": 0.1732,
     "symmetry_worst": 0.3305,
-    "fractal_dimension_worst": 0.08465,
-
+    "fractal_dimension_worst": 0.08465
   },
   {
     "id": 866714,
@@ -4581,8 +4451,7 @@
     "concavity_worst": 0.09915,
     "concave points_worst": 0.08187,
     "symmetry_worst": 0.3469,
-    "fractal_dimension_worst": 0.09241,
-
+    "fractal_dimension_worst": 0.09241
   },
   {
     "id": 8670,
@@ -4616,8 +4485,7 @@
     "concavity_worst": 0.3791,
     "concave points_worst": 0.1514,
     "symmetry_worst": 0.2837,
-    "fractal_dimension_worst": 0.08019,
-
+    "fractal_dimension_worst": 0.08019
   },
   {
     "id": 86730502,
@@ -4651,8 +4519,7 @@
     "concavity_worst": 0.2992,
     "concave points_worst": 0.1312,
     "symmetry_worst": 0.348,
-    "fractal_dimension_worst": 0.07619,
-
+    "fractal_dimension_worst": 0.07619
   },
   {
     "id": 867387,
@@ -4686,8 +4553,7 @@
     "concavity_worst": 0.1709,
     "concave points_worst": 0.1374,
     "symmetry_worst": 0.2723,
-    "fractal_dimension_worst": 0.07071,
-
+    "fractal_dimension_worst": 0.07071
   },
   {
     "id": 867739,
@@ -4721,8 +4587,7 @@
     "concavity_worst": 0.3965,
     "concave points_worst": 0.1379,
     "symmetry_worst": 0.3109,
-    "fractal_dimension_worst": 0.0761,
-
+    "fractal_dimension_worst": 0.0761
   },
   {
     "id": 868202,
@@ -4756,8 +4621,7 @@
     "concavity_worst": 0.2177,
     "concave points_worst": 0.09331,
     "symmetry_worst": 0.2829,
-    "fractal_dimension_worst": 0.08067,
-
+    "fractal_dimension_worst": 0.08067
   },
   {
     "id": 868223,
@@ -4791,8 +4655,7 @@
     "concavity_worst": 0.1046,
     "concave points_worst": 0.06968,
     "symmetry_worst": 0.1712,
-    "fractal_dimension_worst": 0.07343,
-
+    "fractal_dimension_worst": 0.07343
   },
   {
     "id": 868682,
@@ -4826,8 +4689,7 @@
     "concavity_worst": 0.1399,
     "concave points_worst": 0.08476,
     "symmetry_worst": 0.2676,
-    "fractal_dimension_worst": 0.06765,
-
+    "fractal_dimension_worst": 0.06765
   },
   {
     "id": 868826,
@@ -4861,8 +4723,7 @@
     "concavity_worst": 0.3355,
     "concave points_worst": 0.1667,
     "symmetry_worst": 0.3414,
-    "fractal_dimension_worst": 0.07147,
-
+    "fractal_dimension_worst": 0.07147
   },
   {
     "id": 868871,
@@ -4896,8 +4757,7 @@
     "concavity_worst": 0.08669,
     "concave points_worst": 0.08611,
     "symmetry_worst": 0.2102,
-    "fractal_dimension_worst": 0.06784,
-
+    "fractal_dimension_worst": 0.06784
   },
   {
     "id": 868999,
@@ -4931,8 +4791,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.3105,
-    "fractal_dimension_worst": 0.08151,
-
+    "fractal_dimension_worst": 0.08151
   },
   {
     "id": 869104,
@@ -4966,8 +4825,7 @@
     "concavity_worst": 0.2802,
     "concave points_worst": 0.1216,
     "symmetry_worst": 0.2792,
-    "fractal_dimension_worst": 0.08158,
-
+    "fractal_dimension_worst": 0.08158
   },
   {
     "id": 869218,
@@ -5001,8 +4859,7 @@
     "concavity_worst": 0.07708,
     "concave points_worst": 0.06402,
     "symmetry_worst": 0.2584,
-    "fractal_dimension_worst": 0.08096,
-
+    "fractal_dimension_worst": 0.08096
   },
   {
     "id": 869224,
@@ -5036,8 +4893,7 @@
     "concavity_worst": 0.209,
     "concave points_worst": 0.1012,
     "symmetry_worst": 0.3549,
-    "fractal_dimension_worst": 0.08118,
-
+    "fractal_dimension_worst": 0.08118
   },
   {
     "id": 869254,
@@ -5071,8 +4927,7 @@
     "concavity_worst": 0.09755,
     "concave points_worst": 0.03413,
     "symmetry_worst": 0.23,
-    "fractal_dimension_worst": 0.06769,
-
+    "fractal_dimension_worst": 0.06769
   },
   {
     "id": 869476,
@@ -5106,8 +4961,7 @@
     "concavity_worst": 0.0942,
     "concave points_worst": 0.06042,
     "symmetry_worst": 0.2727,
-    "fractal_dimension_worst": 0.1036,
-
+    "fractal_dimension_worst": 0.1036
   },
   {
     "id": 869691,
@@ -5141,8 +4995,7 @@
     "concavity_worst": 0.4504,
     "concave points_worst": 0.1865,
     "symmetry_worst": 0.5774,
-    "fractal_dimension_worst": 0.103,
-
+    "fractal_dimension_worst": 0.103
   },
   {
     "id": 86973701,
@@ -5176,8 +5029,7 @@
     "concavity_worst": 0.25,
     "concave points_worst": 0.08405,
     "symmetry_worst": 0.2852,
-    "fractal_dimension_worst": 0.09218,
-
+    "fractal_dimension_worst": 0.09218
   },
   {
     "id": 86973702,
@@ -5211,8 +5063,7 @@
     "concavity_worst": 0.3103,
     "concave points_worst": 0.1599,
     "symmetry_worst": 0.2691,
-    "fractal_dimension_worst": 0.07683,
-
+    "fractal_dimension_worst": 0.07683
   },
   {
     "id": 869931,
@@ -5246,8 +5097,7 @@
     "concavity_worst": 0.1564,
     "concave points_worst": 0.06019,
     "symmetry_worst": 0.235,
-    "fractal_dimension_worst": 0.07014,
-
+    "fractal_dimension_worst": 0.07014
   },
   {
     "id": 871001501,
@@ -5281,8 +5131,7 @@
     "concavity_worst": 0.08112,
     "concave points_worst": 0.06296,
     "symmetry_worst": 0.3196,
-    "fractal_dimension_worst": 0.06435,
-
+    "fractal_dimension_worst": 0.06435
   },
   {
     "id": 871001502,
@@ -5316,8 +5165,7 @@
     "concavity_worst": 0.5381,
     "concave points_worst": 0.07879,
     "symmetry_worst": 0.3322,
-    "fractal_dimension_worst": 0.1486,
-
+    "fractal_dimension_worst": 0.1486
   },
   {
     "id": 8710441,
@@ -5351,8 +5199,7 @@
     "concavity_worst": 0.8216,
     "concave points_worst": 0.1571,
     "symmetry_worst": 0.3108,
-    "fractal_dimension_worst": 0.1259,
-
+    "fractal_dimension_worst": 0.1259
   },
   {
     "id": 87106,
@@ -5386,8 +5233,7 @@
     "concavity_worst": 0.07116,
     "concave points_worst": 0.05506,
     "symmetry_worst": 0.2859,
-    "fractal_dimension_worst": 0.06772,
-
+    "fractal_dimension_worst": 0.06772
   },
   {
     "id": 8711002,
@@ -5421,8 +5267,7 @@
     "concavity_worst": 0.3009,
     "concave points_worst": 0.09722,
     "symmetry_worst": 0.3849,
-    "fractal_dimension_worst": 0.08633,
-
+    "fractal_dimension_worst": 0.08633
   },
   {
     "id": 8711003,
@@ -5456,8 +5301,7 @@
     "concavity_worst": 0.1943,
     "concave points_worst": 0.08211,
     "symmetry_worst": 0.3113,
-    "fractal_dimension_worst": 0.08132,
-
+    "fractal_dimension_worst": 0.08132
   },
   {
     "id": 8711202,
@@ -5491,8 +5335,7 @@
     "concavity_worst": 0.3583,
     "concave points_worst": 0.1515,
     "symmetry_worst": 0.2463,
-    "fractal_dimension_worst": 0.07738,
-
+    "fractal_dimension_worst": 0.07738
   },
   {
     "id": 8711216,
@@ -5526,8 +5369,7 @@
     "concavity_worst": 0.1882,
     "concave points_worst": 0.08436,
     "symmetry_worst": 0.2527,
-    "fractal_dimension_worst": 0.05972,
-
+    "fractal_dimension_worst": 0.05972
   },
   {
     "id": 871122,
@@ -5561,8 +5403,7 @@
     "concavity_worst": 0.08636,
     "concave points_worst": 0.07025,
     "symmetry_worst": 0.2514,
-    "fractal_dimension_worst": 0.07898,
-
+    "fractal_dimension_worst": 0.07898
   },
   {
     "id": 871149,
@@ -5596,8 +5437,7 @@
     "concavity_worst": 0.01854,
     "concave points_worst": 0.03953,
     "symmetry_worst": 0.2738,
-    "fractal_dimension_worst": 0.07685,
-
+    "fractal_dimension_worst": 0.07685
   },
   {
     "id": 8711561,
@@ -5631,8 +5471,7 @@
     "concavity_worst": 0.1956,
     "concave points_worst": 0.07909,
     "symmetry_worst": 0.3168,
-    "fractal_dimension_worst": 0.07987,
-
+    "fractal_dimension_worst": 0.07987
   },
   {
     "id": 8711803,
@@ -5666,8 +5505,7 @@
     "concavity_worst": 0.2264,
     "concave points_worst": 0.1777,
     "symmetry_worst": 0.2443,
-    "fractal_dimension_worst": 0.06251,
-
+    "fractal_dimension_worst": 0.06251
   },
   {
     "id": 871201,
@@ -5701,8 +5539,7 @@
     "concavity_worst": 0.681,
     "concave points_worst": 0.2247,
     "symmetry_worst": 0.3643,
-    "fractal_dimension_worst": 0.09223,
-
+    "fractal_dimension_worst": 0.09223
   },
   {
     "id": 8712064,
@@ -5736,8 +5573,7 @@
     "concavity_worst": 0.1688,
     "concave points_worst": 0.08194,
     "symmetry_worst": 0.2268,
-    "fractal_dimension_worst": 0.09082,
-
+    "fractal_dimension_worst": 0.09082
   },
   {
     "id": 8712289,
@@ -5771,8 +5607,7 @@
     "concavity_worst": 0.3948,
     "concave points_worst": 0.2346,
     "symmetry_worst": 0.3589,
-    "fractal_dimension_worst": 0.09187,
-
+    "fractal_dimension_worst": 0.09187
   },
   {
     "id": 8712291,
@@ -5806,8 +5641,7 @@
     "concavity_worst": 0.0775,
     "concave points_worst": 0.05754,
     "symmetry_worst": 0.2646,
-    "fractal_dimension_worst": 0.06085,
-
+    "fractal_dimension_worst": 0.06085
   },
   {
     "id": 87127,
@@ -5841,8 +5675,7 @@
     "concavity_worst": 0.1047,
     "concave points_worst": 0.04603,
     "symmetry_worst": 0.209,
-    "fractal_dimension_worst": 0.07699,
-
+    "fractal_dimension_worst": 0.07699
   },
   {
     "id": 8712729,
@@ -5876,8 +5709,7 @@
     "concavity_worst": 0.2318,
     "concave points_worst": 0.1474,
     "symmetry_worst": 0.281,
-    "fractal_dimension_worst": 0.07228,
-
+    "fractal_dimension_worst": 0.07228
   },
   {
     "id": 8712766,
@@ -5911,8 +5743,7 @@
     "concavity_worst": 0.489,
     "concave points_worst": 0.1721,
     "symmetry_worst": 0.216,
-    "fractal_dimension_worst": 0.093,
-
+    "fractal_dimension_worst": 0.093
   },
   {
     "id": 8712853,
@@ -5946,8 +5777,7 @@
     "concavity_worst": 0.06648,
     "concave points_worst": 0.08485,
     "symmetry_worst": 0.2404,
-    "fractal_dimension_worst": 0.06428,
-
+    "fractal_dimension_worst": 0.06428
   },
   {
     "id": 87139402,
@@ -5981,8 +5811,7 @@
     "concavity_worst": 0.1242,
     "concave points_worst": 0.09391,
     "symmetry_worst": 0.2827,
-    "fractal_dimension_worst": 0.06771,
-
+    "fractal_dimension_worst": 0.06771
   },
   {
     "id": 87163,
@@ -6016,8 +5845,7 @@
     "concavity_worst": 0.2644,
     "concave points_worst": 0.116,
     "symmetry_worst": 0.2884,
-    "fractal_dimension_worst": 0.07371,
-
+    "fractal_dimension_worst": 0.07371
   },
   {
     "id": 87164,
@@ -6051,8 +5879,7 @@
     "concavity_worst": 0.583,
     "concave points_worst": 0.1827,
     "symmetry_worst": 0.3216,
-    "fractal_dimension_worst": 0.101,
-
+    "fractal_dimension_worst": 0.101
   },
   {
     "id": 871641,
@@ -6086,8 +5913,7 @@
     "concavity_worst": 0.03938,
     "concave points_worst": 0.04306,
     "symmetry_worst": 0.1902,
-    "fractal_dimension_worst": 0.07313,
-
+    "fractal_dimension_worst": 0.07313
   },
   {
     "id": 871642,
@@ -6121,8 +5947,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.271,
-    "fractal_dimension_worst": 0.06164,
-
+    "fractal_dimension_worst": 0.06164
   },
   {
     "id": 872113,
@@ -6156,8 +5981,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2592,
-    "fractal_dimension_worst": 0.07848,
-
+    "fractal_dimension_worst": 0.07848
   },
   {
     "id": 872608,
@@ -6191,8 +6015,7 @@
     "concavity_worst": 0.3486,
     "concave points_worst": 0.0991,
     "symmetry_worst": 0.2614,
-    "fractal_dimension_worst": 0.1162,
-
+    "fractal_dimension_worst": 0.1162
   },
   {
     "id": 87281702,
@@ -6226,8 +6049,7 @@
     "concavity_worst": 0.5862,
     "concave points_worst": 0.2035,
     "symmetry_worst": 0.3054,
-    "fractal_dimension_worst": 0.09519,
-
+    "fractal_dimension_worst": 0.09519
   },
   {
     "id": 873357,
@@ -6261,8 +6083,7 @@
     "concavity_worst": 0.007977,
     "concave points_worst": 0.009259,
     "symmetry_worst": 0.2295,
-    "fractal_dimension_worst": 0.05843,
-
+    "fractal_dimension_worst": 0.05843
   },
   {
     "id": 873586,
@@ -6296,8 +6117,7 @@
     "concavity_worst": 0.02758,
     "concave points_worst": 0.0399,
     "symmetry_worst": 0.1783,
-    "fractal_dimension_worst": 0.07319,
-
+    "fractal_dimension_worst": 0.07319
   },
   {
     "id": 873592,
@@ -6331,8 +6151,7 @@
     "concavity_worst": 0.534,
     "concave points_worst": 0.2688,
     "symmetry_worst": 0.2856,
-    "fractal_dimension_worst": 0.08082,
-
+    "fractal_dimension_worst": 0.08082
   },
   {
     "id": 873593,
@@ -6366,8 +6185,7 @@
     "concavity_worst": 0.678,
     "concave points_worst": 0.2903,
     "symmetry_worst": 0.4098,
-    "fractal_dimension_worst": 0.1284,
-
+    "fractal_dimension_worst": 0.1284
   },
   {
     "id": 873701,
@@ -6401,8 +6219,7 @@
     "concavity_worst": 0.2902,
     "concave points_worst": 0.1541,
     "symmetry_worst": 0.3437,
-    "fractal_dimension_worst": 0.08631,
-
+    "fractal_dimension_worst": 0.08631
   },
   {
     "id": 873843,
@@ -6436,8 +6253,7 @@
     "concavity_worst": 0.1648,
     "concave points_worst": 0.06296,
     "symmetry_worst": 0.1811,
-    "fractal_dimension_worst": 0.07427,
-
+    "fractal_dimension_worst": 0.07427
   },
   {
     "id": 873885,
@@ -6471,8 +6287,7 @@
     "concavity_worst": 0.363,
     "concave points_worst": 0.1226,
     "symmetry_worst": 0.3175,
-    "fractal_dimension_worst": 0.09772,
-
+    "fractal_dimension_worst": 0.09772
   },
   {
     "id": 874158,
@@ -6506,8 +6321,7 @@
     "concavity_worst": 0.00692,
     "concave points_worst": 0.01042,
     "symmetry_worst": 0.2933,
-    "fractal_dimension_worst": 0.07697,
-
+    "fractal_dimension_worst": 0.07697
   },
   {
     "id": 874217,
@@ -6541,8 +6355,7 @@
     "concavity_worst": 0.3538,
     "concave points_worst": 0.1571,
     "symmetry_worst": 0.3206,
-    "fractal_dimension_worst": 0.06938,
-
+    "fractal_dimension_worst": 0.06938
   },
   {
     "id": 874373,
@@ -6576,8 +6389,7 @@
     "concavity_worst": 0.1521,
     "concave points_worst": 0.1099,
     "symmetry_worst": 0.2572,
-    "fractal_dimension_worst": 0.07097,
-
+    "fractal_dimension_worst": 0.07097
   },
   {
     "id": 874662,
@@ -6611,8 +6423,7 @@
     "concavity_worst": 0.08803,
     "concave points_worst": 0.04306,
     "symmetry_worst": 0.32,
-    "fractal_dimension_worst": 0.06576,
-
+    "fractal_dimension_worst": 0.06576
   },
   {
     "id": 874839,
@@ -6646,8 +6457,7 @@
     "concavity_worst": 0.1423,
     "concave points_worst": 0.04815,
     "symmetry_worst": 0.2482,
-    "fractal_dimension_worst": 0.06306,
-
+    "fractal_dimension_worst": 0.06306
   },
   {
     "id": 874858,
@@ -6681,8 +6491,7 @@
     "concavity_worst": 0.8488,
     "concave points_worst": 0.1772,
     "symmetry_worst": 0.5166,
-    "fractal_dimension_worst": 0.1446,
-
+    "fractal_dimension_worst": 0.1446
   },
   {
     "id": 875093,
@@ -6716,8 +6525,7 @@
     "concavity_worst": 0.05186,
     "concave points_worst": 0.04773,
     "symmetry_worst": 0.2179,
-    "fractal_dimension_worst": 0.06871,
-
+    "fractal_dimension_worst": 0.06871
   },
   {
     "id": 875099,
@@ -6751,8 +6559,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.1909,
-    "fractal_dimension_worst": 0.06559,
-
+    "fractal_dimension_worst": 0.06559
   },
   {
     "id": 875263,
@@ -6786,8 +6593,7 @@
     "concavity_worst": 0.4425,
     "concave points_worst": 0.1459,
     "symmetry_worst": 0.3215,
-    "fractal_dimension_worst": 0.1205,
-
+    "fractal_dimension_worst": 0.1205
   },
   {
     "id": 87556202,
@@ -6821,8 +6627,7 @@
     "concavity_worst": 0.4589,
     "concave points_worst": 0.1727,
     "symmetry_worst": 0.3,
-    "fractal_dimension_worst": 0.08701,
-
+    "fractal_dimension_worst": 0.08701
   },
   {
     "id": 875878,
@@ -6856,8 +6661,7 @@
     "concavity_worst": 0.1764,
     "concave points_worst": 0.08235,
     "symmetry_worst": 0.3024,
-    "fractal_dimension_worst": 0.06949,
-
+    "fractal_dimension_worst": 0.06949
   },
   {
     "id": 875938,
@@ -6891,8 +6695,7 @@
     "concavity_worst": 0.3809,
     "concave points_worst": 0.1673,
     "symmetry_worst": 0.308,
-    "fractal_dimension_worst": 0.09333,
-
+    "fractal_dimension_worst": 0.09333
   },
   {
     "id": 877159,
@@ -6926,8 +6729,7 @@
     "concavity_worst": 0.2535,
     "concave points_worst": 0.09181,
     "symmetry_worst": 0.2369,
-    "fractal_dimension_worst": 0.06558,
-
+    "fractal_dimension_worst": 0.06558
   },
   {
     "id": 877486,
@@ -6961,8 +6763,7 @@
     "concavity_worst": 0.3865,
     "concave points_worst": 0.1708,
     "symmetry_worst": 0.3193,
-    "fractal_dimension_worst": 0.09221,
-
+    "fractal_dimension_worst": 0.09221
   },
   {
     "id": 877500,
@@ -6996,8 +6797,7 @@
     "concavity_worst": 0.4967,
     "concave points_worst": 0.1838,
     "symmetry_worst": 0.4753,
-    "fractal_dimension_worst": 0.1013,
-
+    "fractal_dimension_worst": 0.1013
   },
   {
     "id": 877501,
@@ -7031,8 +6831,7 @@
     "concavity_worst": 0.1377,
     "concave points_worst": 0.108,
     "symmetry_worst": 0.2668,
-    "fractal_dimension_worst": 0.08174,
-
+    "fractal_dimension_worst": 0.08174
   },
   {
     "id": 877989,
@@ -7066,8 +6865,7 @@
     "concavity_worst": 0.3508,
     "concave points_worst": 0.1939,
     "symmetry_worst": 0.2928,
-    "fractal_dimension_worst": 0.07867,
-
+    "fractal_dimension_worst": 0.07867
   },
   {
     "id": 878796,
@@ -7101,8 +6899,7 @@
     "concavity_worst": 0.7892,
     "concave points_worst": 0.2733,
     "symmetry_worst": 0.3198,
-    "fractal_dimension_worst": 0.08762,
-
+    "fractal_dimension_worst": 0.08762
   },
   {
     "id": 87880,
@@ -7136,8 +6933,7 @@
     "concavity_worst": 0.4646,
     "concave points_worst": 0.2013,
     "symmetry_worst": 0.4432,
-    "fractal_dimension_worst": 0.1086,
-
+    "fractal_dimension_worst": 0.1086
   },
   {
     "id": 87930,
@@ -7171,8 +6967,7 @@
     "concavity_worst": 0.2671,
     "concave points_worst": 0.1015,
     "symmetry_worst": 0.3014,
-    "fractal_dimension_worst": 0.0875,
-
+    "fractal_dimension_worst": 0.0875
   },
   {
     "id": 879523,
@@ -7206,8 +7001,7 @@
     "concavity_worst": 0.3327,
     "concave points_worst": 0.1252,
     "symmetry_worst": 0.3415,
-    "fractal_dimension_worst": 0.0974,
-
+    "fractal_dimension_worst": 0.0974
   },
   {
     "id": 879804,
@@ -7241,8 +7035,7 @@
     "concavity_worst": 0.06213,
     "concave points_worst": 0.05588,
     "symmetry_worst": 0.2989,
-    "fractal_dimension_worst": 0.0738,
-
+    "fractal_dimension_worst": 0.0738
   },
   {
     "id": 879830,
@@ -7276,8 +7069,7 @@
     "concavity_worst": 0.1932,
     "concave points_worst": 0.1096,
     "symmetry_worst": 0.3275,
-    "fractal_dimension_worst": 0.06469,
-
+    "fractal_dimension_worst": 0.06469
   },
   {
     "id": 8810158,
@@ -7311,8 +7103,7 @@
     "concavity_worst": 0.3162,
     "concave points_worst": 0.1126,
     "symmetry_worst": 0.4128,
-    "fractal_dimension_worst": 0.1076,
-
+    "fractal_dimension_worst": 0.1076
   },
   {
     "id": 8810436,
@@ -7346,8 +7137,7 @@
     "concavity_worst": 0.2962,
     "concave points_worst": 0.1035,
     "symmetry_worst": 0.232,
-    "fractal_dimension_worst": 0.07474,
-
+    "fractal_dimension_worst": 0.07474
   },
   {
     "id": 881046502,
@@ -7381,8 +7171,7 @@
     "concavity_worst": 0.3861,
     "concave points_worst": 0.192,
     "symmetry_worst": 0.2909,
-    "fractal_dimension_worst": 0.05865,
-
+    "fractal_dimension_worst": 0.05865
   },
   {
     "id": 8810528,
@@ -7416,8 +7205,7 @@
     "concavity_worst": 0.1471,
     "concave points_worst": 0.06913,
     "symmetry_worst": 0.2535,
-    "fractal_dimension_worst": 0.07993,
-
+    "fractal_dimension_worst": 0.07993
   },
   {
     "id": 8810703,
@@ -7451,8 +7239,7 @@
     "concavity_worst": 0.3201,
     "concave points_worst": 0.1595,
     "symmetry_worst": 0.1648,
-    "fractal_dimension_worst": 0.05525,
-
+    "fractal_dimension_worst": 0.05525
   },
   {
     "id": 881094802,
@@ -7486,8 +7273,7 @@
     "concavity_worst": 0.2803,
     "concave points_worst": 0.1099,
     "symmetry_worst": 0.1603,
-    "fractal_dimension_worst": 0.06818,
-
+    "fractal_dimension_worst": 0.06818
   },
   {
     "id": 8810955,
@@ -7521,8 +7307,7 @@
     "concavity_worst": 0.3744,
     "concave points_worst": 0.1772,
     "symmetry_worst": 0.4724,
-    "fractal_dimension_worst": 0.1026,
-
+    "fractal_dimension_worst": 0.1026
   },
   {
     "id": 8810987,
@@ -7556,8 +7341,7 @@
     "concavity_worst": 0.4636,
     "concave points_worst": 0.1654,
     "symmetry_worst": 0.363,
-    "fractal_dimension_worst": 0.1059,
-
+    "fractal_dimension_worst": 0.1059
   },
   {
     "id": 8811523,
@@ -7591,8 +7375,7 @@
     "concavity_worst": 0.2806,
     "concave points_worst": 0.1138,
     "symmetry_worst": 0.3397,
-    "fractal_dimension_worst": 0.08365,
-
+    "fractal_dimension_worst": 0.08365
   },
   {
     "id": 8811779,
@@ -7626,8 +7409,7 @@
     "concavity_worst": 0.1925,
     "concave points_worst": 0.03571,
     "symmetry_worst": 0.2868,
-    "fractal_dimension_worst": 0.07809,
-
+    "fractal_dimension_worst": 0.07809
   },
   {
     "id": 8811842,
@@ -7661,8 +7443,7 @@
     "concavity_worst": 0.3617,
     "concave points_worst": 0.182,
     "symmetry_worst": 0.307,
-    "fractal_dimension_worst": 0.08255,
-
+    "fractal_dimension_worst": 0.08255
   },
   {
     "id": 88119002,
@@ -7696,8 +7477,7 @@
     "concavity_worst": 0.3995,
     "concave points_worst": 0.1625,
     "symmetry_worst": 0.2713,
-    "fractal_dimension_worst": 0.07568,
-
+    "fractal_dimension_worst": 0.07568
   },
   {
     "id": 8812816,
@@ -7731,8 +7511,7 @@
     "concavity_worst": 0.1759,
     "concave points_worst": 0.08056,
     "symmetry_worst": 0.238,
-    "fractal_dimension_worst": 0.08718,
-
+    "fractal_dimension_worst": 0.08718
   },
   {
     "id": 8812818,
@@ -7766,8 +7545,7 @@
     "concavity_worst": 0.2577,
     "concave points_worst": 0.0909,
     "symmetry_worst": 0.3065,
-    "fractal_dimension_worst": 0.08177,
-
+    "fractal_dimension_worst": 0.08177
   },
   {
     "id": 8812844,
@@ -7801,8 +7579,7 @@
     "concavity_worst": 0.06572,
     "concave points_worst": 0.05575,
     "symmetry_worst": 0.3055,
-    "fractal_dimension_worst": 0.08797,
-
+    "fractal_dimension_worst": 0.08797
   },
   {
     "id": 8812877,
@@ -7836,8 +7613,7 @@
     "concavity_worst": 0.3976,
     "concave points_worst": 0.1479,
     "symmetry_worst": 0.3993,
-    "fractal_dimension_worst": 0.1064,
-
+    "fractal_dimension_worst": 0.1064
   },
   {
     "id": 8813129,
@@ -7871,8 +7647,7 @@
     "concavity_worst": 0.1786,
     "concave points_worst": 0.09678,
     "symmetry_worst": 0.2506,
-    "fractal_dimension_worst": 0.07623,
-
+    "fractal_dimension_worst": 0.07623
   },
   {
     "id": 88143502,
@@ -7906,8 +7681,7 @@
     "concavity_worst": 0.1632,
     "concave points_worst": 0.1087,
     "symmetry_worst": 0.3062,
-    "fractal_dimension_worst": 0.06072,
-
+    "fractal_dimension_worst": 0.06072
   },
   {
     "id": 88147101,
@@ -7941,8 +7715,7 @@
     "concavity_worst": 0.02639,
     "concave points_worst": 0.04464,
     "symmetry_worst": 0.2615,
-    "fractal_dimension_worst": 0.08269,
-
+    "fractal_dimension_worst": 0.08269
   },
   {
     "id": 88147102,
@@ -7976,8 +7749,7 @@
     "concavity_worst": 0.3402,
     "concave points_worst": 0.1379,
     "symmetry_worst": 0.2954,
-    "fractal_dimension_worst": 0.08362,
-
+    "fractal_dimension_worst": 0.08362
   },
   {
     "id": 88147202,
@@ -8011,8 +7783,7 @@
     "concavity_worst": 0.3911,
     "concave points_worst": 0.118,
     "symmetry_worst": 0.2826,
-    "fractal_dimension_worst": 0.09585,
-
+    "fractal_dimension_worst": 0.09585
   },
   {
     "id": 881861,
@@ -8046,8 +7817,7 @@
     "concavity_worst": 0.6282,
     "concave points_worst": 0.1977,
     "symmetry_worst": 0.3407,
-    "fractal_dimension_worst": 0.1243,
-
+    "fractal_dimension_worst": 0.1243
   },
   {
     "id": 881972,
@@ -8081,8 +7851,7 @@
     "concavity_worst": 0.5018,
     "concave points_worst": 0.2543,
     "symmetry_worst": 0.3109,
-    "fractal_dimension_worst": 0.09061,
-
+    "fractal_dimension_worst": 0.09061
   },
   {
     "id": 88199202,
@@ -8116,8 +7885,7 @@
     "concavity_worst": 0.1089,
     "concave points_worst": 0.02083,
     "symmetry_worst": 0.2849,
-    "fractal_dimension_worst": 0.07087,
-
+    "fractal_dimension_worst": 0.07087
   },
   {
     "id": 88203002,
@@ -8151,8 +7919,7 @@
     "concavity_worst": 0.02318,
     "concave points_worst": 0.03002,
     "symmetry_worst": 0.2911,
-    "fractal_dimension_worst": 0.07307,
-
+    "fractal_dimension_worst": 0.07307
   },
   {
     "id": 88206102,
@@ -8186,8 +7953,7 @@
     "concavity_worst": 0.4146,
     "concave points_worst": 0.1563,
     "symmetry_worst": 0.2437,
-    "fractal_dimension_worst": 0.08328,
-
+    "fractal_dimension_worst": 0.08328
   },
   {
     "id": 882488,
@@ -8221,8 +7987,7 @@
     "concavity_worst": 0.07161,
     "concave points_worst": 0.07222,
     "symmetry_worst": 0.2757,
-    "fractal_dimension_worst": 0.08178,
-
+    "fractal_dimension_worst": 0.08178
   },
   {
     "id": 88249602,
@@ -8256,8 +8021,7 @@
     "concavity_worst": 0.06231,
     "concave points_worst": 0.07963,
     "symmetry_worst": 0.2226,
-    "fractal_dimension_worst": 0.07617,
-
+    "fractal_dimension_worst": 0.07617
   },
   {
     "id": 88299702,
@@ -8291,8 +8055,7 @@
     "concavity_worst": 0.582,
     "concave points_worst": 0.2593,
     "symmetry_worst": 0.3103,
-    "fractal_dimension_worst": 0.08677,
-
+    "fractal_dimension_worst": 0.08677
   },
   {
     "id": 883263,
@@ -8326,8 +8089,7 @@
     "concavity_worst": 0.3158,
     "concave points_worst": 0.1445,
     "symmetry_worst": 0.2238,
-    "fractal_dimension_worst": 0.07127,
-
+    "fractal_dimension_worst": 0.07127
   },
   {
     "id": 883270,
@@ -8361,8 +8123,7 @@
     "concavity_worst": 0.3064,
     "concave points_worst": 0.08219,
     "symmetry_worst": 0.189,
-    "fractal_dimension_worst": 0.07796,
-
+    "fractal_dimension_worst": 0.07796
   },
   {
     "id": 88330202,
@@ -8396,8 +8157,7 @@
     "concavity_worst": 0.3241,
     "concave points_worst": 0.2066,
     "symmetry_worst": 0.2853,
-    "fractal_dimension_worst": 0.08496,
-
+    "fractal_dimension_worst": 0.08496
   },
   {
     "id": 88350402,
@@ -8431,8 +8191,7 @@
     "concavity_worst": 0.1533,
     "concave points_worst": 0.09222,
     "symmetry_worst": 0.253,
-    "fractal_dimension_worst": 0.0651,
-
+    "fractal_dimension_worst": 0.0651
   },
   {
     "id": 883539,
@@ -8466,8 +8225,7 @@
     "concavity_worst": 0.06243,
     "concave points_worst": 0.04052,
     "symmetry_worst": 0.2901,
-    "fractal_dimension_worst": 0.06783,
-
+    "fractal_dimension_worst": 0.06783
   },
   {
     "id": 883852,
@@ -8501,8 +8259,7 @@
     "concavity_worst": 0.7436,
     "concave points_worst": 0.1218,
     "symmetry_worst": 0.3308,
-    "fractal_dimension_worst": 0.1297,
-
+    "fractal_dimension_worst": 0.1297
   },
   {
     "id": 88411702,
@@ -8536,8 +8293,7 @@
     "concavity_worst": 0.1359,
     "concave points_worst": 0.06106,
     "symmetry_worst": 0.2663,
-    "fractal_dimension_worst": 0.06321,
-
+    "fractal_dimension_worst": 0.06321
   },
   {
     "id": 884180,
@@ -8571,8 +8327,7 @@
     "concavity_worst": 0.3458,
     "concave points_worst": 0.1564,
     "symmetry_worst": 0.292,
-    "fractal_dimension_worst": 0.07614,
-
+    "fractal_dimension_worst": 0.07614
   },
   {
     "id": 884437,
@@ -8606,8 +8361,7 @@
     "concavity_worst": 0.1181,
     "concave points_worst": 0.06736,
     "symmetry_worst": 0.2883,
-    "fractal_dimension_worst": 0.07748,
-
+    "fractal_dimension_worst": 0.07748
   },
   {
     "id": 884448,
@@ -8641,8 +8395,7 @@
     "concavity_worst": 0.2298,
     "concave points_worst": 0.0497,
     "symmetry_worst": 0.2767,
-    "fractal_dimension_worst": 0.07198,
-
+    "fractal_dimension_worst": 0.07198
   },
   {
     "id": 884626,
@@ -8676,8 +8429,7 @@
     "concavity_worst": 0.7727,
     "concave points_worst": 0.1561,
     "symmetry_worst": 0.2639,
-    "fractal_dimension_worst": 0.1178,
-
+    "fractal_dimension_worst": 0.1178
   },
   {
     "id": 88466802,
@@ -8711,8 +8463,7 @@
     "concavity_worst": 0.1125,
     "concave points_worst": 0.06136,
     "symmetry_worst": 0.3409,
-    "fractal_dimension_worst": 0.08147,
-
+    "fractal_dimension_worst": 0.08147
   },
   {
     "id": 884689,
@@ -8746,8 +8497,7 @@
     "concavity_worst": 0.1804,
     "concave points_worst": 0.09608,
     "symmetry_worst": 0.2664,
-    "fractal_dimension_worst": 0.07809,
-
+    "fractal_dimension_worst": 0.07809
   },
   {
     "id": 884948,
@@ -8781,8 +8531,7 @@
     "concavity_worst": 0.6991,
     "concave points_worst": 0.2105,
     "symmetry_worst": 0.3126,
-    "fractal_dimension_worst": 0.07849,
-
+    "fractal_dimension_worst": 0.07849
   },
   {
     "id": 88518501,
@@ -8816,8 +8565,7 @@
     "concavity_worst": 0.08105,
     "concave points_worst": 0.06544,
     "symmetry_worst": 0.274,
-    "fractal_dimension_worst": 0.06487,
-
+    "fractal_dimension_worst": 0.06487
   },
   {
     "id": 885429,
@@ -8851,8 +8599,7 @@
     "concavity_worst": 0.8489,
     "concave points_worst": 0.2507,
     "symmetry_worst": 0.2749,
-    "fractal_dimension_worst": 0.1297,
-
+    "fractal_dimension_worst": 0.1297
   },
   {
     "id": 8860702,
@@ -8886,8 +8633,7 @@
     "concavity_worst": 0.3378,
     "concave points_worst": 0.1857,
     "symmetry_worst": 0.3138,
-    "fractal_dimension_worst": 0.08113,
-
+    "fractal_dimension_worst": 0.08113
   },
   {
     "id": 886226,
@@ -8921,8 +8667,7 @@
     "concavity_worst": 0.4317,
     "concave points_worst": 0.1999,
     "symmetry_worst": 0.3379,
-    "fractal_dimension_worst": 0.0895,
-
+    "fractal_dimension_worst": 0.0895
   },
   {
     "id": 886452,
@@ -8956,8 +8701,7 @@
     "concavity_worst": 0.3209,
     "concave points_worst": 0.1374,
     "symmetry_worst": 0.3068,
-    "fractal_dimension_worst": 0.07957,
-
+    "fractal_dimension_worst": 0.07957
   },
   {
     "id": 88649001,
@@ -8991,8 +8735,7 @@
     "concavity_worst": 0.4251,
     "concave points_worst": 0.1941,
     "symmetry_worst": 0.2818,
-    "fractal_dimension_worst": 0.1005,
-
+    "fractal_dimension_worst": 0.1005
   },
   {
     "id": 886776,
@@ -9026,8 +8769,7 @@
     "concavity_worst": 0.4429,
     "concave points_worst": 0.2229,
     "symmetry_worst": 0.3258,
-    "fractal_dimension_worst": 0.1191,
-
+    "fractal_dimension_worst": 0.1191
   },
   {
     "id": 887181,
@@ -9061,8 +8803,7 @@
     "concavity_worst": 0.6181,
     "concave points_worst": 0.2462,
     "symmetry_worst": 0.3277,
-    "fractal_dimension_worst": 0.1019,
-
+    "fractal_dimension_worst": 0.1019
   },
   {
     "id": 88725602,
@@ -9096,8 +8837,7 @@
     "concavity_worst": 0.5703,
     "concave points_worst": 0.2014,
     "symmetry_worst": 0.3512,
-    "fractal_dimension_worst": 0.1204,
-
+    "fractal_dimension_worst": 0.1204
   },
   {
     "id": 887549,
@@ -9131,8 +8871,7 @@
     "concavity_worst": 0.3788,
     "concave points_worst": 0.1697,
     "symmetry_worst": 0.3151,
-    "fractal_dimension_worst": 0.07999,
-
+    "fractal_dimension_worst": 0.07999
   },
   {
     "id": 888264,
@@ -9166,8 +8905,7 @@
     "concavity_worst": 0.1211,
     "concave points_worst": 0.08235,
     "symmetry_worst": 0.2452,
-    "fractal_dimension_worst": 0.06515,
-
+    "fractal_dimension_worst": 0.06515
   },
   {
     "id": 888570,
@@ -9201,8 +8939,7 @@
     "concavity_worst": 0.2298,
     "concave points_worst": 0.1528,
     "symmetry_worst": 0.3067,
-    "fractal_dimension_worst": 0.07484,
-
+    "fractal_dimension_worst": 0.07484
   },
   {
     "id": 889403,
@@ -9236,8 +8973,7 @@
     "concavity_worst": 0.226,
     "concave points_worst": 0.08568,
     "symmetry_worst": 0.2683,
-    "fractal_dimension_worst": 0.06829,
-
+    "fractal_dimension_worst": 0.06829
   },
   {
     "id": 889719,
@@ -9271,8 +9007,7 @@
     "concavity_worst": 0.3889,
     "concave points_worst": 0.1984,
     "symmetry_worst": 0.3216,
-    "fractal_dimension_worst": 0.0757,
-
+    "fractal_dimension_worst": 0.0757
   },
   {
     "id": 88995002,
@@ -9306,8 +9041,7 @@
     "concavity_worst": 0.3442,
     "concave points_worst": 0.1659,
     "symmetry_worst": 0.2868,
-    "fractal_dimension_worst": 0.08218,
-
+    "fractal_dimension_worst": 0.08218
   },
   {
     "id": 8910251,
@@ -9341,8 +9075,7 @@
     "concavity_worst": 0.1916,
     "concave points_worst": 0.07926,
     "symmetry_worst": 0.294,
-    "fractal_dimension_worst": 0.07587,
-
+    "fractal_dimension_worst": 0.07587
   },
   {
     "id": 8910499,
@@ -9376,8 +9109,7 @@
     "concavity_worst": 0.1453,
     "concave points_worst": 0.06189,
     "symmetry_worst": 0.2446,
-    "fractal_dimension_worst": 0.07024,
-
+    "fractal_dimension_worst": 0.07024
   },
   {
     "id": 8910506,
@@ -9411,8 +9143,7 @@
     "concavity_worst": 0.1992,
     "concave points_worst": 0.0578,
     "symmetry_worst": 0.3604,
-    "fractal_dimension_worst": 0.07062,
-
+    "fractal_dimension_worst": 0.07062
   },
   {
     "id": 8910720,
@@ -9446,8 +9177,7 @@
     "concavity_worst": 0.2534,
     "concave points_worst": 0.086,
     "symmetry_worst": 0.2605,
-    "fractal_dimension_worst": 0.08701,
-
+    "fractal_dimension_worst": 0.08701
   },
   {
     "id": 8910721,
@@ -9481,8 +9211,7 @@
     "concavity_worst": 0.03866,
     "concave points_worst": 0.03333,
     "symmetry_worst": 0.2458,
-    "fractal_dimension_worst": 0.0612,
-
+    "fractal_dimension_worst": 0.0612
   },
   {
     "id": 8910748,
@@ -9516,8 +9245,7 @@
     "concavity_worst": 0.1275,
     "concave points_worst": 0.0875,
     "symmetry_worst": 0.2733,
-    "fractal_dimension_worst": 0.08022,
-
+    "fractal_dimension_worst": 0.08022
   },
   {
     "id": 8910988,
@@ -9551,8 +9279,7 @@
     "concavity_worst": 0.5807,
     "concave points_worst": 0.1841,
     "symmetry_worst": 0.2833,
-    "fractal_dimension_worst": 0.08858,
-
+    "fractal_dimension_worst": 0.08858
   },
   {
     "id": 8910996,
@@ -9586,8 +9313,7 @@
     "concavity_worst": 0.04043,
     "concave points_worst": 0.05159,
     "symmetry_worst": 0.2841,
-    "fractal_dimension_worst": 0.08175,
-
+    "fractal_dimension_worst": 0.08175
   },
   {
     "id": 8911163,
@@ -9621,8 +9347,7 @@
     "concavity_worst": 0.208,
     "concave points_worst": 0.1136,
     "symmetry_worst": 0.2504,
-    "fractal_dimension_worst": 0.07948,
-
+    "fractal_dimension_worst": 0.07948
   },
   {
     "id": 8911164,
@@ -9656,8 +9381,7 @@
     "concavity_worst": 0.07153,
     "concave points_worst": 0.08946,
     "symmetry_worst": 0.222,
-    "fractal_dimension_worst": 0.06033,
-
+    "fractal_dimension_worst": 0.06033
   },
   {
     "id": 8911230,
@@ -9691,8 +9415,7 @@
     "concavity_worst": 0.004955,
     "concave points_worst": 0.01111,
     "symmetry_worst": 0.2758,
-    "fractal_dimension_worst": 0.06386,
-
+    "fractal_dimension_worst": 0.06386
   },
   {
     "id": 8911670,
@@ -9726,8 +9449,7 @@
     "concavity_worst": 0.221,
     "concave points_worst": 0.1294,
     "symmetry_worst": 0.2567,
-    "fractal_dimension_worst": 0.05737,
-
+    "fractal_dimension_worst": 0.05737
   },
   {
     "id": 8911800,
@@ -9761,8 +9483,7 @@
     "concavity_worst": 0.106,
     "concave points_worst": 0.05185,
     "symmetry_worst": 0.2335,
-    "fractal_dimension_worst": 0.06263,
-
+    "fractal_dimension_worst": 0.06263
   },
   {
     "id": 8911834,
@@ -9796,8 +9517,7 @@
     "concavity_worst": 0.1456,
     "concave points_worst": 0.09993,
     "symmetry_worst": 0.2955,
-    "fractal_dimension_worst": 0.06912,
-
+    "fractal_dimension_worst": 0.06912
   },
   {
     "id": 8912049,
@@ -9831,8 +9551,7 @@
     "concavity_worst": 0.5754,
     "concave points_worst": 0.1872,
     "symmetry_worst": 0.3258,
-    "fractal_dimension_worst": 0.0972,
-
+    "fractal_dimension_worst": 0.0972
   },
   {
     "id": 8912055,
@@ -9866,8 +9585,7 @@
     "concavity_worst": 0.06735,
     "concave points_worst": 0.0829,
     "symmetry_worst": 0.3101,
-    "fractal_dimension_worst": 0.06688,
-
+    "fractal_dimension_worst": 0.06688
   },
   {
     "id": 89122,
@@ -9901,8 +9619,7 @@
     "concavity_worst": 0.4316,
     "concave points_worst": 0.2252,
     "symmetry_worst": 0.359,
-    "fractal_dimension_worst": 0.07787,
-
+    "fractal_dimension_worst": 0.07787
   },
   {
     "id": 8912280,
@@ -9936,8 +9653,7 @@
     "concavity_worst": 0.5026,
     "concave points_worst": 0.1732,
     "symmetry_worst": 0.277,
-    "fractal_dimension_worst": 0.1063,
-
+    "fractal_dimension_worst": 0.1063
   },
   {
     "id": 8912284,
@@ -9971,8 +9687,7 @@
     "concavity_worst": 0.3344,
     "concave points_worst": 0.1017,
     "symmetry_worst": 0.1999,
-    "fractal_dimension_worst": 0.07127,
-
+    "fractal_dimension_worst": 0.07127
   },
   {
     "id": 8912521,
@@ -10006,8 +9721,7 @@
     "concavity_worst": 0.005579,
     "concave points_worst": 0.008772,
     "symmetry_worst": 0.2505,
-    "fractal_dimension_worst": 0.06431,
-
+    "fractal_dimension_worst": 0.06431
   },
   {
     "id": 8912909,
@@ -10041,8 +9755,7 @@
     "concavity_worst": 0.2365,
     "concave points_worst": 0.1155,
     "symmetry_worst": 0.2465,
-    "fractal_dimension_worst": 0.09981,
-
+    "fractal_dimension_worst": 0.09981
   },
   {
     "id": 8913,
@@ -10076,8 +9789,7 @@
     "concavity_worst": 0.1186,
     "concave points_worst": 0.05366,
     "symmetry_worst": 0.2309,
-    "fractal_dimension_worst": 0.06915,
-
+    "fractal_dimension_worst": 0.06915
   },
   {
     "id": 8913049,
@@ -10111,8 +9823,7 @@
     "concavity_worst": 0.1546,
     "concave points_worst": 0.09314,
     "symmetry_worst": 0.2955,
-    "fractal_dimension_worst": 0.07009,
-
+    "fractal_dimension_worst": 0.07009
   },
   {
     "id": 89143601,
@@ -10146,8 +9857,7 @@
     "concavity_worst": 0.07529,
     "concave points_worst": 0.06203,
     "symmetry_worst": 0.3267,
-    "fractal_dimension_worst": 0.06994,
-
+    "fractal_dimension_worst": 0.06994
   },
   {
     "id": 89143602,
@@ -10181,8 +9891,7 @@
     "concavity_worst": 0.222,
     "concave points_worst": 0.1021,
     "symmetry_worst": 0.2272,
-    "fractal_dimension_worst": 0.08799,
-
+    "fractal_dimension_worst": 0.08799
   },
   {
     "id": 8915,
@@ -10216,8 +9925,7 @@
     "concavity_worst": 0.1804,
     "concave points_worst": 0.1489,
     "symmetry_worst": 0.2962,
-    "fractal_dimension_worst": 0.08472,
-
+    "fractal_dimension_worst": 0.08472
   },
   {
     "id": 891670,
@@ -10251,8 +9959,7 @@
     "concavity_worst": 0.2241,
     "concave points_worst": 0.1056,
     "symmetry_worst": 0.338,
-    "fractal_dimension_worst": 0.09584,
-
+    "fractal_dimension_worst": 0.09584
   },
   {
     "id": 891703,
@@ -10286,8 +9993,7 @@
     "concavity_worst": 0.1316,
     "concave points_worst": 0.0914,
     "symmetry_worst": 0.3101,
-    "fractal_dimension_worst": 0.07007,
-
+    "fractal_dimension_worst": 0.07007
   },
   {
     "id": 891716,
@@ -10321,8 +10027,7 @@
     "concavity_worst": 0.05233,
     "concave points_worst": 0.06343,
     "symmetry_worst": 0.2369,
-    "fractal_dimension_worst": 0.06922,
-
+    "fractal_dimension_worst": 0.06922
   },
   {
     "id": 891923,
@@ -10356,8 +10061,7 @@
     "concavity_worst": 0.03732,
     "concave points_worst": 0.05802,
     "symmetry_worst": 0.2823,
-    "fractal_dimension_worst": 0.06794,
-
+    "fractal_dimension_worst": 0.06794
   },
   {
     "id": 891936,
@@ -10391,8 +10095,7 @@
     "concavity_worst": 0.02884,
     "concave points_worst": 0.03194,
     "symmetry_worst": 0.2143,
-    "fractal_dimension_worst": 0.06643,
-
+    "fractal_dimension_worst": 0.06643
   },
   {
     "id": 892189,
@@ -10426,8 +10129,7 @@
     "concavity_worst": 0.0612,
     "concave points_worst": 0.0716,
     "symmetry_worst": 0.1978,
-    "fractal_dimension_worst": 0.06915,
-
+    "fractal_dimension_worst": 0.06915
   },
   {
     "id": 892214,
@@ -10461,8 +10163,7 @@
     "concavity_worst": 0.1565,
     "concave points_worst": 0.0753,
     "symmetry_worst": 0.2636,
-    "fractal_dimension_worst": 0.07676,
-
+    "fractal_dimension_worst": 0.07676
   },
   {
     "id": 892399,
@@ -10496,8 +10197,7 @@
     "concavity_worst": 0.04158,
     "concave points_worst": 0.03125,
     "symmetry_worst": 0.2227,
-    "fractal_dimension_worst": 0.06777,
-
+    "fractal_dimension_worst": 0.06777
   },
   {
     "id": 892438,
@@ -10531,8 +10231,7 @@
     "concavity_worst": 0.6121,
     "concave points_worst": 0.198,
     "symmetry_worst": 0.2968,
-    "fractal_dimension_worst": 0.09929,
-
+    "fractal_dimension_worst": 0.09929
   },
   {
     "id": 892604,
@@ -10566,8 +10265,7 @@
     "concavity_worst": 0.1904,
     "concave points_worst": 0.07625,
     "symmetry_worst": 0.2685,
-    "fractal_dimension_worst": 0.07764,
-
+    "fractal_dimension_worst": 0.07764
   },
   {
     "id": 89263202,
@@ -10601,8 +10299,7 @@
     "concavity_worst": 0.4932,
     "concave points_worst": 0.1923,
     "symmetry_worst": 0.3294,
-    "fractal_dimension_worst": 0.09469,
-
+    "fractal_dimension_worst": 0.09469
   },
   {
     "id": 892657,
@@ -10636,8 +10333,7 @@
     "concavity_worst": 0.08423,
     "concave points_worst": 0.06528,
     "symmetry_worst": 0.2213,
-    "fractal_dimension_worst": 0.07842,
-
+    "fractal_dimension_worst": 0.07842
   },
   {
     "id": 89296,
@@ -10671,8 +10367,7 @@
     "concavity_worst": 0.1226,
     "concave points_worst": 0.05509,
     "symmetry_worst": 0.2208,
-    "fractal_dimension_worst": 0.07638,
-
+    "fractal_dimension_worst": 0.07638
   },
   {
     "id": 893061,
@@ -10706,8 +10401,7 @@
     "concavity_worst": 0.07239,
     "concave points_worst": 0.04815,
     "symmetry_worst": 0.3244,
-    "fractal_dimension_worst": 0.06745,
-
+    "fractal_dimension_worst": 0.06745
   },
   {
     "id": 89344,
@@ -10741,8 +10435,7 @@
     "concavity_worst": 0.0112,
     "concave points_worst": 0.025,
     "symmetry_worst": 0.2651,
-    "fractal_dimension_worst": 0.08385,
-
+    "fractal_dimension_worst": 0.08385
   },
   {
     "id": 89346,
@@ -10776,8 +10469,7 @@
     "concavity_worst": 0.01472,
     "concave points_worst": 0.01389,
     "symmetry_worst": 0.2991,
-    "fractal_dimension_worst": 0.07804,
-
+    "fractal_dimension_worst": 0.07804
   },
   {
     "id": 893526,
@@ -10811,8 +10503,7 @@
     "concavity_worst": 0.01379,
     "concave points_worst": 0.0221,
     "symmetry_worst": 0.2267,
-    "fractal_dimension_worst": 0.06192,
-
+    "fractal_dimension_worst": 0.06192
   },
   {
     "id": 893548,
@@ -10846,8 +10537,7 @@
     "concavity_worst": 0.01824,
     "concave points_worst": 0.03532,
     "symmetry_worst": 0.2107,
-    "fractal_dimension_worst": 0.0658,
-
+    "fractal_dimension_worst": 0.0658
   },
   {
     "id": 893783,
@@ -10881,8 +10571,7 @@
     "concavity_worst": 0.07915,
     "concave points_worst": 0.05741,
     "symmetry_worst": 0.3487,
-    "fractal_dimension_worst": 0.06958,
-
+    "fractal_dimension_worst": 0.06958
   },
   {
     "id": 89382601,
@@ -10916,8 +10605,7 @@
     "concavity_worst": 0.04746,
     "concave points_worst": 0.05813,
     "symmetry_worst": 0.253,
-    "fractal_dimension_worst": 0.05695,
-
+    "fractal_dimension_worst": 0.05695
   },
   {
     "id": 89382602,
@@ -10951,8 +10639,7 @@
     "concavity_worst": 0.1769,
     "concave points_worst": 0.08411,
     "symmetry_worst": 0.2564,
-    "fractal_dimension_worst": 0.08253,
-
+    "fractal_dimension_worst": 0.08253
   },
   {
     "id": 893988,
@@ -10986,8 +10673,7 @@
     "concavity_worst": 0.08324,
     "concave points_worst": 0.04715,
     "symmetry_worst": 0.339,
-    "fractal_dimension_worst": 0.07434,
-
+    "fractal_dimension_worst": 0.07434
   },
   {
     "id": 894047,
@@ -11021,8 +10707,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.3142,
-    "fractal_dimension_worst": 0.08116,
-
+    "fractal_dimension_worst": 0.08116
   },
   {
     "id": 894089,
@@ -11056,8 +10741,7 @@
     "concavity_worst": 0.01938,
     "concave points_worst": 0.02784,
     "symmetry_worst": 0.1917,
-    "fractal_dimension_worst": 0.06174,
-
+    "fractal_dimension_worst": 0.06174
   },
   {
     "id": 894090,
@@ -11091,8 +10775,7 @@
     "concavity_worst": 0.04116,
     "concave points_worst": 0.01852,
     "symmetry_worst": 0.2293,
-    "fractal_dimension_worst": 0.06037,
-
+    "fractal_dimension_worst": 0.06037
   },
   {
     "id": 894326,
@@ -11126,8 +10809,7 @@
     "concavity_worst": 0.3853,
     "concave points_worst": 0.1776,
     "symmetry_worst": 0.2812,
-    "fractal_dimension_worst": 0.08198,
-
+    "fractal_dimension_worst": 0.08198
   },
   {
     "id": 894329,
@@ -11161,8 +10843,7 @@
     "concavity_worst": 0.4609,
     "concave points_worst": 0.1145,
     "symmetry_worst": 0.3135,
-    "fractal_dimension_worst": 0.1055,
-
+    "fractal_dimension_worst": 0.1055
   },
   {
     "id": 894335,
@@ -11196,8 +10877,7 @@
     "concavity_worst": 0.02237,
     "concave points_worst": 0.02832,
     "symmetry_worst": 0.1901,
-    "fractal_dimension_worst": 0.05932,
-
+    "fractal_dimension_worst": 0.05932
   },
   {
     "id": 894604,
@@ -11231,8 +10911,7 @@
     "concavity_worst": 0.1898,
     "concave points_worst": 0.09744,
     "symmetry_worst": 0.2608,
-    "fractal_dimension_worst": 0.09702,
-
+    "fractal_dimension_worst": 0.09702
   },
   {
     "id": 894618,
@@ -11266,8 +10945,7 @@
     "concavity_worst": 0.2606,
     "concave points_worst": 0.1425,
     "symmetry_worst": 0.3055,
-    "fractal_dimension_worst": 0.05933,
-
+    "fractal_dimension_worst": 0.05933
   },
   {
     "id": 894855,
@@ -11301,8 +10979,7 @@
     "concavity_worst": 0.1791,
     "concave points_worst": 0.1155,
     "symmetry_worst": 0.2382,
-    "fractal_dimension_worst": 0.08553,
-
+    "fractal_dimension_worst": 0.08553
   },
   {
     "id": 895100,
@@ -11336,8 +11013,7 @@
     "concavity_worst": 0.5344,
     "concave points_worst": 0.2685,
     "symmetry_worst": 0.5558,
-    "fractal_dimension_worst": 0.1024,
-
+    "fractal_dimension_worst": 0.1024
   },
   {
     "id": 89511501,
@@ -11371,8 +11047,7 @@
     "concavity_worst": 0.1167,
     "concave points_worst": 0.05556,
     "symmetry_worst": 0.2661,
-    "fractal_dimension_worst": 0.07961,
-
+    "fractal_dimension_worst": 0.07961
   },
   {
     "id": 89511502,
@@ -11406,8 +11081,7 @@
     "concavity_worst": 0.102,
     "concave points_worst": 0.05602,
     "symmetry_worst": 0.2688,
-    "fractal_dimension_worst": 0.06888,
-
+    "fractal_dimension_worst": 0.06888
   },
   {
     "id": 89524,
@@ -11441,8 +11115,7 @@
     "concavity_worst": 0.05307,
     "concave points_worst": 0.0589,
     "symmetry_worst": 0.21,
-    "fractal_dimension_worst": 0.07083,
-
+    "fractal_dimension_worst": 0.07083
   },
   {
     "id": 895299,
@@ -11476,8 +11149,7 @@
     "concavity_worst": 0.007732,
     "concave points_worst": 0.02796,
     "symmetry_worst": 0.2171,
-    "fractal_dimension_worst": 0.07037,
-
+    "fractal_dimension_worst": 0.07037
   },
   {
     "id": 8953902,
@@ -11511,8 +11183,7 @@
     "concavity_worst": 0.3597,
     "concave points_worst": 0.1583,
     "symmetry_worst": 0.3103,
-    "fractal_dimension_worst": 0.082,
-
+    "fractal_dimension_worst": 0.082
   },
   {
     "id": 895633,
@@ -11546,8 +11217,7 @@
     "concavity_worst": 0.3344,
     "concave points_worst": 0.1047,
     "symmetry_worst": 0.2736,
-    "fractal_dimension_worst": 0.07953,
-
+    "fractal_dimension_worst": 0.07953
   },
   {
     "id": 896839,
@@ -11581,8 +11251,7 @@
     "concavity_worst": 0.4956,
     "concave points_worst": 0.1981,
     "symmetry_worst": 0.3019,
-    "fractal_dimension_worst": 0.09124,
-
+    "fractal_dimension_worst": 0.09124
   },
   {
     "id": 896864,
@@ -11616,8 +11285,7 @@
     "concavity_worst": 0.3439,
     "concave points_worst": 0.09858,
     "symmetry_worst": 0.3596,
-    "fractal_dimension_worst": 0.09166,
-
+    "fractal_dimension_worst": 0.09166
   },
   {
     "id": 897132,
@@ -11651,8 +11319,7 @@
     "concavity_worst": 0.01335,
     "concave points_worst": 0.02022,
     "symmetry_worst": 0.3292,
-    "fractal_dimension_worst": 0.06522,
-
+    "fractal_dimension_worst": 0.06522
   },
   {
     "id": 897137,
@@ -11686,8 +11353,7 @@
     "concavity_worst": 0.005518,
     "concave points_worst": 0.01667,
     "symmetry_worst": 0.2815,
-    "fractal_dimension_worst": 0.07418,
-
+    "fractal_dimension_worst": 0.07418
   },
   {
     "id": 897374,
@@ -11721,8 +11387,7 @@
     "concavity_worst": 0.03619,
     "concave points_worst": 0.03983,
     "symmetry_worst": 0.2554,
-    "fractal_dimension_worst": 0.07207,
-
+    "fractal_dimension_worst": 0.07207
   },
   {
     "id": 89742801,
@@ -11756,8 +11421,7 @@
     "concavity_worst": 0.392,
     "concave points_worst": 0.1827,
     "symmetry_worst": 0.2623,
-    "fractal_dimension_worst": 0.07599,
-
+    "fractal_dimension_worst": 0.07599
   },
   {
     "id": 897604,
@@ -11791,8 +11455,7 @@
     "concavity_worst": 0.145,
     "concave points_worst": 0.0585,
     "symmetry_worst": 0.2432,
-    "fractal_dimension_worst": 0.1009,
-
+    "fractal_dimension_worst": 0.1009
   },
   {
     "id": 897630,
@@ -11826,8 +11489,7 @@
     "concavity_worst": 0.4634,
     "concave points_worst": 0.2048,
     "symmetry_worst": 0.3679,
-    "fractal_dimension_worst": 0.0987,
-
+    "fractal_dimension_worst": 0.0987
   },
   {
     "id": 897880,
@@ -11861,8 +11523,7 @@
     "concavity_worst": 0.1055,
     "concave points_worst": 0.06499,
     "symmetry_worst": 0.2894,
-    "fractal_dimension_worst": 0.07664,
-
+    "fractal_dimension_worst": 0.07664
   },
   {
     "id": 89812,
@@ -11896,8 +11557,7 @@
     "concavity_worst": 0.4819,
     "concave points_worst": 0.2089,
     "symmetry_worst": 0.2593,
-    "fractal_dimension_worst": 0.07738,
-
+    "fractal_dimension_worst": 0.07738
   },
   {
     "id": 89813,
@@ -11931,8 +11591,7 @@
     "concavity_worst": 0.3755,
     "concave points_worst": 0.1414,
     "symmetry_worst": 0.3053,
-    "fractal_dimension_worst": 0.08764,
-
+    "fractal_dimension_worst": 0.08764
   },
   {
     "id": 898143,
@@ -11966,8 +11625,7 @@
     "concavity_worst": 0.4341,
     "concave points_worst": 0.0812,
     "symmetry_worst": 0.2982,
-    "fractal_dimension_worst": 0.09825,
-
+    "fractal_dimension_worst": 0.09825
   },
   {
     "id": 89827,
@@ -12001,8 +11659,7 @@
     "concavity_worst": 0.2299,
     "concave points_worst": 0.1075,
     "symmetry_worst": 0.3301,
-    "fractal_dimension_worst": 0.0908,
-
+    "fractal_dimension_worst": 0.0908
   },
   {
     "id": 898431,
@@ -12036,8 +11693,7 @@
     "concavity_worst": 0.4734,
     "concave points_worst": 0.2255,
     "symmetry_worst": 0.4045,
-    "fractal_dimension_worst": 0.07918,
-
+    "fractal_dimension_worst": 0.07918
   },
   {
     "id": 89864002,
@@ -12071,8 +11727,7 @@
     "concavity_worst": 0.1087,
     "concave points_worst": 0.07864,
     "symmetry_worst": 0.2765,
-    "fractal_dimension_worst": 0.07806,
-
+    "fractal_dimension_worst": 0.07806
   },
   {
     "id": 898677,
@@ -12106,8 +11761,7 @@
     "concavity_worst": 0.07162,
     "concave points_worst": 0.04074,
     "symmetry_worst": 0.2434,
-    "fractal_dimension_worst": 0.08488,
-
+    "fractal_dimension_worst": 0.08488
   },
   {
     "id": 898678,
@@ -12141,8 +11795,7 @@
     "concavity_worst": 0.04506,
     "concave points_worst": 0.05093,
     "symmetry_worst": 0.288,
-    "fractal_dimension_worst": 0.08083,
-
+    "fractal_dimension_worst": 0.08083
   },
   {
     "id": 89869,
@@ -12176,8 +11829,7 @@
     "concavity_worst": 0.2151,
     "concave points_worst": 0.1251,
     "symmetry_worst": 0.3109,
-    "fractal_dimension_worst": 0.08187,
-
+    "fractal_dimension_worst": 0.08187
   },
   {
     "id": 898690,
@@ -12211,8 +11863,7 @@
     "concavity_worst": 0.09823,
     "concave points_worst": 0.06548,
     "symmetry_worst": 0.2851,
-    "fractal_dimension_worst": 0.08763,
-
+    "fractal_dimension_worst": 0.08763
   },
   {
     "id": 899147,
@@ -12246,8 +11897,7 @@
     "concavity_worst": 0.03122,
     "concave points_worst": 0.04766,
     "symmetry_worst": 0.3124,
-    "fractal_dimension_worst": 0.0759,
-
+    "fractal_dimension_worst": 0.0759
   },
   {
     "id": 899187,
@@ -12281,8 +11931,7 @@
     "concavity_worst": 0.03046,
     "concave points_worst": 0.04262,
     "symmetry_worst": 0.2731,
-    "fractal_dimension_worst": 0.06825,
-
+    "fractal_dimension_worst": 0.06825
   },
   {
     "id": 899667,
@@ -12316,8 +11965,7 @@
     "concavity_worst": 0.6872,
     "concave points_worst": 0.2135,
     "symmetry_worst": 0.4245,
-    "fractal_dimension_worst": 0.105,
-
+    "fractal_dimension_worst": 0.105
   },
   {
     "id": 899987,
@@ -12351,8 +11999,7 @@
     "concavity_worst": 0.6451,
     "concave points_worst": 0.2756,
     "symmetry_worst": 0.369,
-    "fractal_dimension_worst": 0.08815,
-
+    "fractal_dimension_worst": 0.08815
   },
   {
     "id": 9010018,
@@ -12386,8 +12033,7 @@
     "concavity_worst": 0.4029,
     "concave points_worst": 0.1526,
     "symmetry_worst": 0.2654,
-    "fractal_dimension_worst": 0.09438,
-
+    "fractal_dimension_worst": 0.09438
   },
   {
     "id": 901011,
@@ -12421,8 +12067,7 @@
     "concavity_worst": 0.1201,
     "concave points_worst": 0.03922,
     "symmetry_worst": 0.2576,
-    "fractal_dimension_worst": 0.07018,
-
+    "fractal_dimension_worst": 0.07018
   },
   {
     "id": 9010258,
@@ -12456,8 +12101,7 @@
     "concavity_worst": 0.2388,
     "concave points_worst": 0.09265,
     "symmetry_worst": 0.2121,
-    "fractal_dimension_worst": 0.07188,
-
+    "fractal_dimension_worst": 0.07188
   },
   {
     "id": 9010259,
@@ -12491,8 +12135,7 @@
     "concavity_worst": 0.2573,
     "concave points_worst": 0.1258,
     "symmetry_worst": 0.3113,
-    "fractal_dimension_worst": 0.08317,
-
+    "fractal_dimension_worst": 0.08317
   },
   {
     "id": 901028,
@@ -12526,8 +12169,7 @@
     "concavity_worst": 0.05285,
     "concave points_worst": 0.05556,
     "symmetry_worst": 0.2362,
-    "fractal_dimension_worst": 0.07113,
-
+    "fractal_dimension_worst": 0.07113
   },
   {
     "id": 9010333,
@@ -12561,8 +12203,7 @@
     "concavity_worst": 0.09441,
     "concave points_worst": 0.04762,
     "symmetry_worst": 0.2434,
-    "fractal_dimension_worst": 0.07431,
-
+    "fractal_dimension_worst": 0.07431
   },
   {
     "id": 901034301,
@@ -12596,8 +12237,7 @@
     "concavity_worst": 0.1144,
     "concave points_worst": 0.05052,
     "symmetry_worst": 0.2454,
-    "fractal_dimension_worst": 0.08136,
-
+    "fractal_dimension_worst": 0.08136
   },
   {
     "id": 901034302,
@@ -12631,8 +12271,7 @@
     "concavity_worst": 0.003581,
     "concave points_worst": 0.01635,
     "symmetry_worst": 0.2233,
-    "fractal_dimension_worst": 0.05521,
-
+    "fractal_dimension_worst": 0.05521
   },
   {
     "id": 901041,
@@ -12666,8 +12305,7 @@
     "concavity_worst": 0.1212,
     "concave points_worst": 0.05614,
     "symmetry_worst": 0.2637,
-    "fractal_dimension_worst": 0.06658,
-
+    "fractal_dimension_worst": 0.06658
   },
   {
     "id": 9010598,
@@ -12701,8 +12339,7 @@
     "concavity_worst": 0.1255,
     "concave points_worst": 0.08312,
     "symmetry_worst": 0.2744,
-    "fractal_dimension_worst": 0.07238,
-
+    "fractal_dimension_worst": 0.07238
   },
   {
     "id": 9010872,
@@ -12736,8 +12373,7 @@
     "concavity_worst": 0.1663,
     "concave points_worst": 0.09123,
     "symmetry_worst": 0.2394,
-    "fractal_dimension_worst": 0.06469,
-
+    "fractal_dimension_worst": 0.06469
   },
   {
     "id": 9010877,
@@ -12771,8 +12407,7 @@
     "concavity_worst": 0.1364,
     "concave points_worst": 0.06987,
     "symmetry_worst": 0.2741,
-    "fractal_dimension_worst": 0.07582,
-
+    "fractal_dimension_worst": 0.07582
   },
   {
     "id": 901088,
@@ -12806,8 +12441,7 @@
     "concavity_worst": 0.2702,
     "concave points_worst": 0.1765,
     "symmetry_worst": 0.2609,
-    "fractal_dimension_worst": 0.06735,
-
+    "fractal_dimension_worst": 0.06735
   },
   {
     "id": 9011494,
@@ -12841,8 +12475,7 @@
     "concavity_worst": 0.3703,
     "concave points_worst": 0.2152,
     "symmetry_worst": 0.3271,
-    "fractal_dimension_worst": 0.07632,
-
+    "fractal_dimension_worst": 0.07632
   },
   {
     "id": 9011495,
@@ -12876,8 +12509,7 @@
     "concavity_worst": 0.2413,
     "concave points_worst": 0.08829,
     "symmetry_worst": 0.3218,
-    "fractal_dimension_worst": 0.0747,
-
+    "fractal_dimension_worst": 0.0747
   },
   {
     "id": 9011971,
@@ -12911,8 +12543,7 @@
     "concavity_worst": 0.2861,
     "concave points_worst": 0.182,
     "symmetry_worst": 0.251,
-    "fractal_dimension_worst": 0.06494,
-
+    "fractal_dimension_worst": 0.06494
   },
   {
     "id": 9012000,
@@ -12946,8 +12577,7 @@
     "concavity_worst": 0.4756,
     "concave points_worst": 0.2432,
     "symmetry_worst": 0.2741,
-    "fractal_dimension_worst": 0.08574,
-
+    "fractal_dimension_worst": 0.08574
   },
   {
     "id": 9012315,
@@ -12981,8 +12611,7 @@
     "concavity_worst": 0.7087,
     "concave points_worst": 0.2248,
     "symmetry_worst": 0.4824,
-    "fractal_dimension_worst": 0.09614,
-
+    "fractal_dimension_worst": 0.09614
   },
   {
     "id": 9012568,
@@ -13016,8 +12645,7 @@
     "concavity_worst": 0.1362,
     "concave points_worst": 0.08178,
     "symmetry_worst": 0.2487,
-    "fractal_dimension_worst": 0.06766,
-
+    "fractal_dimension_worst": 0.06766
   },
   {
     "id": 9012795,
@@ -13051,8 +12679,7 @@
     "concavity_worst": 0.4024,
     "concave points_worst": 0.1966,
     "symmetry_worst": 0.273,
-    "fractal_dimension_worst": 0.08666,
-
+    "fractal_dimension_worst": 0.08666
   },
   {
     "id": 901288,
@@ -13086,8 +12713,7 @@
     "concavity_worst": 0.4159,
     "concave points_worst": 0.2112,
     "symmetry_worst": 0.2689,
-    "fractal_dimension_worst": 0.07055,
-
+    "fractal_dimension_worst": 0.07055
   },
   {
     "id": 9013005,
@@ -13121,8 +12747,7 @@
     "concavity_worst": 0.1346,
     "concave points_worst": 0.06987,
     "symmetry_worst": 0.3323,
-    "fractal_dimension_worst": 0.07701,
-
+    "fractal_dimension_worst": 0.07701
   },
   {
     "id": 901303,
@@ -13156,8 +12781,7 @@
     "concavity_worst": 0.2114,
     "concave points_worst": 0.1251,
     "symmetry_worst": 0.3153,
-    "fractal_dimension_worst": 0.0896,
-
+    "fractal_dimension_worst": 0.0896
   },
   {
     "id": 901315,
@@ -13191,8 +12815,7 @@
     "concavity_worst": 0.603,
     "concave points_worst": 0.1465,
     "symmetry_worst": 0.2597,
-    "fractal_dimension_worst": 0.12,
-
+    "fractal_dimension_worst": 0.12
   },
   {
     "id": 9013579,
@@ -13226,8 +12849,7 @@
     "concavity_worst": 0.07934,
     "concave points_worst": 0.05781,
     "symmetry_worst": 0.2694,
-    "fractal_dimension_worst": 0.07061,
-
+    "fractal_dimension_worst": 0.07061
   },
   {
     "id": 9013594,
@@ -13261,8 +12883,7 @@
     "concavity_worst": 0.2569,
     "concave points_worst": 0.1054,
     "symmetry_worst": 0.3387,
-    "fractal_dimension_worst": 0.09638,
-
+    "fractal_dimension_worst": 0.09638
   },
   {
     "id": 9013838,
@@ -13296,8 +12917,7 @@
     "concavity_worst": 0.8402,
     "concave points_worst": 0.2524,
     "symmetry_worst": 0.4154,
-    "fractal_dimension_worst": 0.1403,
-
+    "fractal_dimension_worst": 0.1403
   },
   {
     "id": 901549,
@@ -13331,8 +12951,7 @@
     "concavity_worst": 0.2247,
     "concave points_worst": 0.1318,
     "symmetry_worst": 0.3343,
-    "fractal_dimension_worst": 0.09215,
-
+    "fractal_dimension_worst": 0.09215
   },
   {
     "id": 901836,
@@ -13366,8 +12985,7 @@
     "concavity_worst": 0.1553,
     "concave points_worst": 0.06754,
     "symmetry_worst": 0.3202,
-    "fractal_dimension_worst": 0.07287,
-
+    "fractal_dimension_worst": 0.07287
   },
   {
     "id": 90250,
@@ -13401,8 +13019,7 @@
     "concavity_worst": 0.2912,
     "concave points_worst": 0.1092,
     "symmetry_worst": 0.2191,
-    "fractal_dimension_worst": 0.09349,
-
+    "fractal_dimension_worst": 0.09349
   },
   {
     "id": 90251,
@@ -13436,8 +13053,7 @@
     "concavity_worst": 0.3206,
     "concave points_worst": 0.09804,
     "symmetry_worst": 0.2819,
-    "fractal_dimension_worst": 0.1118,
-
+    "fractal_dimension_worst": 0.1118
   },
   {
     "id": 902727,
@@ -13471,8 +13087,7 @@
     "concavity_worst": 0.2866,
     "concave points_worst": 0.09173,
     "symmetry_worst": 0.2736,
-    "fractal_dimension_worst": 0.0732,
-
+    "fractal_dimension_worst": 0.0732
   },
   {
     "id": 90291,
@@ -13506,8 +13121,7 @@
     "concavity_worst": 0.2675,
     "concave points_worst": 0.1359,
     "symmetry_worst": 0.2477,
-    "fractal_dimension_worst": 0.06836,
-
+    "fractal_dimension_worst": 0.06836
   },
   {
     "id": 902975,
@@ -13541,8 +13155,7 @@
     "concavity_worst": 0.3076,
     "concave points_worst": 0.0914,
     "symmetry_worst": 0.2677,
-    "fractal_dimension_worst": 0.08824,
-
+    "fractal_dimension_worst": 0.08824
   },
   {
     "id": 902976,
@@ -13576,8 +13189,7 @@
     "concavity_worst": 0.1091,
     "concave points_worst": 0.04537,
     "symmetry_worst": 0.2542,
-    "fractal_dimension_worst": 0.06623,
-
+    "fractal_dimension_worst": 0.06623
   },
   {
     "id": 903011,
@@ -13611,8 +13223,7 @@
     "concavity_worst": 0.3021,
     "concave points_worst": 0.08272,
     "symmetry_worst": 0.2157,
-    "fractal_dimension_worst": 0.1043,
-
+    "fractal_dimension_worst": 0.1043
   },
   {
     "id": 90312,
@@ -13646,8 +13257,7 @@
     "concavity_worst": 0.3829,
     "concave points_worst": 0.1825,
     "symmetry_worst": 0.2576,
-    "fractal_dimension_worst": 0.07602,
-
+    "fractal_dimension_worst": 0.07602
   },
   {
     "id": 90317302,
@@ -13681,8 +13291,7 @@
     "concavity_worst": 0.08615,
     "concave points_worst": 0.06696,
     "symmetry_worst": 0.2937,
-    "fractal_dimension_worst": 0.07722,
-
+    "fractal_dimension_worst": 0.07722
   },
   {
     "id": 903483,
@@ -13716,8 +13325,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2445,
-    "fractal_dimension_worst": 0.08865,
-
+    "fractal_dimension_worst": 0.08865
   },
   {
     "id": 903507,
@@ -13751,8 +13359,7 @@
     "concavity_worst": 0.5553,
     "concave points_worst": 0.2121,
     "symmetry_worst": 0.3187,
-    "fractal_dimension_worst": 0.1019,
-
+    "fractal_dimension_worst": 0.1019
   },
   {
     "id": 903516,
@@ -13786,8 +13393,7 @@
     "concavity_worst": 0.7053,
     "concave points_worst": 0.2422,
     "symmetry_worst": 0.3828,
-    "fractal_dimension_worst": 0.1007,
-
+    "fractal_dimension_worst": 0.1007
   },
   {
     "id": 903554,
@@ -13821,8 +13427,7 @@
     "concavity_worst": 0.1603,
     "concave points_worst": 0.06266,
     "symmetry_worst": 0.3049,
-    "fractal_dimension_worst": 0.07081,
-
+    "fractal_dimension_worst": 0.07081
   },
   {
     "id": 903811,
@@ -13856,8 +13461,7 @@
     "concavity_worst": 0.0846,
     "concave points_worst": 0.07911,
     "symmetry_worst": 0.2523,
-    "fractal_dimension_worst": 0.06609,
-
+    "fractal_dimension_worst": 0.06609
   },
   {
     "id": 90401601,
@@ -13891,8 +13495,7 @@
     "concavity_worst": 0.3438,
     "concave points_worst": 0.1453,
     "symmetry_worst": 0.2666,
-    "fractal_dimension_worst": 0.07686,
-
+    "fractal_dimension_worst": 0.07686
   },
   {
     "id": 90401602,
@@ -13926,8 +13529,7 @@
     "concavity_worst": 0.1901,
     "concave points_worst": 0.08296,
     "symmetry_worst": 0.1988,
-    "fractal_dimension_worst": 0.07053,
-
+    "fractal_dimension_worst": 0.07053
   },
   {
     "id": 904302,
@@ -13961,8 +13563,7 @@
     "concavity_worst": 0.2079,
     "concave points_worst": 0.05556,
     "symmetry_worst": 0.259,
-    "fractal_dimension_worst": 0.09158,
-
+    "fractal_dimension_worst": 0.09158
   },
   {
     "id": 904357,
@@ -13996,8 +13597,7 @@
     "concavity_worst": 0.1449,
     "concave points_worst": 0.05356,
     "symmetry_worst": 0.2779,
-    "fractal_dimension_worst": 0.08121,
-
+    "fractal_dimension_worst": 0.08121
   },
   {
     "id": 90439701,
@@ -14031,8 +13631,7 @@
     "concavity_worst": 0.9034,
     "concave points_worst": 0.1964,
     "symmetry_worst": 0.3245,
-    "fractal_dimension_worst": 0.1198,
-
+    "fractal_dimension_worst": 0.1198
   },
   {
     "id": 904647,
@@ -14066,8 +13665,7 @@
     "concavity_worst": 0.1514,
     "concave points_worst": 0.06876,
     "symmetry_worst": 0.246,
-    "fractal_dimension_worst": 0.07262,
-
+    "fractal_dimension_worst": 0.07262
   },
   {
     "id": 904689,
@@ -14101,8 +13699,7 @@
     "concavity_worst": 0.1604,
     "concave points_worst": 0.06608,
     "symmetry_worst": 0.3207,
-    "fractal_dimension_worst": 0.07247,
-
+    "fractal_dimension_worst": 0.07247
   },
   {
     "id": 9047,
@@ -14136,8 +13733,7 @@
     "concavity_worst": 0.181,
     "concave points_worst": 0.08388,
     "symmetry_worst": 0.3297,
-    "fractal_dimension_worst": 0.07834,
-
+    "fractal_dimension_worst": 0.07834
   },
   {
     "id": 904969,
@@ -14171,8 +13767,7 @@
     "concavity_worst": 0.04921,
     "concave points_worst": 0.04793,
     "symmetry_worst": 0.2298,
-    "fractal_dimension_worst": 0.05974,
-
+    "fractal_dimension_worst": 0.05974
   },
   {
     "id": 904971,
@@ -14206,8 +13801,7 @@
     "concavity_worst": 0.1412,
     "concave points_worst": 0.07887,
     "symmetry_worst": 0.2251,
-    "fractal_dimension_worst": 0.07732,
-
+    "fractal_dimension_worst": 0.07732
   },
   {
     "id": 905189,
@@ -14241,8 +13835,7 @@
     "concavity_worst": 0.231,
     "concave points_worst": 0.1129,
     "symmetry_worst": 0.2778,
-    "fractal_dimension_worst": 0.07012,
-
+    "fractal_dimension_worst": 0.07012
   },
   {
     "id": 905190,
@@ -14276,8 +13869,7 @@
     "concavity_worst": 0.1838,
     "concave points_worst": 0.05601,
     "symmetry_worst": 0.2488,
-    "fractal_dimension_worst": 0.08151,
-
+    "fractal_dimension_worst": 0.08151
   },
   {
     "id": 90524101,
@@ -14311,8 +13903,7 @@
     "concavity_worst": 0.3301,
     "concave points_worst": 0.1974,
     "symmetry_worst": 0.306,
-    "fractal_dimension_worst": 0.08503,
-
+    "fractal_dimension_worst": 0.08503
   },
   {
     "id": 905501,
@@ -14346,8 +13937,7 @@
     "concavity_worst": 0.1377,
     "concave points_worst": 0.09532,
     "symmetry_worst": 0.3455,
-    "fractal_dimension_worst": 0.06896,
-
+    "fractal_dimension_worst": 0.06896
   },
   {
     "id": 905502,
@@ -14381,8 +13971,7 @@
     "concavity_worst": 0.1811,
     "concave points_worst": 0.08698,
     "symmetry_worst": 0.2973,
-    "fractal_dimension_worst": 0.07745,
-
+    "fractal_dimension_worst": 0.07745
   },
   {
     "id": 905520,
@@ -14416,8 +14005,7 @@
     "concavity_worst": 0.1067,
     "concave points_worst": 0.07431,
     "symmetry_worst": 0.2998,
-    "fractal_dimension_worst": 0.07881,
-
+    "fractal_dimension_worst": 0.07881
   },
   {
     "id": 905539,
@@ -14451,8 +14039,7 @@
     "concavity_worst": 0.1868,
     "concave points_worst": 0.02564,
     "symmetry_worst": 0.2376,
-    "fractal_dimension_worst": 0.09206,
-
+    "fractal_dimension_worst": 0.09206
   },
   {
     "id": 905557,
@@ -14486,8 +14073,7 @@
     "concavity_worst": 0.3114,
     "concave points_worst": 0.1308,
     "symmetry_worst": 0.3163,
-    "fractal_dimension_worst": 0.09251,
-
+    "fractal_dimension_worst": 0.09251
   },
   {
     "id": 905680,
@@ -14521,8 +14107,7 @@
     "concavity_worst": 0.1547,
     "concave points_worst": 0.06575,
     "symmetry_worst": 0.3233,
-    "fractal_dimension_worst": 0.06165,
-
+    "fractal_dimension_worst": 0.06165
   },
   {
     "id": 905686,
@@ -14556,8 +14141,7 @@
     "concavity_worst": 0.1164,
     "concave points_worst": 0.08263,
     "symmetry_worst": 0.3075,
-    "fractal_dimension_worst": 0.07351,
-
+    "fractal_dimension_worst": 0.07351
   },
   {
     "id": 905978,
@@ -14591,8 +14175,7 @@
     "concavity_worst": 0.06141,
     "concave points_worst": 0.0377,
     "symmetry_worst": 0.2872,
-    "fractal_dimension_worst": 0.08304,
-
+    "fractal_dimension_worst": 0.08304
   },
   {
     "id": 90602302,
@@ -14626,8 +14209,7 @@
     "concavity_worst": 0.4211,
     "concave points_worst": 0.2134,
     "symmetry_worst": 0.3003,
-    "fractal_dimension_worst": 0.1048,
-
+    "fractal_dimension_worst": 0.1048
   },
   {
     "id": 906024,
@@ -14661,8 +14243,7 @@
     "concavity_worst": 0.09385,
     "concave points_worst": 0.08224,
     "symmetry_worst": 0.2775,
-    "fractal_dimension_worst": 0.09464,
-
+    "fractal_dimension_worst": 0.09464
   },
   {
     "id": 906290,
@@ -14696,8 +14277,7 @@
     "concavity_worst": 0.03582,
     "concave points_worst": 0.04306,
     "symmetry_worst": 0.2976,
-    "fractal_dimension_worst": 0.07123,
-
+    "fractal_dimension_worst": 0.07123
   },
   {
     "id": 906539,
@@ -14731,8 +14311,7 @@
     "concavity_worst": 0.256,
     "concave points_worst": 0.06664,
     "symmetry_worst": 0.3035,
-    "fractal_dimension_worst": 0.08284,
-
+    "fractal_dimension_worst": 0.08284
   },
   {
     "id": 906564,
@@ -14766,8 +14345,7 @@
     "concavity_worst": 0.3219,
     "concave points_worst": 0.1108,
     "symmetry_worst": 0.2827,
-    "fractal_dimension_worst": 0.09208,
-
+    "fractal_dimension_worst": 0.09208
   },
   {
     "id": 906616,
@@ -14801,8 +14379,7 @@
     "concavity_worst": 0.2302,
     "concave points_worst": 0.1105,
     "symmetry_worst": 0.2787,
-    "fractal_dimension_worst": 0.07427,
-
+    "fractal_dimension_worst": 0.07427
   },
   {
     "id": 906878,
@@ -14836,8 +14413,7 @@
     "concavity_worst": 0.366,
     "concave points_worst": 0.1407,
     "symmetry_worst": 0.2744,
-    "fractal_dimension_worst": 0.08839,
-
+    "fractal_dimension_worst": 0.08839
   },
   {
     "id": 907145,
@@ -14871,8 +14447,7 @@
     "concavity_worst": 0.02085,
     "concave points_worst": 0.04589,
     "symmetry_worst": 0.3196,
-    "fractal_dimension_worst": 0.08009,
-
+    "fractal_dimension_worst": 0.08009
   },
   {
     "id": 907367,
@@ -14906,8 +14481,7 @@
     "concavity_worst": 0.01235,
     "concave points_worst": 0.02579,
     "symmetry_worst": 0.2349,
-    "fractal_dimension_worst": 0.08061,
-
+    "fractal_dimension_worst": 0.08061
   },
   {
     "id": 907409,
@@ -14941,8 +14515,7 @@
     "concavity_worst": 0.2939,
     "concave points_worst": 0.0931,
     "symmetry_worst": 0.302,
-    "fractal_dimension_worst": 0.09646,
-
+    "fractal_dimension_worst": 0.09646
   },
   {
     "id": 90745,
@@ -14976,8 +14549,7 @@
     "concavity_worst": 0.1927,
     "concave points_worst": 0.07485,
     "symmetry_worst": 0.2965,
-    "fractal_dimension_worst": 0.07662,
-
+    "fractal_dimension_worst": 0.07662
   },
   {
     "id": 90769601,
@@ -15011,8 +14583,7 @@
     "concavity_worst": 0.0458,
     "concave points_worst": 0.04044,
     "symmetry_worst": 0.2383,
-    "fractal_dimension_worst": 0.07083,
-
+    "fractal_dimension_worst": 0.07083
   },
   {
     "id": 90769602,
@@ -15046,8 +14617,7 @@
     "concavity_worst": 0.03469,
     "concave points_worst": 0.03612,
     "symmetry_worst": 0.2165,
-    "fractal_dimension_worst": 0.06025,
-
+    "fractal_dimension_worst": 0.06025
   },
   {
     "id": 907914,
@@ -15081,8 +14651,7 @@
     "concavity_worst": 0.9019,
     "concave points_worst": 0.2475,
     "symmetry_worst": 0.2866,
-    "fractal_dimension_worst": 0.1155,
-
+    "fractal_dimension_worst": 0.1155
   },
   {
     "id": 907915,
@@ -15116,8 +14685,7 @@
     "concavity_worst": 0.2403,
     "concave points_worst": 0.0737,
     "symmetry_worst": 0.2556,
-    "fractal_dimension_worst": 0.09359,
-
+    "fractal_dimension_worst": 0.09359
   },
   {
     "id": 908194,
@@ -15151,8 +14719,7 @@
     "concavity_worst": 0.5308,
     "concave points_worst": 0.2173,
     "symmetry_worst": 0.3032,
-    "fractal_dimension_worst": 0.08075,
-
+    "fractal_dimension_worst": 0.08075
   },
   {
     "id": 908445,
@@ -15186,8 +14753,7 @@
     "concavity_worst": 0.3912,
     "concave points_worst": 0.1708,
     "symmetry_worst": 0.3007,
-    "fractal_dimension_worst": 0.08314,
-
+    "fractal_dimension_worst": 0.08314
   },
   {
     "id": 908469,
@@ -15221,8 +14787,7 @@
     "concavity_worst": 0.122,
     "concave points_worst": 0.07971,
     "symmetry_worst": 0.2525,
-    "fractal_dimension_worst": 0.06827,
-
+    "fractal_dimension_worst": 0.06827
   },
   {
     "id": 908489,
@@ -15256,8 +14821,7 @@
     "concavity_worst": 0.4069,
     "concave points_worst": 0.1827,
     "symmetry_worst": 0.3179,
-    "fractal_dimension_worst": 0.1055,
-
+    "fractal_dimension_worst": 0.1055
   },
   {
     "id": 908916,
@@ -15291,8 +14855,7 @@
     "concavity_worst": 0.07127,
     "concave points_worst": 0.06384,
     "symmetry_worst": 0.3313,
-    "fractal_dimension_worst": 0.07735,
-
+    "fractal_dimension_worst": 0.07735
   },
   {
     "id": 909220,
@@ -15326,8 +14889,7 @@
     "concavity_worst": 0.1117,
     "concave points_worst": 0.07453,
     "symmetry_worst": 0.2725,
-    "fractal_dimension_worst": 0.07234,
-
+    "fractal_dimension_worst": 0.07234
   },
   {
     "id": 909231,
@@ -15361,8 +14923,7 @@
     "concavity_worst": 0.04753,
     "concave points_worst": 0.0589,
     "symmetry_worst": 0.2513,
-    "fractal_dimension_worst": 0.06911,
-
+    "fractal_dimension_worst": 0.06911
   },
   {
     "id": 909410,
@@ -15396,8 +14957,7 @@
     "concavity_worst": 0.0626,
     "concave points_worst": 0.08216,
     "symmetry_worst": 0.2136,
-    "fractal_dimension_worst": 0.0671,
-
+    "fractal_dimension_worst": 0.0671
   },
   {
     "id": 909411,
@@ -15431,8 +14991,7 @@
     "concavity_worst": 0.4779,
     "concave points_worst": 0.1555,
     "symmetry_worst": 0.254,
-    "fractal_dimension_worst": 0.09532,
-
+    "fractal_dimension_worst": 0.09532
   },
   {
     "id": 909445,
@@ -15466,8 +15025,7 @@
     "concavity_worst": 0.5036,
     "concave points_worst": 0.1739,
     "symmetry_worst": 0.25,
-    "fractal_dimension_worst": 0.07944,
-
+    "fractal_dimension_worst": 0.07944
   },
   {
     "id": 90944601,
@@ -15501,8 +15059,7 @@
     "concavity_worst": 0.03517,
     "concave points_worst": 0.03312,
     "symmetry_worst": 0.1859,
-    "fractal_dimension_worst": 0.0681,
-
+    "fractal_dimension_worst": 0.0681
   },
   {
     "id": 909777,
@@ -15536,8 +15093,7 @@
     "concavity_worst": 0.03986,
     "concave points_worst": 0.02222,
     "symmetry_worst": 0.2699,
-    "fractal_dimension_worst": 0.06736,
-
+    "fractal_dimension_worst": 0.06736
   },
   {
     "id": 9110127,
@@ -15571,8 +15127,7 @@
     "concavity_worst": 0.429,
     "concave points_worst": 0.1535,
     "symmetry_worst": 0.2842,
-    "fractal_dimension_worst": 0.08225,
-
+    "fractal_dimension_worst": 0.08225
   },
   {
     "id": 9110720,
@@ -15606,8 +15161,7 @@
     "concavity_worst": 0.1609,
     "concave points_worst": 0.1202,
     "symmetry_worst": 0.2599,
-    "fractal_dimension_worst": 0.08251,
-
+    "fractal_dimension_worst": 0.08251
   },
   {
     "id": 9110732,
@@ -15641,8 +15195,7 @@
     "concavity_worst": 0.6399,
     "concave points_worst": 0.197,
     "symmetry_worst": 0.2972,
-    "fractal_dimension_worst": 0.09075,
-
+    "fractal_dimension_worst": 0.09075
   },
   {
     "id": 9110944,
@@ -15676,8 +15229,7 @@
     "concavity_worst": 0.206,
     "concave points_worst": 0.08308,
     "symmetry_worst": 0.36,
-    "fractal_dimension_worst": 0.07285,
-
+    "fractal_dimension_worst": 0.07285
   },
   {
     "id": 911150,
@@ -15711,8 +15263,7 @@
     "concavity_worst": 0.3779,
     "concave points_worst": 0.09594,
     "symmetry_worst": 0.2471,
-    "fractal_dimension_worst": 0.07463,
-
+    "fractal_dimension_worst": 0.07463
   },
   {
     "id": 911157302,
@@ -15746,8 +15297,7 @@
     "concavity_worst": 0.4399,
     "concave points_worst": 0.228,
     "symmetry_worst": 0.2268,
-    "fractal_dimension_worst": 0.07425,
-
+    "fractal_dimension_worst": 0.07425
   },
   {
     "id": 9111596,
@@ -15781,8 +15331,7 @@
     "concavity_worst": 0.3218,
     "concave points_worst": 0.0875,
     "symmetry_worst": 0.2305,
-    "fractal_dimension_worst": 0.09952,
-
+    "fractal_dimension_worst": 0.09952
   },
   {
     "id": 9111805,
@@ -15816,8 +15365,7 @@
     "concavity_worst": 0.3977,
     "concave points_worst": 0.1466,
     "symmetry_worst": 0.2293,
-    "fractal_dimension_worst": 0.06091,
-
+    "fractal_dimension_worst": 0.06091
   },
   {
     "id": 9111843,
@@ -15851,8 +15399,7 @@
     "concavity_worst": 0.1811,
     "concave points_worst": 0.07116,
     "symmetry_worst": 0.2447,
-    "fractal_dimension_worst": 0.08194,
-
+    "fractal_dimension_worst": 0.08194
   },
   {
     "id": 911201,
@@ -15886,8 +15433,7 @@
     "concavity_worst": 0.1373,
     "concave points_worst": 0.1069,
     "symmetry_worst": 0.2606,
-    "fractal_dimension_worst": 0.0781,
-
+    "fractal_dimension_worst": 0.0781
   },
   {
     "id": 911202,
@@ -15921,8 +15467,7 @@
     "concavity_worst": 0.1887,
     "concave points_worst": 0.09851,
     "symmetry_worst": 0.327,
-    "fractal_dimension_worst": 0.0733,
-
+    "fractal_dimension_worst": 0.0733
   },
   {
     "id": 9112085,
@@ -15956,8 +15501,7 @@
     "concavity_worst": 0.07003,
     "concave points_worst": 0.07763,
     "symmetry_worst": 0.2196,
-    "fractal_dimension_worst": 0.07675,
-
+    "fractal_dimension_worst": 0.07675
   },
   {
     "id": 9112366,
@@ -15991,8 +15535,7 @@
     "concavity_worst": 0.2923,
     "concave points_worst": 0.06835,
     "symmetry_worst": 0.2884,
-    "fractal_dimension_worst": 0.0722,
-
+    "fractal_dimension_worst": 0.0722
   },
   {
     "id": 9112367,
@@ -16026,8 +15569,7 @@
     "concavity_worst": 0.139,
     "concave points_worst": 0.06005,
     "symmetry_worst": 0.2444,
-    "fractal_dimension_worst": 0.06788,
-
+    "fractal_dimension_worst": 0.06788
   },
   {
     "id": 9112594,
@@ -16061,8 +15603,7 @@
     "concavity_worst": 0.04462,
     "concave points_worst": 0.05921,
     "symmetry_worst": 0.2306,
-    "fractal_dimension_worst": 0.06291,
-
+    "fractal_dimension_worst": 0.06291
   },
   {
     "id": 9112712,
@@ -16096,8 +15637,7 @@
     "concavity_worst": 0.0719,
     "concave points_worst": 0.04866,
     "symmetry_worst": 0.2321,
-    "fractal_dimension_worst": 0.07211,
-
+    "fractal_dimension_worst": 0.07211
   },
   {
     "id": 911296201,
@@ -16131,8 +15671,7 @@
     "concavity_worst": 0.2639,
     "concave points_worst": 0.1555,
     "symmetry_worst": 0.301,
-    "fractal_dimension_worst": 0.0906,
-
+    "fractal_dimension_worst": 0.0906
   },
   {
     "id": 911296202,
@@ -16166,8 +15705,7 @@
     "concavity_worst": 0.6833,
     "concave points_worst": 0.2625,
     "symmetry_worst": 0.2641,
-    "fractal_dimension_worst": 0.07427,
-
+    "fractal_dimension_worst": 0.07427
   },
   {
     "id": 9113156,
@@ -16201,8 +15739,7 @@
     "concavity_worst": 0.1472,
     "concave points_worst": 0.05563,
     "symmetry_worst": 0.2345,
-    "fractal_dimension_worst": 0.06464,
-
+    "fractal_dimension_worst": 0.06464
   },
   {
     "id": 911320501,
@@ -16236,8 +15773,7 @@
     "concavity_worst": 0.186,
     "concave points_worst": 0.08288,
     "symmetry_worst": 0.321,
-    "fractal_dimension_worst": 0.07863,
-
+    "fractal_dimension_worst": 0.07863
   },
   {
     "id": 911320502,
@@ -16271,8 +15807,7 @@
     "concavity_worst": 0.1876,
     "concave points_worst": 0.1045,
     "symmetry_worst": 0.2235,
-    "fractal_dimension_worst": 0.06925,
-
+    "fractal_dimension_worst": 0.06925
   },
   {
     "id": 9113239,
@@ -16306,8 +15841,7 @@
     "concavity_worst": 0.6556,
     "concave points_worst": 0.1357,
     "symmetry_worst": 0.2845,
-    "fractal_dimension_worst": 0.1249,
-
+    "fractal_dimension_worst": 0.1249
   },
   {
     "id": 9113455,
@@ -16341,8 +15875,7 @@
     "concavity_worst": 0.4504,
     "concave points_worst": 0.1181,
     "symmetry_worst": 0.2563,
-    "fractal_dimension_worst": 0.08174,
-
+    "fractal_dimension_worst": 0.08174
   },
   {
     "id": 9113514,
@@ -16376,8 +15909,7 @@
     "concavity_worst": 0.06409,
     "concave points_worst": 0.025,
     "symmetry_worst": 0.3057,
-    "fractal_dimension_worst": 0.07875,
-
+    "fractal_dimension_worst": 0.07875
   },
   {
     "id": 9113538,
@@ -16411,8 +15943,7 @@
     "concavity_worst": 0.5165,
     "concave points_worst": 0.1996,
     "symmetry_worst": 0.2301,
-    "fractal_dimension_worst": 0.1224,
-
+    "fractal_dimension_worst": 0.1224
   },
   {
     "id": 911366,
@@ -16446,8 +15977,7 @@
     "concavity_worst": 0.3186,
     "concave points_worst": 0.1416,
     "symmetry_worst": 0.266,
-    "fractal_dimension_worst": 0.0927,
-
+    "fractal_dimension_worst": 0.0927
   },
   {
     "id": 9113778,
@@ -16481,8 +16011,7 @@
     "concavity_worst": 0.1277,
     "concave points_worst": 0.0656,
     "symmetry_worst": 0.3174,
-    "fractal_dimension_worst": 0.08524,
-
+    "fractal_dimension_worst": 0.08524
   },
   {
     "id": 9113816,
@@ -16516,8 +16045,7 @@
     "concavity_worst": 0.05524,
     "concave points_worst": 0.05547,
     "symmetry_worst": 0.2404,
-    "fractal_dimension_worst": 0.06639,
-
+    "fractal_dimension_worst": 0.06639
   },
   {
     "id": 911384,
@@ -16551,8 +16079,7 @@
     "concavity_worst": 0.3151,
     "concave points_worst": 0.1147,
     "symmetry_worst": 0.2688,
-    "fractal_dimension_worst": 0.08273,
-
+    "fractal_dimension_worst": 0.08273
   },
   {
     "id": 9113846,
@@ -16586,8 +16113,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2409,
-    "fractal_dimension_worst": 0.06743,
-
+    "fractal_dimension_worst": 0.06743
   },
   {
     "id": 911391,
@@ -16621,8 +16147,7 @@
     "concavity_worst": 0.3365,
     "concave points_worst": 0.07966,
     "symmetry_worst": 0.2581,
-    "fractal_dimension_worst": 0.108,
-
+    "fractal_dimension_worst": 0.108
   },
   {
     "id": 911408,
@@ -16656,8 +16181,7 @@
     "concavity_worst": 0.3476,
     "concave points_worst": 0.09783,
     "symmetry_worst": 0.3006,
-    "fractal_dimension_worst": 0.07802,
-
+    "fractal_dimension_worst": 0.07802
   },
   {
     "id": 911654,
@@ -16691,8 +16215,7 @@
     "concavity_worst": 0.2512,
     "concave points_worst": 0.1339,
     "symmetry_worst": 0.2534,
-    "fractal_dimension_worst": 0.07858,
-
+    "fractal_dimension_worst": 0.07858
   },
   {
     "id": 911673,
@@ -16726,8 +16249,7 @@
     "concavity_worst": 0.1384,
     "concave points_worst": 0.06222,
     "symmetry_worst": 0.2679,
-    "fractal_dimension_worst": 0.07698,
-
+    "fractal_dimension_worst": 0.07698
   },
   {
     "id": 911685,
@@ -16761,8 +16283,7 @@
     "concavity_worst": 0.2596,
     "concave points_worst": 0.07431,
     "symmetry_worst": 0.2941,
-    "fractal_dimension_worst": 0.0918,
-
+    "fractal_dimension_worst": 0.0918
   },
   {
     "id": 911916,
@@ -16796,8 +16317,7 @@
     "concavity_worst": 0.5897,
     "concave points_worst": 0.1775,
     "symmetry_worst": 0.3318,
-    "fractal_dimension_worst": 0.09136,
-
+    "fractal_dimension_worst": 0.09136
   },
   {
     "id": 912193,
@@ -16831,8 +16351,7 @@
     "concavity_worst": 0.162,
     "concave points_worst": 0.0569,
     "symmetry_worst": 0.2406,
-    "fractal_dimension_worst": 0.07729,
-
+    "fractal_dimension_worst": 0.07729
   },
   {
     "id": 91227,
@@ -16866,8 +16385,7 @@
     "concavity_worst": 0.1673,
     "concave points_worst": 0.0815,
     "symmetry_worst": 0.2356,
-    "fractal_dimension_worst": 0.07603,
-
+    "fractal_dimension_worst": 0.07603
   },
   {
     "id": 912519,
@@ -16901,8 +16419,7 @@
     "concavity_worst": 0.1848,
     "concave points_worst": 0.1335,
     "symmetry_worst": 0.3227,
-    "fractal_dimension_worst": 0.09326,
-
+    "fractal_dimension_worst": 0.09326
   },
   {
     "id": 912558,
@@ -16936,8 +16453,7 @@
     "concavity_worst": 0.1742,
     "concave points_worst": 0.09077,
     "symmetry_worst": 0.2518,
-    "fractal_dimension_worst": 0.0696,
-
+    "fractal_dimension_worst": 0.0696
   },
   {
     "id": 912600,
@@ -16971,8 +16487,7 @@
     "concavity_worst": 0.4004,
     "concave points_worst": 0.1452,
     "symmetry_worst": 0.2557,
-    "fractal_dimension_worst": 0.08181,
-
+    "fractal_dimension_worst": 0.08181
   },
   {
     "id": 913063,
@@ -17006,8 +16521,7 @@
     "concavity_worst": 0.4896,
     "concave points_worst": 0.1342,
     "symmetry_worst": 0.3231,
-    "fractal_dimension_worst": 0.1034,
-
+    "fractal_dimension_worst": 0.1034
   },
   {
     "id": 913102,
@@ -17041,8 +16555,7 @@
     "concavity_worst": 0.2437,
     "concave points_worst": 0.07828,
     "symmetry_worst": 0.2455,
-    "fractal_dimension_worst": 0.06596,
-
+    "fractal_dimension_worst": 0.06596
   },
   {
     "id": 913505,
@@ -17076,8 +16589,7 @@
     "concavity_worst": 0.5936,
     "concave points_worst": 0.206,
     "symmetry_worst": 0.3266,
-    "fractal_dimension_worst": 0.09009,
-
+    "fractal_dimension_worst": 0.09009
   },
   {
     "id": 913512,
@@ -17111,8 +16623,7 @@
     "concavity_worst": 0.149,
     "concave points_worst": 0.09815,
     "symmetry_worst": 0.2804,
-    "fractal_dimension_worst": 0.08024,
-
+    "fractal_dimension_worst": 0.08024
   },
   {
     "id": 913535,
@@ -17146,8 +16657,7 @@
     "concavity_worst": 0.2477,
     "concave points_worst": 0.08737,
     "symmetry_worst": 0.4677,
-    "fractal_dimension_worst": 0.07623,
-
+    "fractal_dimension_worst": 0.07623
   },
   {
     "id": 91376701,
@@ -17181,8 +16691,7 @@
     "concavity_worst": 0.123,
     "concave points_worst": 0.06335,
     "symmetry_worst": 0.31,
-    "fractal_dimension_worst": 0.08203,
-
+    "fractal_dimension_worst": 0.08203
   },
   {
     "id": 91376702,
@@ -17216,8 +16725,7 @@
     "concavity_worst": 0.1048,
     "concave points_worst": 0.08341,
     "symmetry_worst": 0.1783,
-    "fractal_dimension_worst": 0.05871,
-
+    "fractal_dimension_worst": 0.05871
   },
   {
     "id": 914062,
@@ -17251,8 +16759,7 @@
     "concavity_worst": 0.2544,
     "concave points_worst": 0.1489,
     "symmetry_worst": 0.3251,
-    "fractal_dimension_worst": 0.07625,
-
+    "fractal_dimension_worst": 0.07625
   },
   {
     "id": 914101,
@@ -17286,8 +16793,7 @@
     "concavity_worst": 0.01674,
     "concave points_worst": 0.0268,
     "symmetry_worst": 0.228,
-    "fractal_dimension_worst": 0.07028,
-
+    "fractal_dimension_worst": 0.07028
   },
   {
     "id": 914102,
@@ -17321,8 +16827,7 @@
     "concavity_worst": 0.07698,
     "concave points_worst": 0.04195,
     "symmetry_worst": 0.2687,
-    "fractal_dimension_worst": 0.07429,
-
+    "fractal_dimension_worst": 0.07429
   },
   {
     "id": 914333,
@@ -17356,8 +16861,7 @@
     "concavity_worst": 0.17,
     "concave points_worst": 0.1017,
     "symmetry_worst": 0.2369,
-    "fractal_dimension_worst": 0.06599,
-
+    "fractal_dimension_worst": 0.06599
   },
   {
     "id": 914366,
@@ -17391,8 +16895,7 @@
     "concavity_worst": 0.3582,
     "concave points_worst": 0.1407,
     "symmetry_worst": 0.323,
-    "fractal_dimension_worst": 0.1033,
-
+    "fractal_dimension_worst": 0.1033
   },
   {
     "id": 914580,
@@ -17426,8 +16929,7 @@
     "concavity_worst": 0.2028,
     "concave points_worst": 0.1053,
     "symmetry_worst": 0.3035,
-    "fractal_dimension_worst": 0.07661,
-
+    "fractal_dimension_worst": 0.07661
   },
   {
     "id": 914769,
@@ -17461,8 +16963,7 @@
     "concavity_worst": 0.3533,
     "concave points_worst": 0.1663,
     "symmetry_worst": 0.251,
-    "fractal_dimension_worst": 0.09445,
-
+    "fractal_dimension_worst": 0.09445
   },
   {
     "id": 91485,
@@ -17496,8 +16997,7 @@
     "concavity_worst": 0.5179,
     "concave points_worst": 0.2113,
     "symmetry_worst": 0.248,
-    "fractal_dimension_worst": 0.08999,
-
+    "fractal_dimension_worst": 0.08999
   },
   {
     "id": 914862,
@@ -17531,8 +17031,7 @@
     "concavity_worst": 0.1856,
     "concave points_worst": 0.1018,
     "symmetry_worst": 0.2177,
-    "fractal_dimension_worst": 0.08549,
-
+    "fractal_dimension_worst": 0.08549
   },
   {
     "id": 91504,
@@ -17566,8 +17065,7 @@
     "concavity_worst": 0.3381,
     "concave points_worst": 0.1521,
     "symmetry_worst": 0.3651,
-    "fractal_dimension_worst": 0.1183,
-
+    "fractal_dimension_worst": 0.1183
   },
   {
     "id": 91505,
@@ -17601,8 +17099,7 @@
     "concavity_worst": 0.1889,
     "concave points_worst": 0.08411,
     "symmetry_worst": 0.3155,
-    "fractal_dimension_worst": 0.07538,
-
+    "fractal_dimension_worst": 0.07538
   },
   {
     "id": 915143,
@@ -17636,8 +17133,7 @@
     "concavity_worst": 0.3794,
     "concave points_worst": 0.2264,
     "symmetry_worst": 0.2908,
-    "fractal_dimension_worst": 0.07277,
-
+    "fractal_dimension_worst": 0.07277
   },
   {
     "id": 915186,
@@ -17671,8 +17167,7 @@
     "concavity_worst": 0.2099,
     "concave points_worst": 0.1025,
     "symmetry_worst": 0.3038,
-    "fractal_dimension_worst": 0.1252,
-
+    "fractal_dimension_worst": 0.1252
   },
   {
     "id": 915276,
@@ -17706,8 +17201,7 @@
     "concavity_worst": 0.2913,
     "concave points_worst": 0.1075,
     "symmetry_worst": 0.2848,
-    "fractal_dimension_worst": 0.1364,
-
+    "fractal_dimension_worst": 0.1364
   },
   {
     "id": 91544001,
@@ -17741,8 +17235,7 @@
     "concavity_worst": 0.3535,
     "concave points_worst": 0.08088,
     "symmetry_worst": 0.2709,
-    "fractal_dimension_worst": 0.08839,
-
+    "fractal_dimension_worst": 0.08839
   },
   {
     "id": 91544002,
@@ -17776,8 +17269,7 @@
     "concavity_worst": 0.1256,
     "concave points_worst": 0.09514,
     "symmetry_worst": 0.278,
-    "fractal_dimension_worst": 0.1168,
-
+    "fractal_dimension_worst": 0.1168
   },
   {
     "id": 915452,
@@ -17811,8 +17303,7 @@
     "concavity_worst": 0.1947,
     "concave points_worst": 0.1357,
     "symmetry_worst": 0.23,
-    "fractal_dimension_worst": 0.0723,
-
+    "fractal_dimension_worst": 0.0723
   },
   {
     "id": 915460,
@@ -17846,8 +17337,7 @@
     "concavity_worst": 0.5911,
     "concave points_worst": 0.2163,
     "symmetry_worst": 0.3013,
-    "fractal_dimension_worst": 0.1067,
-
+    "fractal_dimension_worst": 0.1067
   },
   {
     "id": 91550,
@@ -17881,8 +17371,7 @@
     "concavity_worst": 0.269,
     "concave points_worst": 0.1056,
     "symmetry_worst": 0.2604,
-    "fractal_dimension_worst": 0.09879,
-
+    "fractal_dimension_worst": 0.09879
   },
   {
     "id": 915664,
@@ -17916,8 +17405,7 @@
     "concavity_worst": 0.1101,
     "concave points_worst": 0.07955,
     "symmetry_worst": 0.2334,
-    "fractal_dimension_worst": 0.06142,
-
+    "fractal_dimension_worst": 0.06142
   },
   {
     "id": 915691,
@@ -17951,8 +17439,7 @@
     "concavity_worst": 0.5106,
     "concave points_worst": 0.2051,
     "symmetry_worst": 0.3585,
-    "fractal_dimension_worst": 0.1109,
-
+    "fractal_dimension_worst": 0.1109
   },
   {
     "id": 915940,
@@ -17986,8 +17473,7 @@
     "concavity_worst": 0.2492,
     "concave points_worst": 0.09186,
     "symmetry_worst": 0.2626,
-    "fractal_dimension_worst": 0.07048,
-
+    "fractal_dimension_worst": 0.07048
   },
   {
     "id": 91594602,
@@ -18021,8 +17507,7 @@
     "concavity_worst": 0.2866,
     "concave points_worst": 0.112,
     "symmetry_worst": 0.2282,
-    "fractal_dimension_worst": 0.06954,
-
+    "fractal_dimension_worst": 0.06954
   },
   {
     "id": 916221,
@@ -18056,8 +17541,7 @@
     "concavity_worst": 0.1624,
     "concave points_worst": 0.08542,
     "symmetry_worst": 0.306,
-    "fractal_dimension_worst": 0.06783,
-
+    "fractal_dimension_worst": 0.06783
   },
   {
     "id": 916799,
@@ -18091,8 +17575,7 @@
     "concavity_worst": 0.3759,
     "concave points_worst": 0.151,
     "symmetry_worst": 0.3074,
-    "fractal_dimension_worst": 0.07863,
-
+    "fractal_dimension_worst": 0.07863
   },
   {
     "id": 916838,
@@ -18126,8 +17609,7 @@
     "concavity_worst": 0.4185,
     "concave points_worst": 0.1613,
     "symmetry_worst": 0.2549,
-    "fractal_dimension_worst": 0.09136,
-
+    "fractal_dimension_worst": 0.09136
   },
   {
     "id": 917062,
@@ -18161,8 +17643,7 @@
     "concavity_worst": 0.1246,
     "concave points_worst": 0.1096,
     "symmetry_worst": 0.2582,
-    "fractal_dimension_worst": 0.08893,
-
+    "fractal_dimension_worst": 0.08893
   },
   {
     "id": 917080,
@@ -18196,8 +17677,7 @@
     "concavity_worst": 0.1423,
     "concave points_worst": 0.08045,
     "symmetry_worst": 0.3071,
-    "fractal_dimension_worst": 0.08557,
-
+    "fractal_dimension_worst": 0.08557
   },
   {
     "id": 917092,
@@ -18231,8 +17711,7 @@
     "concavity_worst": 0.09996,
     "concave points_worst": 0.07262,
     "symmetry_worst": 0.3681,
-    "fractal_dimension_worst": 0.08982,
-
+    "fractal_dimension_worst": 0.08982
   },
   {
     "id": 91762702,
@@ -18266,8 +17745,7 @@
     "concavity_worst": 0.4658,
     "concave points_worst": 0.2475,
     "symmetry_worst": 0.3157,
-    "fractal_dimension_worst": 0.09671,
-
+    "fractal_dimension_worst": 0.09671
   },
   {
     "id": 91789,
@@ -18301,8 +17779,7 @@
     "concavity_worst": 0.02533,
     "concave points_worst": 0.02832,
     "symmetry_worst": 0.2557,
-    "fractal_dimension_worst": 0.07613,
-
+    "fractal_dimension_worst": 0.07613
   },
   {
     "id": 917896,
@@ -18336,8 +17813,7 @@
     "concavity_worst": 0.1935,
     "concave points_worst": 0.1284,
     "symmetry_worst": 0.2849,
-    "fractal_dimension_worst": 0.09031,
-
+    "fractal_dimension_worst": 0.09031
   },
   {
     "id": 917897,
@@ -18371,8 +17847,7 @@
     "concavity_worst": 0.08434,
     "concave points_worst": 0.06528,
     "symmetry_worst": 0.2502,
-    "fractal_dimension_worst": 0.09209,
-
+    "fractal_dimension_worst": 0.09209
   },
   {
     "id": 91805,
@@ -18406,8 +17881,7 @@
     "concavity_worst": 0.1754,
     "concave points_worst": 0.08512,
     "symmetry_worst": 0.2983,
-    "fractal_dimension_worst": 0.1049,
-
+    "fractal_dimension_worst": 0.1049
   },
   {
     "id": 91813701,
@@ -18441,8 +17915,7 @@
     "concavity_worst": 0.2654,
     "concave points_worst": 0.1427,
     "symmetry_worst": 0.3518,
-    "fractal_dimension_worst": 0.08665,
-
+    "fractal_dimension_worst": 0.08665
   },
   {
     "id": 91813702,
@@ -18476,8 +17949,7 @@
     "concavity_worst": 0.1791,
     "concave points_worst": 0.107,
     "symmetry_worst": 0.311,
-    "fractal_dimension_worst": 0.07592,
-
+    "fractal_dimension_worst": 0.07592
   },
   {
     "id": 918192,
@@ -18511,8 +17983,7 @@
     "concavity_worst": 0.1559,
     "concave points_worst": 0.1015,
     "symmetry_worst": 0.216,
-    "fractal_dimension_worst": 0.07253,
-
+    "fractal_dimension_worst": 0.07253
   },
   {
     "id": 918465,
@@ -18546,8 +18017,7 @@
     "concavity_worst": 0.1622,
     "concave points_worst": 0.07393,
     "symmetry_worst": 0.2781,
-    "fractal_dimension_worst": 0.08052,
-
+    "fractal_dimension_worst": 0.08052
   },
   {
     "id": 91858,
@@ -18581,8 +18051,7 @@
     "concavity_worst": 0.1366,
     "concave points_worst": 0.101,
     "symmetry_worst": 0.2478,
-    "fractal_dimension_worst": 0.07757,
-
+    "fractal_dimension_worst": 0.07757
   },
   {
     "id": 91903901,
@@ -18616,8 +18085,7 @@
     "concavity_worst": 0.2758,
     "concave points_worst": 0.0812,
     "symmetry_worst": 0.3206,
-    "fractal_dimension_worst": 0.0895,
-
+    "fractal_dimension_worst": 0.0895
   },
   {
     "id": 91903902,
@@ -18651,8 +18119,7 @@
     "concavity_worst": 0.1206,
     "concave points_worst": 0.08704,
     "symmetry_worst": 0.2806,
-    "fractal_dimension_worst": 0.07782,
-
+    "fractal_dimension_worst": 0.07782
   },
   {
     "id": 91930402,
@@ -18686,8 +18153,7 @@
     "concavity_worst": 0.3092,
     "concave points_worst": 0.1613,
     "symmetry_worst": 0.322,
-    "fractal_dimension_worst": 0.06386,
-
+    "fractal_dimension_worst": 0.06386
   },
   {
     "id": 919537,
@@ -18721,8 +18187,7 @@
     "concavity_worst": 0.2123,
     "concave points_worst": 0.09861,
     "symmetry_worst": 0.2289,
-    "fractal_dimension_worst": 0.08278,
-
+    "fractal_dimension_worst": 0.08278
   },
   {
     "id": 919555,
@@ -18756,8 +18221,7 @@
     "concavity_worst": 0.4433,
     "concave points_worst": 0.2148,
     "symmetry_worst": 0.3077,
-    "fractal_dimension_worst": 0.07569,
-
+    "fractal_dimension_worst": 0.07569
   },
   {
     "id": 91979701,
@@ -18791,8 +18255,7 @@
     "concavity_worst": 0.4234,
     "concave points_worst": 0.1362,
     "symmetry_worst": 0.2698,
-    "fractal_dimension_worst": 0.08351,
-
+    "fractal_dimension_worst": 0.08351
   },
   {
     "id": 919812,
@@ -18826,8 +18289,7 @@
     "concavity_worst": 0.1395,
     "concave points_worst": 0.1308,
     "symmetry_worst": 0.2803,
-    "fractal_dimension_worst": 0.0997,
-
+    "fractal_dimension_worst": 0.0997
   },
   {
     "id": 921092,
@@ -18861,8 +18323,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.3058,
-    "fractal_dimension_worst": 0.09938,
-
+    "fractal_dimension_worst": 0.09938
   },
   {
     "id": 921362,
@@ -18896,8 +18357,7 @@
     "concavity_worst": 0.3393,
     "concave points_worst": 0.05,
     "symmetry_worst": 0.279,
-    "fractal_dimension_worst": 0.1066,
-
+    "fractal_dimension_worst": 0.1066
   },
   {
     "id": 921385,
@@ -18931,8 +18391,7 @@
     "concavity_worst": 0.1797,
     "concave points_worst": 0.06918,
     "symmetry_worst": 0.2329,
-    "fractal_dimension_worst": 0.08134,
-
+    "fractal_dimension_worst": 0.08134
   },
   {
     "id": 921386,
@@ -18966,8 +18425,7 @@
     "concavity_worst": 0.404,
     "concave points_worst": 0.1205,
     "symmetry_worst": 0.3187,
-    "fractal_dimension_worst": 0.1023,
-
+    "fractal_dimension_worst": 0.1023
   },
   {
     "id": 921644,
@@ -19001,8 +18459,7 @@
     "concavity_worst": 0.1611,
     "concave points_worst": 0.1095,
     "symmetry_worst": 0.2722,
-    "fractal_dimension_worst": 0.06956,
-
+    "fractal_dimension_worst": 0.06956
   },
   {
     "id": 922296,
@@ -19036,8 +18493,7 @@
     "concavity_worst": 0.1062,
     "concave points_worst": 0.07958,
     "symmetry_worst": 0.2473,
-    "fractal_dimension_worst": 0.06443,
-
+    "fractal_dimension_worst": 0.06443
   },
   {
     "id": 922297,
@@ -19071,8 +18527,7 @@
     "concavity_worst": 0.1377,
     "concave points_worst": 0.06845,
     "symmetry_worst": 0.2249,
-    "fractal_dimension_worst": 0.08492,
-
+    "fractal_dimension_worst": 0.08492
   },
   {
     "id": 922576,
@@ -19106,8 +18561,7 @@
     "concavity_worst": 0.1049,
     "concave points_worst": 0.07174,
     "symmetry_worst": 0.2642,
-    "fractal_dimension_worst": 0.06953,
-
+    "fractal_dimension_worst": 0.06953
   },
   {
     "id": 922577,
@@ -19141,8 +18595,7 @@
     "concavity_worst": 0.04384,
     "concave points_worst": 0.02381,
     "symmetry_worst": 0.2681,
-    "fractal_dimension_worst": 0.07399,
-
+    "fractal_dimension_worst": 0.07399
   },
   {
     "id": 922840,
@@ -19176,8 +18629,7 @@
     "concavity_worst": 0.1783,
     "concave points_worst": 0.08333,
     "symmetry_worst": 0.2691,
-    "fractal_dimension_worst": 0.09479,
-
+    "fractal_dimension_worst": 0.09479
   },
   {
     "id": 923169,
@@ -19211,8 +18663,7 @@
     "concavity_worst": 0.0935,
     "concave points_worst": 0.03846,
     "symmetry_worst": 0.2552,
-    "fractal_dimension_worst": 0.0792,
-
+    "fractal_dimension_worst": 0.0792
   },
   {
     "id": 923465,
@@ -19246,8 +18697,7 @@
     "concavity_worst": 0.06194,
     "concave points_worst": 0.03264,
     "symmetry_worst": 0.3059,
-    "fractal_dimension_worst": 0.07626,
-
+    "fractal_dimension_worst": 0.07626
   },
   {
     "id": 923748,
@@ -19281,8 +18731,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2458,
-    "fractal_dimension_worst": 0.06592,
-
+    "fractal_dimension_worst": 0.06592
   },
   {
     "id": 923780,
@@ -19316,8 +18765,7 @@
     "concavity_worst": 0.1564,
     "concave points_worst": 0.06413,
     "symmetry_worst": 0.3169,
-    "fractal_dimension_worst": 0.08032,
-
+    "fractal_dimension_worst": 0.08032
   },
   {
     "id": 924084,
@@ -19351,8 +18799,7 @@
     "concavity_worst": 0.08653,
     "concave points_worst": 0.06498,
     "symmetry_worst": 0.2407,
-    "fractal_dimension_worst": 0.06484,
-
+    "fractal_dimension_worst": 0.06484
   },
   {
     "id": 924342,
@@ -19386,8 +18833,7 @@
     "concavity_worst": 0.07993,
     "concave points_worst": 0.02564,
     "symmetry_worst": 0.2435,
-    "fractal_dimension_worst": 0.07393,
-
+    "fractal_dimension_worst": 0.07393
   },
   {
     "id": 924632,
@@ -19421,8 +18867,7 @@
     "concavity_worst": 0.2439,
     "concave points_worst": 0.06493,
     "symmetry_worst": 0.2372,
-    "fractal_dimension_worst": 0.07242,
-
+    "fractal_dimension_worst": 0.07242
   },
   {
     "id": 924934,
@@ -19456,8 +18901,7 @@
     "concavity_worst": 0.2,
     "concave points_worst": 0.09127,
     "symmetry_worst": 0.2226,
-    "fractal_dimension_worst": 0.08283,
-
+    "fractal_dimension_worst": 0.08283
   },
   {
     "id": 924964,
@@ -19491,8 +18935,7 @@
     "concavity_worst": 0.01005,
     "concave points_worst": 0.02232,
     "symmetry_worst": 0.2262,
-    "fractal_dimension_worst": 0.06742,
-
+    "fractal_dimension_worst": 0.06742
   },
   {
     "id": 925236,
@@ -19526,8 +18969,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2475,
-    "fractal_dimension_worst": 0.06969,
-
+    "fractal_dimension_worst": 0.06969
   },
   {
     "id": 925277,
@@ -19561,8 +19003,7 @@
     "concavity_worst": 0.3662,
     "concave points_worst": 0.1105,
     "symmetry_worst": 0.2258,
-    "fractal_dimension_worst": 0.08004,
-
+    "fractal_dimension_worst": 0.08004
   },
   {
     "id": 925291,
@@ -19596,8 +19037,7 @@
     "concavity_worst": 0.363,
     "concave points_worst": 0.09653,
     "symmetry_worst": 0.2112,
-    "fractal_dimension_worst": 0.08732,
-
+    "fractal_dimension_worst": 0.08732
   },
   {
     "id": 925292,
@@ -19631,8 +19071,7 @@
     "concavity_worst": 0.1326,
     "concave points_worst": 0.1048,
     "symmetry_worst": 0.225,
-    "fractal_dimension_worst": 0.08321,
-
+    "fractal_dimension_worst": 0.08321
   },
   {
     "id": 925311,
@@ -19666,8 +19105,7 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.1566,
-    "fractal_dimension_worst": 0.05905,
-
+    "fractal_dimension_worst": 0.05905
   },
   {
     "id": 925622,
@@ -19701,8 +19139,7 @@
     "concavity_worst": 1.17,
     "concave points_worst": 0.2356,
     "symmetry_worst": 0.4089,
-    "fractal_dimension_worst": 0.1409,
-
+    "fractal_dimension_worst": 0.1409
   },
   {
     "id": 926125,
@@ -19736,8 +19173,7 @@
     "concavity_worst": 0.6599,
     "concave points_worst": 0.2542,
     "symmetry_worst": 0.2929,
-    "fractal_dimension_worst": 0.09873,
-
+    "fractal_dimension_worst": 0.09873
   },
   {
     "id": 926424,
@@ -19771,8 +19207,7 @@
     "concavity_worst": 0.4107,
     "concave points_worst": 0.2216,
     "symmetry_worst": 0.206,
-    "fractal_dimension_worst": 0.07115,
-
+    "fractal_dimension_worst": 0.07115
   },
   {
     "id": 926682,
@@ -19806,8 +19241,7 @@
     "concavity_worst": 0.3215,
     "concave points_worst": 0.1628,
     "symmetry_worst": 0.2572,
-    "fractal_dimension_worst": 0.06637,
-
+    "fractal_dimension_worst": 0.06637
   },
   {
     "id": 926954,
@@ -19841,8 +19275,7 @@
     "concavity_worst": 0.3403,
     "concave points_worst": 0.1418,
     "symmetry_worst": 0.2218,
-    "fractal_dimension_worst": 0.0782,
-
+    "fractal_dimension_worst": 0.0782
   },
   {
     "id": 927241,
@@ -19876,8 +19309,7 @@
     "concavity_worst": 0.9387,
     "concave points_worst": 0.265,
     "symmetry_worst": 0.4087,
-    "fractal_dimension_worst": 0.124,
-
+    "fractal_dimension_worst": 0.124
   },
   {
     "id": 92751,
@@ -19911,6 +19343,6 @@
     "concavity_worst": 0,
     "concave points_worst": 0,
     "symmetry_worst": 0.2871,
-    "fractal_dimension_worst": 0.07039,
-
+    "fractal_dimension_worst": 0.07039
   }
+]
