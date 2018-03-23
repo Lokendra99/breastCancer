@@ -1,0 +1,66 @@
+[
+  {
+    "diagnosis": "B",
+    "texture_mean": 12.35,
+    "area_mean": 363.7,
+    "area_se": 11.09,
+    "concavity_worst": 0.02884,
+    "concavity_mean": 0.01236
+  },
+  {
+    "diagnosis": "M",
+    "texture_mean": 18.14,
+    "area_mean": 431.1,
+    "area_se": 49.11,
+    "concavity_worst": 0.0612,
+    "concavity_mean": 0.02685
+  },
+  {
+    "diagnosis": "B",
+    "texture_mean": 18.17,
+    "area_mean": 633.1,
+    "area_se": 20.56,
+    "concavity_worst": 0.1565,
+    "concavity_mean": 0.02475
+  },
+  {
+    "diagnosis": "B",
+    "texture_mean": 23.09,
+    "area_mean": 334.2,
+    "area_se": 20.56,
+    "concavity_worst": 0.04158,
+    "concavity_mean": 0.02495
+  },
+  {
+    "diagnosis": "M",
+    "texture_mean": 18.9,
+    "area_mean": 1217,
+    "area_se": 133,
+    "concavity_worst": 0.6121,
+    "concavity_mean": 0.2197
+  },
+  {
+    "diagnosis": "B",
+    "texture_mean": 19.89,
+    "area_mean": 471.3,
+    "area_se": 28.32,
+    "concavity_worst": 0.1904,
+    "concavity_mean": 0.0683
+  },
+  {
+    "diagnosis": "M",
+    "texture_mean": 23.86,
+    "area_mean": 1247,
+    "area_se": 130.8,
+    "concavity_worst": 0.4932,
+    "concavity_mean": 0.2283
+  },
+  {
+    "diagnosis": "B",
+    "texture_mean": 18.61,
+    "area_mean": 334.3,
+    "area_se": 10.08,
+    "concavity_worst": 0.08423,
+    "concavity_mean": 0.02297
+  }
+]
