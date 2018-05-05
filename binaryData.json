@@ -1,6 +1,5 @@
 [
   {
-    "diagnosis": 0,
     "texture_mean": 11.97,
     "area_mean": 288.5,
     "concavity_mean": 0,
@@ -18,7 +17,6 @@
     "fractal_dimension_worst": 0.08151
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.17,
     "area_mean": 495,
     "concavity_mean": 0.0236,
@@ -36,7 +34,6 @@
     "fractal_dimension_worst": 0.09464
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.22,
     "area_mean": 321.6,
     "concavity_mean": 0.01923,
@@ -54,7 +51,6 @@
     "fractal_dimension_worst": 0.07722
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.27,
     "area_mean": 468.5,
     "concavity_mean": 0.02958,
@@ -72,7 +68,6 @@
     "fractal_dimension_worst": 0.07592
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.35,
     "area_mean": 363.7,
     "concavity_mean": 0.01236,
@@ -90,7 +85,6 @@
     "fractal_dimension_worst": 0.06643
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.39,
     "area_mean": 464.1,
     "concavity_mean": 0.03987,
@@ -108,7 +102,6 @@
     "fractal_dimension_worst": 0.06771
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.44,
     "area_mean": 273.9,
     "concavity_mean": 0.02956,
@@ -126,7 +119,6 @@
     "fractal_dimension_worst": 0.07773
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.71,
     "area_mean": 566.2,
     "concavity_mean": 0.002758,
@@ -144,7 +136,6 @@
     "fractal_dimension_worst": 0.06192
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.74,
     "area_mean": 448.6,
     "concavity_mean": 0.01972,
@@ -162,7 +153,6 @@
     "fractal_dimension_worst": 0.07898
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.83,
     "area_mean": 477.3,
     "concavity_mean": 0.007173,
@@ -180,7 +170,6 @@
     "fractal_dimension_worst": 0.07028
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.84,
     "area_mean": 412.6,
     "concavity_mean": 0.04196,
@@ -198,7 +187,6 @@
     "fractal_dimension_worst": 0.08756
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.87,
     "area_mean": 248.7,
     "concavity_mean": 0.0973,
@@ -216,7 +204,6 @@
     "fractal_dimension_worst": 0.1252
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.88,
     "area_mean": 616.5,
     "concavity_mean": 0.01765,
@@ -234,7 +221,6 @@
     "fractal_dimension_worst": 0.07083
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.91,
     "area_mean": 725.5,
     "concavity_mean": 0.05892,
@@ -252,7 +238,6 @@
     "fractal_dimension_worst": 0.07474
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.96,
     "area_mean": 366.8,
     "concavity_mean": 0.00309,
@@ -270,7 +255,6 @@
     "fractal_dimension_worst": 0.07685
   },
   {
-    "diagnosis": 0,
     "texture_mean": 12.96,
     "area_mean": 386.3,
     "concavity_mean": 0.079,
@@ -288,7 +272,6 @@
     "fractal_dimension_worst": 0.09215
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.04,
     "area_mean": 388,
     "concavity_mean": 0.03265,
@@ -306,7 +289,6 @@
     "fractal_dimension_worst": 0.08022
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.06,
     "area_mean": 508.8,
     "concavity_mean": 0.009193,
@@ -324,7 +306,6 @@
     "fractal_dimension_worst": 0.07319
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.08,
     "area_mean": 381.9,
     "concavity_mean": 0.01982,
@@ -342,7 +323,6 @@
     "fractal_dimension_worst": 0.06772
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.1,
     "area_mean": 221.3,
     "concavity_mean": 0.02565,
@@ -360,7 +340,6 @@
     "fractal_dimension_worst": 0.1049
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.12,
     "area_mean": 515.9,
     "concavity_mean": 0.0226,
@@ -378,7 +357,6 @@
     "fractal_dimension_worst": 0.06915
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.14,
     "area_mean": 272.5,
     "concavity_mean": 0.1188,
@@ -396,7 +374,6 @@
     "fractal_dimension_worst": 0.1364
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.16,
     "area_mean": 568.9,
     "concavity_mean": 0.03888,
@@ -414,7 +391,6 @@
     "fractal_dimension_worst": 0.08718
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.17,
     "area_mean": 594.2,
     "concavity_mean": 0.101,
@@ -432,7 +408,6 @@
     "fractal_dimension_worst": 0.07253
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.21,
     "area_mean": 711.8,
     "concavity_mean": 0.03393,
@@ -450,7 +425,6 @@
     "fractal_dimension_worst": 0.06766
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.23,
     "area_mean": 992.1,
     "concavity_mean": 0.04445,
@@ -468,7 +442,6 @@
     "fractal_dimension_worst": 0.05871
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.27,
     "area_mean": 582.7,
     "concavity_mean": 0.01063,
@@ -486,7 +459,6 @@
     "fractal_dimension_worst": 0.06794
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.29,
     "area_mean": 455.8,
     "concavity_mean": 0.02855,
@@ -504,7 +476,6 @@
     "fractal_dimension_worst": 0.09241
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.32,
     "area_mean": 504.8,
     "concavity_mean": 0.038,
@@ -522,7 +493,6 @@
     "fractal_dimension_worst": 0.08553
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.37,
     "area_mean": 504.1,
     "concavity_mean": 0.04052,
@@ -540,7 +510,6 @@
     "fractal_dimension_worst": 0.08253
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.39,
     "area_mean": 384.8,
     "concavity_mean": 0.04635,
@@ -558,7 +527,6 @@
     "fractal_dimension_worst": 0.06784
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.43,
     "area_mean": 143.5,
     "concavity_mean": 0,
@@ -576,7 +544,6 @@
     "fractal_dimension_worst": 0.09382
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.44,
     "area_mean": 445.2,
     "concavity_mean": 0.03781,
@@ -594,7 +561,6 @@
     "fractal_dimension_worst": 0.08052
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.47,
     "area_mean": 641.2,
     "concavity_mean": 0.05724,
@@ -612,7 +578,6 @@
     "fractal_dimension_worst": 0.06072
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.66,
     "area_mean": 658.8,
     "concavity_mean": 0.08222,
@@ -630,7 +595,6 @@
     "fractal_dimension_worst": 0.07048
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.72,
     "area_mean": 541.8,
     "concavity_mean": 0.05077,
@@ -648,7 +612,6 @@
     "fractal_dimension_worst": 0.0732
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.78,
     "area_mean": 492.1,
     "concavity_mean": 0.01288,
@@ -666,7 +629,6 @@
     "fractal_dimension_worst": 0.06922
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.84,
     "area_mean": 530.6,
     "concavity_mean": 0.004559,
@@ -684,7 +646,6 @@
     "fractal_dimension_worst": 0.0658
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.86,
     "area_mean": 260.9,
     "concavity_mean": 0.05988,
@@ -702,7 +663,6 @@
     "fractal_dimension_worst": 0.0849
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.9,
     "area_mean": 561.3,
     "concavity_mean": 0.0786,
@@ -720,7 +680,6 @@
     "fractal_dimension_worst": 0.08177
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.9,
     "area_mean": 257.8,
     "concavity_mean": 0.03332,
@@ -738,7 +697,6 @@
     "fractal_dimension_worst": 0.08982
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.93,
     "area_mean": 761.7,
     "concavity_mean": 0.07135,
@@ -756,7 +714,6 @@
     "fractal_dimension_worst": 0.07071
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.98,
     "area_mean": 656.1,
     "concavity_mean": 0.145,
@@ -774,7 +731,6 @@
     "fractal_dimension_worst": 0.09208
   },
   {
-    "diagnosis": 0,
     "texture_mean": 13.98,
     "area_mean": 644.2,
     "concavity_mean": 0.06895,
@@ -792,7 +748,6 @@
     "fractal_dimension_worst": 0.0781
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.02,
     "area_mean": 427.3,
     "concavity_mean": 0.02245,
@@ -810,7 +765,6 @@
     "fractal_dimension_worst": 0.06688
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.06,
     "area_mean": 546.3,
     "concavity_mean": 0.05786,
@@ -828,7 +782,6 @@
     "fractal_dimension_worst": 0.09326
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.07,
     "area_mean": 384.6,
     "concavity_mean": 0.04505,
@@ -846,7 +799,6 @@
     "fractal_dimension_worst": 0.07018
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.08,
     "area_mean": 461.4,
     "concavity_mean": 0.01123,
@@ -864,7 +816,6 @@
     "fractal_dimension_worst": 0.06037
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.09,
     "area_mean": 462,
     "concavity_mean": 0.06839,
@@ -882,7 +833,6 @@
     "fractal_dimension_worst": 0.08824
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.11,
     "area_mean": 512.2,
     "concavity_mean": 0.1374,
@@ -900,7 +850,6 @@
     "fractal_dimension_worst": 0.1178
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.16,
     "area_mean": 396.6,
     "concavity_mean": 0.001487,
@@ -918,7 +867,6 @@
     "fractal_dimension_worst": 0.06386
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.23,
     "area_mean": 514.3,
     "concavity_mean": 0.03738,
@@ -936,7 +884,6 @@
     "fractal_dimension_worst": 0.1009
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.36,
     "area_mean": 566.3,
     "concavity_mean": 0.06664,
@@ -954,7 +901,6 @@
     "fractal_dimension_worst": 0.07259
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.4,
     "area_mean": 246.3,
     "concavity_mean": 0.003681,
@@ -972,7 +918,6 @@
     "fractal_dimension_worst": 0.07804
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.44,
     "area_mean": 402.9,
     "concavity_mean": 0.06737,
@@ -990,7 +935,6 @@
     "fractal_dimension_worst": 0.08134
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.45,
     "area_mean": 227.2,
     "concavity_mean": 0,
@@ -1008,7 +952,6 @@
     "fractal_dimension_worst": 0.07848
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.59,
     "area_mean": 404.9,
     "concavity_mean": 0.05308,
@@ -1026,7 +969,6 @@
     "fractal_dimension_worst": 0.0918
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.63,
     "area_mean": 449.3,
     "concavity_mean": 0.06592,
@@ -1044,7 +986,6 @@
     "fractal_dimension_worst": 0.08301
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.64,
     "area_mean": 244,
     "concavity_mean": 0.08606,
@@ -1062,7 +1003,6 @@
     "fractal_dimension_worst": 0.1084
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.65,
     "area_mean": 432.8,
     "concavity_mean": 0.0371,
@@ -1080,7 +1020,6 @@
     "fractal_dimension_worst": 0.1036
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.69,
     "area_mean": 426,
     "concavity_mean": 0.06726,
@@ -1098,7 +1037,6 @@
     "fractal_dimension_worst": 0.09879
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.7,
     "area_mean": 680.7,
     "concavity_mean": 0.03416,
@@ -1116,7 +1054,6 @@
     "fractal_dimension_worst": 0.06142
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.71,
     "area_mean": 372.7,
     "concavity_mean": 0.02363,
@@ -1134,7 +1071,6 @@
     "fractal_dimension_worst": 0.07313
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.71,
     "area_mean": 321.6,
     "concavity_mean": 0.03581,
@@ -1152,7 +1088,6 @@
     "fractal_dimension_worst": 0.08488
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.74,
     "area_mean": 668.7,
     "concavity_mean": 0.04608,
@@ -1170,7 +1105,6 @@
     "fractal_dimension_worst": 0.08187
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.76,
     "area_mean": 551.7,
     "concavity_mean": 0.03261,
@@ -1188,7 +1122,6 @@
     "fractal_dimension_worst": 0.06206
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.78,
     "area_mean": 390,
     "concavity_mean": 0.0009737,
@@ -1206,7 +1139,6 @@
     "fractal_dimension_worst": 0.07418
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.83,
     "area_mean": 378.2,
     "concavity_mean": 0.02712,
@@ -1224,7 +1156,6 @@
     "fractal_dimension_worst": 0.09158
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.86,
     "area_mean": 800,
     "concavity_mean": 0.055,
@@ -1242,7 +1173,6 @@
     "fractal_dimension_worst": 0.07012
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.88,
     "area_mean": 311.9,
     "concavity_mean": 0.01084,
@@ -1260,7 +1190,6 @@
     "fractal_dimension_worst": 0.0802
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.92,
     "area_mean": 402,
     "concavity_mean": 0.06181,
@@ -1278,7 +1207,6 @@
     "fractal_dimension_worst": 0.07427
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.93,
     "area_mean": 406.3,
     "concavity_mean": 0.04328,
@@ -1296,7 +1224,6 @@
     "fractal_dimension_worst": 0.07809
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.93,
     "area_mean": 372.7,
     "concavity_mean": 0.03546,
@@ -1314,7 +1241,6 @@
     "fractal_dimension_worst": 0.07287
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.93,
     "area_mean": 686.9,
     "concavity_mean": 0.05539,
@@ -1332,7 +1258,6 @@
     "fractal_dimension_worst": 0.08273
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.95,
     "area_mean": 469.1,
     "concavity_mean": 0.02109,
@@ -1350,7 +1275,6 @@
     "fractal_dimension_worst": 0.05974
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.96,
     "area_mean": 373.9,
     "concavity_mean": 0.05397,
@@ -1368,7 +1292,6 @@
     "fractal_dimension_worst": 0.0908
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.96,
     "area_mean": 426.7,
     "concavity_mean": 0.01171,
@@ -1386,7 +1309,6 @@
     "fractal_dimension_worst": 0.0759
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.97,
     "area_mean": 355.3,
     "concavity_mean": 0.02251,
@@ -1404,7 +1326,6 @@
     "fractal_dimension_worst": 0.06769
   },
   {
-    "diagnosis": 0,
     "texture_mean": 14.98,
     "area_mean": 333.6,
     "concavity_mean": 0.06335,
@@ -1422,7 +1343,6 @@
     "fractal_dimension_worst": 0.09646
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.04,
     "area_mean": 476.5,
     "concavity_mean": 0.01053,
@@ -1440,7 +1360,6 @@
     "fractal_dimension_worst": 0.06783
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.11,
     "area_mean": 317.5,
     "concavity_mean": 0.001597,
@@ -1458,7 +1377,6 @@
     "fractal_dimension_worst": 0.07697
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.15,
     "area_mean": 349.6,
     "concavity_mean": 0,
@@ -1476,7 +1394,6 @@
     "fractal_dimension_worst": 0.06164
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.15,
     "area_mean": 580.6,
     "concavity_mean": 0.04249,
@@ -1494,7 +1411,6 @@
     "fractal_dimension_worst": 0.09638
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.18,
     "area_mean": 640.1,
     "concavity_mean": 0.08487,
@@ -1512,7 +1428,6 @@
     "fractal_dimension_worst": 0.07683
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.18,
     "area_mean": 587.4,
     "concavity_mean": 0.04479,
@@ -1530,7 +1445,6 @@
     "fractal_dimension_worst": 0.06912
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.21,
     "area_mean": 457.9,
     "concavity_mean": 0.01994,
@@ -1548,7 +1462,6 @@
     "fractal_dimension_worst": 0.07961
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.24,
     "area_mean": 651.9,
     "concavity_mean": 0.09966,
@@ -1566,7 +1479,6 @@
     "fractal_dimension_worst": 0.08473
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.34,
     "area_mean": 300.2,
     "concavity_mean": 0.4108,
@@ -1584,7 +1496,6 @@
     "fractal_dimension_worst": 0.1259
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.34,
     "area_mean": 538.9,
     "concavity_mean": 0.09293,
@@ -1602,7 +1513,6 @@
     "fractal_dimension_worst": 0.08633
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.39,
     "area_mean": 399.8,
     "concavity_mean": 0.03503,
@@ -1620,7 +1530,6 @@
     "fractal_dimension_worst": 0.06765
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.45,
     "area_mean": 420.3,
     "concavity_mean": 0.04006,
@@ -1638,7 +1547,6 @@
     "fractal_dimension_worst": 0.07806
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.46,
     "area_mean": 329.6,
     "concavity_mean": 0.006643,
@@ -1656,7 +1564,6 @@
     "fractal_dimension_worst": 0.08269
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.49,
     "area_mean": 241,
     "concavity_mean": 0.04721,
@@ -1674,7 +1581,6 @@
     "fractal_dimension_worst": 0.07431
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.5,
     "area_mean": 392,
     "concavity_mean": 0.1007,
@@ -1692,7 +1598,6 @@
     "fractal_dimension_worst": 0.1043
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.51,
     "area_mean": 684.5,
     "concavity_mean": 0.06505,
@@ -1710,7 +1615,6 @@
     "fractal_dimension_worst": 0.08362
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.6,
     "area_mean": 575.3,
     "concavity_mean": 0.04705,
@@ -1728,7 +1632,6 @@
     "fractal_dimension_worst": 0.0651
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.62,
     "area_mean": 358.9,
     "concavity_mean": 0.05115,
@@ -1746,7 +1649,6 @@
     "fractal_dimension_worst": 0.108
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.65,
     "area_mean": 443.3,
     "concavity_mean": 0.04151,
@@ -1764,7 +1666,6 @@
     "fractal_dimension_worst": 0.07924
   },
   {
-    "diagnosis": 0,
     "texture_mean": 15.66,
     "area_mean": 606.5,
     "concavity_mean": 0.02087,
@@ -1782,7 +1683,6 @@
     "fractal_dimension_worst": 0.0671
   },
   {
-    "diagnosis": 1,
     "texture_mean": 10.38,
     "area_mean": 1001,
     "concavity_mean": 0.3001,
@@ -1800,7 +1700,6 @@
     "fractal_dimension_worst": 0.1189
   },
   {
-    "diagnosis": 1,
     "texture_mean": 11.89,
     "area_mean": 736.9,
     "concavity_mean": 0.2032,
@@ -1818,7 +1717,6 @@
     "fractal_dimension_worst": 0.101
   },
   {
-    "diagnosis": 1,
     "texture_mean": 14.26,
     "area_mean": 704.4,
     "concavity_mean": 0.2077,
@@ -1836,7 +1734,6 @@
     "fractal_dimension_worst": 0.09946
   },
   {
-    "diagnosis": 1,
     "texture_mean": 14.34,
     "area_mean": 1297,
     "concavity_mean": 0.198,
@@ -1854,7 +1751,6 @@
     "fractal_dimension_worst": 0.07678
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.05,
     "area_mean": 955.1,
     "concavity_mean": 0.09875,
@@ -1872,7 +1768,6 @@
     "fractal_dimension_worst": 0.07919
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.1,
     "area_mean": 1386,
     "concavity_mean": 0.1932,
@@ -1890,7 +1785,6 @@
     "fractal_dimension_worst": 0.08666
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.51,
     "area_mean": 793.2,
     "concavity_mean": 0.1204,
@@ -1908,7 +1802,6 @@
     "fractal_dimension_worst": 0.09124
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.56,
     "area_mean": 530.2,
     "concavity_mean": 0.2071,
@@ -1926,7 +1819,6 @@
     "fractal_dimension_worst": 0.1405
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.7,
     "area_mean": 477.1,
     "concavity_mean": 0.1578,
@@ -1944,7 +1836,6 @@
     "fractal_dimension_worst": 0.1244
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.79,
     "area_mean": 584.1,
     "concavity_mean": 0.07789,
@@ -1962,7 +1853,6 @@
     "fractal_dimension_worst": 0.103
   },
   {
-    "diagnosis": 1,
     "texture_mean": 15.94,
     "area_mean": 1157,
     "concavity_mean": 0.1193,
@@ -1980,7 +1870,6 @@
     "fractal_dimension_worst": 0.06251
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.15,
     "area_mean": 1006,
     "concavity_mean": 0.1684,
@@ -1998,7 +1887,6 @@
     "fractal_dimension_worst": 0.1108
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.4,
     "area_mean": 912.7,
     "concavity_mean": 0.2229,
@@ -2016,7 +1904,6 @@
     "fractal_dimension_worst": 0.1059
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.58,
     "area_mean": 432,
     "concavity_mean": 0.1659,
@@ -2034,7 +1921,6 @@
     "fractal_dimension_worst": 0.103
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.67,
     "area_mean": 682.5,
     "concavity_mean": 0.169,
@@ -2052,7 +1938,6 @@
     "fractal_dimension_worst": 0.1065
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.68,
     "area_mean": 716.6,
     "concavity_mean": 0.0755,
@@ -2070,7 +1955,6 @@
     "fractal_dimension_worst": 0.0974
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.85,
     "area_mean": 990,
     "concavity_mean": 0.109,
@@ -2088,7 +1972,6 @@
     "fractal_dimension_worst": 0.08225
   },
   {
-    "diagnosis": 1,
     "texture_mean": 16.93,
     "area_mean": 578.9,
     "concavity_mean": 0.09901,
@@ -2106,7 +1989,6 @@
     "fractal_dimension_worst": 0.1059
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.05,
     "area_mean": 602.4,
     "concavity_mean": 0.09789,
@@ -2124,7 +2006,6 @@
     "fractal_dimension_worst": 0.07957
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.08,
     "area_mean": 928.2,
     "concavity_mean": 0.1266,
@@ -2142,7 +2023,6 @@
     "fractal_dimension_worst": 0.08113
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.12,
     "area_mean": 1077,
     "concavity_mean": 0.1457,
@@ -2160,7 +2040,6 @@
     "fractal_dimension_worst": 0.08456
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.25,
     "area_mean": 1546,
     "concavity_mean": 0.1168,
@@ -2178,7 +2057,6 @@
     "fractal_dimension_worst": 0.06494
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.27,
     "area_mean": 713.3,
     "concavity_mean": 0.2448,
@@ -2196,7 +2074,6 @@
     "fractal_dimension_worst": 0.1191
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.35,
     "area_mean": 1335,
     "concavity_mean": 0.1527,
@@ -2214,7 +2091,6 @@
     "fractal_dimension_worst": 0.07055
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.46,
     "area_mean": 2010,
     "concavity_mean": 0.3368,
@@ -2232,7 +2108,6 @@
     "fractal_dimension_worst": 0.08815
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.52,
     "area_mean": 1068,
     "concavity_mean": 0.1491,
@@ -2250,7 +2125,6 @@
     "fractal_dimension_worst": 0.09445
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.57,
     "area_mean": 678.1,
     "concavity_mean": 0.1539,
@@ -2268,7 +2142,6 @@
     "fractal_dimension_worst": 0.07147
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.6,
     "area_mean": 1076,
     "concavity_mean": 0.1974,
@@ -2286,7 +2159,6 @@
     "fractal_dimension_worst": 0.09185
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.77,
     "area_mean": 1326,
     "concavity_mean": 0.0869,
@@ -2304,7 +2176,6 @@
     "fractal_dimension_worst": 0.08902
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.88,
     "area_mean": 807.2,
     "concavity_mean": 0.1354,
@@ -2322,7 +2193,6 @@
     "fractal_dimension_worst": 0.1233
   },
   {
-    "diagnosis": 1,
     "texture_mean": 17.89,
     "area_mean": 781,
     "concavity_mean": 0.09954,
@@ -2340,7 +2210,6 @@
     "fractal_dimension_worst": 0.1048
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.05,
     "area_mean": 813,
     "concavity_mean": 0.09447,
@@ -2358,7 +2227,6 @@
     "fractal_dimension_worst": 0.08158
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.14,
     "area_mean": 431.1,
     "concavity_mean": 0.02685,
@@ -2376,7 +2244,6 @@
     "fractal_dimension_worst": 0.06915
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.15,
     "area_mean": 1214,
     "concavity_mean": 0.2508,
@@ -2394,7 +2261,6 @@
     "fractal_dimension_worst": 0.09223
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.18,
     "area_mean": 1145,
     "concavity_mean": 0.1626,
@@ -2412,7 +2278,6 @@
     "fractal_dimension_worst": 0.07787
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.47,
     "area_mean": 2499,
     "concavity_mean": 0.3201,
@@ -2430,7 +2295,6 @@
     "fractal_dimension_worst": 0.05525
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.52,
     "area_mean": 1075,
     "concavity_mean": 0.1335,
@@ -2448,7 +2312,6 @@
     "fractal_dimension_worst": 0.08579
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.57,
     "area_mean": 1152,
     "concavity_mean": 0.1323,
@@ -2466,7 +2329,6 @@
     "fractal_dimension_worst": 0.08294
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.58,
     "area_mean": 1041,
     "concavity_mean": 0.08169,
@@ -2484,7 +2346,6 @@
     "fractal_dimension_worst": 0.06938
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.66,
     "area_mean": 534.6,
     "concavity_mean": 0.1226,
@@ -2502,7 +2363,6 @@
     "fractal_dimension_worst": 0.1179
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.7,
     "area_mean": 440.6,
     "concavity_mean": 0.1218,
@@ -2520,7 +2380,6 @@
     "fractal_dimension_worst": 0.1402
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.7,
     "area_mean": 1033,
     "concavity_mean": 0.1772,
@@ -2538,7 +2397,6 @@
     "fractal_dimension_worst": 0.07987
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.77,
     "area_mean": 805.1,
     "concavity_mean": 0.1948,
@@ -2556,7 +2414,6 @@
     "fractal_dimension_worst": 0.1063
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.8,
     "area_mean": 886.3,
     "concavity_mean": 0.08422,
@@ -2574,7 +2431,6 @@
     "fractal_dimension_worst": 0.07228
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.82,
     "area_mean": 1167,
     "concavity_mean": 0.2256,
@@ -2592,7 +2448,6 @@
     "fractal_dimension_worst": 0.09009
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.83,
     "area_mean": 361.6,
     "concavity_mean": 0.1689,
@@ -2610,7 +2465,6 @@
     "fractal_dimension_worst": 0.1403
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.87,
     "area_mean": 1027,
     "concavity_mean": 0.113,
@@ -2628,7 +2482,6 @@
     "fractal_dimension_worst": 0.08198
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.9,
     "area_mean": 1217,
     "concavity_mean": 0.2197,
@@ -2646,7 +2499,6 @@
     "fractal_dimension_worst": 0.09929
   },
   {
-    "diagnosis": 1,
     "texture_mean": 18.91,
     "area_mean": 1138,
     "concavity_mean": 0.09271,
@@ -2664,7 +2516,6 @@
     "fractal_dimension_worst": 0.06541
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.07,
     "area_mean": 701.9,
     "concavity_mean": 0.07486,
@@ -2682,7 +2533,6 @@
     "fractal_dimension_worst": 0.06954
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.08,
     "area_mean": 895,
     "concavity_mean": 0.191,
@@ -2700,7 +2550,6 @@
     "fractal_dimension_worst": 0.09061
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.22,
     "area_mean": 758.6,
     "concavity_mean": 0.2914,
@@ -2718,7 +2567,6 @@
     "fractal_dimension_worst": 0.105
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.32,
     "area_mean": 951.6,
     "concavity_mean": 0.1036,
@@ -2736,7 +2584,6 @@
     "fractal_dimension_worst": 0.07867
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.33,
     "area_mean": 1169,
     "concavity_mean": 0.1379,
@@ -2754,7 +2601,6 @@
     "fractal_dimension_worst": 0.0895
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.38,
     "area_mean": 758.6,
     "concavity_mean": 0.04209,
@@ -2772,7 +2618,6 @@
     "fractal_dimension_worst": 0.06829
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.48,
     "area_mean": 748.9,
     "concavity_mean": 0.1466,
@@ -2790,7 +2635,6 @@
     "fractal_dimension_worst": 0.08019
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.51,
     "area_mean": 815.8,
     "concavity_mean": 0.2236,
@@ -2808,7 +2652,6 @@
     "fractal_dimension_worst": 0.09136
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.54,
     "area_mean": 1250,
     "concavity_mean": 0.2133,
@@ -2826,7 +2669,6 @@
     "fractal_dimension_worst": 0.08075
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.62,
     "area_mean": 599.5,
     "concavity_mean": 0.1126,
@@ -2844,7 +2686,6 @@
     "fractal_dimension_worst": 0.1055
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.63,
     "area_mean": 565.4,
     "concavity_mean": 0.05858,
@@ -2862,7 +2703,6 @@
     "fractal_dimension_worst": 0.07371
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.65,
     "area_mean": 817.7,
     "concavity_mean": 0.09769,
@@ -2880,7 +2720,6 @@
     "fractal_dimension_worst": 0.06387
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.66,
     "area_mean": 1274,
     "concavity_mean": 0.1155,
@@ -2898,7 +2737,6 @@
     "fractal_dimension_worst": 0.05933
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.67,
     "area_mean": 1509,
     "concavity_mean": 0.4264,
@@ -2916,7 +2754,6 @@
     "fractal_dimension_worst": 0.09789
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.77,
     "area_mean": 642.5,
     "concavity_mean": 0.09388,
@@ -2934,7 +2771,6 @@
     "fractal_dimension_worst": 0.09353
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.82,
     "area_mean": 1206,
     "concavity_mean": 0.2417,
@@ -2952,7 +2788,6 @@
     "fractal_dimension_worst": 0.1297
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.83,
     "area_mean": 705.6,
     "concavity_mean": 0.17,
@@ -2970,7 +2805,6 @@
     "fractal_dimension_worst": 0.08234
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.83,
     "area_mean": 1682,
     "concavity_mean": 0.1676,
@@ -2988,7 +2822,6 @@
     "fractal_dimension_worst": 0.07277
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.97,
     "area_mean": 744.7,
     "concavity_mean": 0.1891,
@@ -3006,7 +2839,6 @@
     "fractal_dimension_worst": 0.1019
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.98,
     "area_mean": 1040,
     "concavity_mean": 0.1127,
@@ -3024,7 +2856,6 @@
     "fractal_dimension_worst": 0.08368
   },
   {
-    "diagnosis": 1,
     "texture_mean": 19.98,
     "area_mean": 1102,
     "concavity_mean": 0.0802,
@@ -3042,7 +2873,6 @@
     "fractal_dimension_worst": 0.05737
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.01,
     "area_mean": 982,
     "concavity_mean": 0.07293,
@@ -3060,7 +2890,6 @@
     "fractal_dimension_worst": 0.06111
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.11,
     "area_mean": 832.9,
     "concavity_mean": 0.1793,
@@ -3078,7 +2907,6 @@
     "fractal_dimension_worst": 0.09519
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.13,
     "area_mean": 684.5,
     "concavity_mean": 0.07395,
@@ -3096,7 +2924,6 @@
     "fractal_dimension_worst": 0.08216
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.2,
     "area_mean": 1761,
     "concavity_mean": 0.4268,
@@ -3114,7 +2941,6 @@
     "fractal_dimension_worst": 0.08009
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.2,
     "area_mean": 857.6,
     "concavity_mean": 0.03649,
@@ -3132,7 +2958,6 @@
     "fractal_dimension_worst": 0.07623
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.22,
     "area_mean": 642.7,
     "concavity_mean": 0.118,
@@ -3150,7 +2975,6 @@
     "fractal_dimension_worst": 0.1013
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.25,
     "area_mean": 1094,
     "concavity_mean": 0.149,
@@ -3168,7 +2992,6 @@
     "fractal_dimension_worst": 0.07421
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.25,
     "area_mean": 761.3,
     "concavity_mean": 0.1147,
@@ -3186,7 +3009,6 @@
     "fractal_dimension_worst": 0.1064
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.26,
     "area_mean": 904.3,
     "concavity_mean": 0.0695,
@@ -3204,7 +3026,6 @@
     "fractal_dimension_worst": 0.06469
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.26,
     "area_mean": 1214,
     "concavity_mean": 0.1411,
@@ -3222,7 +3043,6 @@
     "fractal_dimension_worst": 0.09136
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.28,
     "area_mean": 545.2,
     "concavity_mean": 0.09847,
@@ -3240,7 +3060,6 @@
     "fractal_dimension_worst": 0.1027
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.31,
     "area_mean": 766.6,
     "concavity_mean": 0.06593,
@@ -3258,7 +3077,6 @@
     "fractal_dimension_worst": 0.08631
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.38,
     "area_mean": 386.1,
     "concavity_mean": 0.2414,
@@ -3276,7 +3094,6 @@
     "fractal_dimension_worst": 0.173
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.52,
     "area_mean": 1384,
     "concavity_mean": 0.1572,
@@ -3294,7 +3111,6 @@
     "fractal_dimension_worst": 0.07425
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.52,
     "area_mean": 556.7,
     "concavity_mean": 0.1445,
@@ -3312,7 +3128,6 @@
     "fractal_dimension_worst": 0.1109
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.56,
     "area_mean": 1007,
     "concavity_mean": 0.117,
@@ -3330,7 +3145,6 @@
     "fractal_dimension_worst": 0.07625
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.58,
     "area_mean": 1052,
     "concavity_mean": 0.1569,
@@ -3348,7 +3162,6 @@
     "fractal_dimension_worst": 0.07863
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.66,
     "area_mean": 991.7,
     "concavity_mean": 0.1201,
@@ -3366,7 +3179,6 @@
     "fractal_dimension_worst": 0.08503
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.67,
     "area_mean": 1299,
     "concavity_mean": 0.1523,
@@ -3384,7 +3196,6 @@
     "fractal_dimension_worst": 0.06386
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.68,
     "area_mean": 798.8,
     "concavity_mean": 0.1722,
@@ -3402,7 +3213,6 @@
     "fractal_dimension_worst": 0.1142
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.71,
     "area_mean": 813.7,
     "concavity_mean": 0.1478,
@@ -3420,7 +3230,6 @@
     "fractal_dimension_worst": 0.082
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.74,
     "area_mean": 963.7,
     "concavity_mean": 0.1855,
@@ -3438,7 +3247,6 @@
     "fractal_dimension_worst": 0.07738
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.82,
     "area_mean": 559.2,
     "concavity_mean": 0.1063,
@@ -3456,7 +3264,6 @@
     "fractal_dimension_worst": 0.1071
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.83,
     "area_mean": 577.9,
     "concavity_mean": 0.09366,
@@ -3474,7 +3281,6 @@
     "fractal_dimension_worst": 0.1151
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.86,
     "area_mean": 1308,
     "concavity_mean": 0.2085,
@@ -3492,7 +3298,6 @@
     "fractal_dimension_worst": 0.07569
   },
   {
-    "diagnosis": 1,
     "texture_mean": 20.99,
     "area_mean": 1491,
     "concavity_mean": 0.2195,
@@ -3510,7 +3315,6 @@
     "fractal_dimension_worst": 0.08858
   },
   {
-    "diagnosis": 1,
     "texture_mean": 21,
     "area_mean": 918.6,
     "concavity_mean": 0.1508,
@@ -3528,7 +3332,6 @@
     "fractal_dimension_worst": 0.07599
   },
   {
-    "diagnosis": 1,
     "texture_mean": 21.02,
     "area_mean": 994,
     "concavity_mean": 0.3189,
@@ -3546,7 +3349,6 @@
     "fractal_dimension_worst": 0.1198
   },
   {
-    "diagnosis": 1,
     "texture_mean": 21.08,
     "area_mean": 803.1,
     "concavity_mean": 0.1522,
@@ -3564,7 +3366,6 @@
     "fractal_dimension_worst": 0.1048
   },
   {
-    "diagnosis": 1,
     "texture_mean": 21.24,
     "area_mean": 1320,
     "concavity_mean": 0.2188,
@@ -3582,7 +3383,6 @@
     "fractal_dimension_worst": 0.08999
   },
   {
-    "diagnosis": 1,
     "texture_mean": 21.25,
     "area_mean": 1203,
     "concavity_mean": 0.1974,
