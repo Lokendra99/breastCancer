@@ -1,19 +1,20 @@
 [
 	{
-	    "texture_mean_normaiised": 0.1966,
-	    "area_mean_normalised": 0.5096,
-	    "concavity_mean_normalised": 0.1155,
-	    "symmetry_mean_norm": 0.1928,
-	    "fractal_dimension_mean_norm": 0.05096,
-	    "texture_se_norm": 0.06863,
-	    "area_se_norm": 0.07485,
-	    "smoothness_se_norm": 0.004536,
-	    "concavity_se_norm": 0.02645,
-	    "symmetry_se_norm": 0.02193,
-	    "fractal_dimension_se_norm": 0.001589,
-	    "smoothness_worst": 0.1054,
-	    "concavity_worst_norm": 0.2606,
-	    "symmetry_worst_norm": 0.3055,
-	    "fractal_dimension_worst_norm": 0.05933
-	}
+    "diagnosis": 1,
+    "texture_mean_normaiised": 0.2038,
+    "area_mean_normalised": 0.15444,
+    "concavity_mean_normalised": 0.2414,
+    "symmetry_mean_norm": 0.2597,
+    "fractal_dimension_mean_norm": 0.09744,
+    "texture_se_norm": 0.1156,
+    "area_se_norm": 0.02723,
+    "smoothness_se_norm": 0.00911,
+    "concavity_se_norm": 0.05661,
+    "symmetry_se_norm": 0.05963,
+    "fractal_dimension_se_norm": 0.009208,
+    "smoothness_worst": 0.2098,
+    "concavity_worst_norm": 0.6869,
+    "symmetry_worst_norm": 0.6638,
+    "fractal_dimension_worst_norm": 0.173
+  }
 ]
