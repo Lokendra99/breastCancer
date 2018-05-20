@@ -1,6 +1,5 @@
 [
-	{
-    "diagnosis": 1,
+  {
     "texture_mean_normaiised": 0.2038,
     "area_mean_normalised": 0.15444,
     "concavity_mean_normalised": 0.2414,
